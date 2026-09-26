@@ -1,0 +1,1801 @@
+﻿customer_id,signup_date,city,country,device_type,operating_system,referral_source,funnel_stage_reached, order_value ,discount_used,last_active_timestamp,session_duration_seconds
+CUST-00268,27/05/2024,Chicago,United States,Mobile,Android,Affiliate,Viewed,,No,31/05/2024 18:23,404
+CUST-01213,04/04/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Purchased,418.06 ,No,05/04/2024 12:30,744
+CUST-01060,23/02/2024,New York,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,23/02/2024 05:52,826
+CUST-01080,26/07/2024,Melbourne,Australia,Mobile,iOS,Referral,Checkout,,No,09/08/2024 18:48,77
+CUST-01553,20/01/2024,Los Angeles,United States,Desktop,macOS,Facebook Ads,Viewed,,No,27/01/2024 11:49,965
+CUST-00761,26/07/2024,Melbourne,Australia,Desktop,Windows,Affiliate,Added to Cart,,No,01/08/2024 02:27,1139
+CUST-00169,13/02/2024,Los Angeles,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,27/02/2024 03:02,505
+CUST-00655,22/11/2024,Sydney,Australia,Mobile,iOS,Affiliate,Viewed,,No,02/12/2024 05:15,546
+CUST-01462,24/05/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,05/06/2024 04:03,842
+CUST-00614,24/02/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,25/02/2024 15:44,1796
+CUST-01750,29/09/2024,Toronto,Canada,Desktop,Windows,Affiliate,Viewed,,No,15/10/2024 07:08,799
+CUST-00100,15/12/2024,London,United Kingdom,Tablet,Android,Affiliate,Purchased,360.26 ,Yes,01/01/2025 08:38,754
+CUST-00013,01/10/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Added to Cart,,No,20/10/2024 01:20,1727
+CUST-01585,29/07/2024,Dublin,Ireland,Tablet,Android,Facebook Ads,Added to Cart,,No,09/08/2024 14:56,439
+CUST-00017,06/09/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Added to Cart,,No,22/06/2024 14:41,558
+CUST-01051,02/02/2024,London,United Kingdom,Tablet,Android,Google Search,Viewed,,No,11/02/2024 06:06,571
+CUST-00448,09/06/2024,New York,United States,Tablet,Android,Google Search,Viewed,,No,22/06/2024 19:31,1615
+CUST-01673,30/03/2024,Sydney,Australia,Mobile,Android,Referral,Viewed,,No,18/04/2024 09:28,196
+CUST-01103,08/12/2024,London,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,16/08/2024 20:23,782
+CUST-01352,04/11/2024,Leeds,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,15/11/2024 08:57,1614
+CUST-01416,24/10/2024,London,United Kingdom,Tablet,iPadOS,Direct,Checkout,,No,03/11/2024 02:45,1209
+CUST-00387,16/10/2024,Berlin,Germany,Mobile,Android,Email Campaign,Added to Cart,,No,17/10/2024 20:52,292
+CUST-00490,19/12/2024,Chicago,United States,Mobile,iOS,Affiliate,Viewed,,No,31/12/2024 21:34,815
+CUST-01571,05/01/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,16/01/2024 05:38,392
+CUST-00694,09/05/2024,New York,United States,Mobile,iOS,Instagram Ads,Viewed,,No,24/05/2024 18:18,1186
+CUST-00633,15/03/2024,Birmingham,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,22/03/2024 03:09,1024
+CUST-00257,26/03/2024,London,United Kingdom,Mobile,Android,Direct,Purchased,374.53 ,Yes,14/04/2024 17:28,1555
+CUST-00156,29/03/2024,Berlin,Germany,Desktop,Windows,Google Search,Added to Cart,,No,09/04/2024 04:12,1165
+CUST-01216,26/12/2024,Sydney,Australia,Tablet,Android,Email Campaign,Viewed,,No,01/01/2025 00:05,1734
+CUST-00588,13/03/2024,Toronto,Canada,Mobile,Android,Email Campaign,Viewed,,No,17/03/2024 15:31,892
+CUST-00813,21/06/2024,Melbourne,Australia,Mobile,Android,Email Campaign,Viewed,,No,03/07/2024 06:28,977
+CUST-00125,04/10/2024,Berlin,Germany,Mobile,iOS,Email Campaign,Added to Cart,,No,13/10/2024 15:11,1370
+CUST-01370,18/07/2024,Manchester,United Kingdom,Desktop,macOS,Affiliate,Purchased,363.15 ,Yes,20/07/2024 22:47,1650
+CUST-00797,04/03/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Checkout,,No,06/04/2024 08:32,192
+CUST-01709,13/09/2024,Melbourne,Australia,Mobile,iOS,Facebook Ads,Added to Cart,,No,01/10/2024 04:37,
+CUST-00839,29/11/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,11/12/2024 21:38,1229
+CUST-01261,30/03/2024,Sydney,Australia,Mobile,Android,Email Campaign,Checkout,,No,14/04/2024 23:18,1683
+CUST-00220,11/04/2024,New York,United States,Tablet,Android,Google Search,Purchased,411.01 ,Yes,12/04/2024 04:10,1385
+CUST-01106,21/01/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,22/01/2024 06:24,801
+CUST-00880,11/08/2024,New York,United States,Desktop,Windows,Email Campaign,Checkout,,No,23/08/2024 02:08,498
+CUST-00931,07/02/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Viewed,,No,07/02/2024 21:44,
+CUST-00315,05/05/2024,Toronto,Canada,Mobile,iOS,Affiliate,Added to Cart,,No,15/05/2024 03:53,600
+CUST-01452,20/07/2024,New York,United States,Desktop,macOS,Google Search,Viewed,,No,03/08/2024 03:48,429
+CUST-00570,16/03/2024,Berlin,Germany,Mobile,Android,Facebook Ads,Viewed,,No,23/03/2024 11:13,668
+CUST-01780,30/03/2024,Toronto,Canada,Tablet,iPadOS,Direct,Viewed,,No,17/04/2024 15:39,661
+CUST-01738,26/09/2024,Melbourne,Australia,Desktop,macOS,Facebook Ads,Viewed,,No,28/09/2024 13:45,734
+CUST-01578,09/02/2024,Toronto,Canada,Desktop,macOS,Direct,Added to Cart,,No,10/09/2024 01:59,
+CUST-00721,21/07/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,06/08/2024 07:56,669
+CUST-01069,29/09/2024,Toronto,Canada,Mobile,Android,Referral,Viewed,,No,16/10/2024 00:39,
+CUST-00591,18/08/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,29/08/2024 19:34,444
+CUST-00645,26/04/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,06/05/2024 06:46,271
+CUST-00083,27/11/2024,Chicago,United States,Mobile,Android,Affiliate,Viewed,,No,15/12/2024 16:11,304
+CUST-00738,03/04/2024,Chicago,United States,Tablet,Android,Referral,Checkout,,No,13/04/2024 03:45,389
+CUST-00455,07/09/2024,Los Angeles,United States,Desktop,Windows,Referral,Checkout,,No,28/07/2024 10:06,1016
+CUST-00532,15/08/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,27/08/2024 18:22,1641
+CUST-00515,08/01/2024,Sydney,Australia,Mobile,iOS,Google Search,Added to Cart,,No,12/08/2024 16:49,395
+CUST-00849,23/09/2024,London,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,08/10/2024 06:46,1728
+CUST-00150,12/10/2024,New York,United States,Tablet,iPadOS,Email Campaign,Added to Cart,,No,23/10/2024 04:08,190
+CUST-00712,29/09/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Viewed,,No,16/10/2024 21:57,96
+CUST-01275,12/12/2024,London,United Kingdom,Tablet,iPadOS,Google Search,Viewed,,No,15/12/2024 01:09,
+CUST-01628,26/03/2024,Dublin,Ireland,Desktop,macOS,Email Campaign,Viewed,,No,14/04/2024 01:19,1149
+CUST-00860,12/10/2024,London,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,18/10/2024 18:34,776
+CUST-00001,20/05/2024,Manchester,United Kingdom,Mobile,Android,Affiliate,Purchased,116.21 ,Yes,04/06/2024 14:54,1672
+CUST-00241,21/01/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Checkout,,No,22/01/2024 09:41,1067
+CUST-00196,07/04/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Purchased,81.81 ,Yes,13/04/2024 20:54,
+CUST-00800,17/11/2024,Melbourne,Australia,Mobile,iOS,Direct,Purchased,77.36 ,Yes,18/11/2024 16:04,
+CUST-01007,14/05/2024,Leeds,United Kingdom,Tablet,Android,Direct,Added to Cart,,No,29/05/2024 18:49,385
+CUST-01139,30/06/2024,New York,United States,Tablet,Android,Affiliate,Viewed,,No,11/07/2024 11:28,1108
+CUST-01075,12/10/2024,Manchester,United Kingdom,Mobile,iOS,Affiliate,Purchased,140.61 ,No,01/11/2024 12:30,189
+CUST-01276,11/11/2024,Manchester,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,22/11/2024 04:06,1730
+CUST-00075,25/06/2024,Los Angeles,United States,Tablet,iPadOS,Referral,Viewed,,No,08/07/2024 09:39,
+CUST-01487,13/11/2024,Los Angeles,United States,Desktop,macOS,Google Search,Viewed,,No,24/11/2024 23:18,587
+CUST-00973,25/03/2024,London,United Kingdom,Mobile,iOS,Referral,Checkout,,No,12/04/2024 11:25,1383
+CUST-00990,08/11/2024,Toronto,Canada,Tablet,Android,Google Search,Viewed,,No,26/11/2024 19:22,1072
+CUST-00119,05/10/2024,Manchester,United Kingdom,Tablet,Android,Direct,Added to Cart,,No,15/10/2024 13:05,
+CUST-01470,04/10/2024,New York,United States,Tablet,Android,Referral,Viewed,,No,17/10/2024 18:44,1239
+CUST-00695,29/08/2024,Berlin,Germany,Mobile,iOS,Referral,Viewed,,No,30/08/2024 12:07,1757
+CUST-01171,18/11/2024,Paris,France,Mobile,Android,Google Search,Added to Cart,,No,04/12/2024 09:24,1499
+CUST-01583,20/06/2024,Paris,France,Mobile,Android,Affiliate,Viewed,,No,22/06/2024 06:12,1764
+CUST-00642,05/08/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,09/05/2024 19:12,553
+CUST-00252,15/04/2024,Toronto,Canada,Tablet,iPadOS,Direct,Viewed,,No,30/04/2024 18:51,1129
+CUST-01116,07/03/2024,Sydney,Australia,Desktop,macOS,Facebook Ads,Purchased,164.83 ,Yes,17/03/2024 11:19,211
+CUST-01409,18/05/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,24/05/2024 04:21,329
+CUST-01754,14/09/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,20/09/2024 20:08,420
+CUST-00668,27/05/2024,Melbourne,Australia,Mobile,Android,Google Search,Added to Cart,,No,02/06/2024 07:58,1056
+CUST-00381,13/01/2024,New York,United States,Tablet,iPadOS,Email Campaign,Checkout,,No,14/01/2024 01:37,1390
+CUST-00863,25/04/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,09/05/2024 16:33,1790
+CUST-00450,10/03/2024,New York,United States,Desktop,Windows,Direct,Viewed,,No,11/10/2024 19:34,112
+CUST-01219,17/06/2024,Los Angeles,United States,Desktop,Windows,Email Campaign,Viewed,,No,28/06/2024 11:08,1086
+CUST-00035,28/06/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Purchased,221.00 ,No,08/07/2024 06:09,1258
+CUST-00781,25/12/2024,New York,United States,Tablet,iPadOS,Instagram Ads,Viewed,,No,04/01/2025 07:28,365
+CUST-01244,06/12/2024,New York,United States,Desktop,Windows,Direct,Viewed,,No,19/12/2024 03:37,1328
+CUST-01644,03/03/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Purchased,398.98 ,No,04/03/2024 13:27,1510
+CUST-00994,25/03/2024,Chicago,United States,Mobile,iOS,Affiliate,Viewed,,No,02/04/2024 16:29,1221
+CUST-01303,17/01/2024,Dublin,Ireland,Mobile,iOS,Affiliate,Added to Cart,,No,21/01/2024 19:10,
+CUST-01270,23/01/2024,Birmingham,United Kingdom,Desktop,macOS,Email Campaign,Added to Cart,,No,10/02/2024 15:37,651
+CUST-01334,20/10/2024,Los Angeles,United States,Mobile,iOS,Referral,Viewed,,No,05/11/2024 10:05,1752
+CUST-01266,30/07/2024,Los Angeles,United States,Tablet,Android,Affiliate,Purchased,151.25 ,No,31/07/2024 06:57,1558
+CUST-00052,05/10/2024,Chicago,United States,Mobile,Android,Instagram Ads,Viewed,,No,12/10/2024 07:44,805
+CUST-00595,14/07/2024,Berlin,Germany,Mobile,Android,Email Campaign,Viewed,,No,27/07/2024 22:10,
+CUST-00969,15/06/2024,New York,United States,Tablet,Android,Google Search,Viewed,,No,15/06/2024 22:55,256
+CUST-01576,01/09/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,07/09/2024 20:25,375
+CUST-01630,29/09/2024,Toronto,Canada,Mobile,Android,Instagram Ads,Added to Cart,,No,01/10/2024 06:22,510
+CUST-01119,20/07/2024,Toronto,Canada,Mobile,Android,Direct,Viewed,,No,28/07/2024 09:45,1577
+CUST-00272,21/02/2024,New York,United States,Mobile,iOS,Affiliate,Checkout,,No,03/03/2024 02:50,777
+CUST-01393,28/01/2024,New York,United States,Mobile,iOS,Direct,Added to Cart,,No,06/02/2024 03:48,1739
+CUST-01020,25/07/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,09/08/2024 13:48,1571
+CUST-01686,09/05/2024,Leeds,United Kingdom,Desktop,macOS,Facebook Ads,Purchased,409.70 ,Yes,14/05/2024 18:44,1066
+CUST-01208,21/03/2024,Dublin,Ireland,Tablet,Android,Instagram Ads,Viewed,,No,28/03/2024 13:29,363
+CUST-00264,12/02/2024,Leeds,United Kingdom,Mobile,iOS,Referral,Purchased,171.49 ,No,08/12/2024 15:51,1215
+CUST-00290,10/12/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Viewed,,No,01/11/2024 03:28,618
+CUST-00199,20/10/2024,Los Angeles,United States,Mobile,Android,Direct,Viewed,,No,09/11/2024 14:34,448
+CUST-00131,04/07/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Added to Cart,,No,25/04/2024 14:52,448
+CUST-00054,01/12/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Viewed,,No,08/12/2024 05:37,1570
+CUST-00696,02/03/2024,London,United Kingdom,Desktop,macOS,Facebook Ads,Viewed,,No,15/03/2024 04:02,663
+CUST-01769,22/07/2024,Toronto,Canada,Desktop,macOS,Google Search,Viewed,,No,05/08/2024 03:14,113
+CUST-00547,11/11/2024,Los Angeles,United States,Desktop,macOS,Facebook Ads,Added to Cart,,No,11/11/2024 20:45,1098
+CUST-00359,12/11/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,25/11/2024 01:40,1689
+CUST-00090,17/08/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Checkout,,No,24/08/2024 01:24,874
+CUST-00345,20/10/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Added to Cart,,No,02/11/2024 22:04,1359
+CUST-01022,16/11/2024,Chicago,United States,Mobile,iOS,Affiliate,Viewed,,No,22/11/2024 21:06,1226
+CUST-01428,16/03/2024,Manchester,United Kingdom,Tablet,Android,Direct,Viewed,,No,28/03/2024 16:59,1459
+CUST-01101,17/01/2024,London,United Kingdom,Tablet,Android,Email Campaign,Added to Cart,,No,24/01/2024 11:48,1571
+CUST-01035,14/05/2024,Dublin,Ireland,Tablet,Android,Facebook Ads,Viewed,,No,20/05/2024 04:19,538
+CUST-00467,09/12/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Added to Cart,,No,17/12/2024 13:12,55
+CUST-00240,23/04/2024,Chicago,United States,Desktop,macOS,Email Campaign,Added to Cart,,No,07/05/2024 13:46,1271
+CUST-00057,05/10/2024,London,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,30/05/2024 19:43,883
+CUST-00787,17/10/2024,London,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,22/10/2024 11:30,331
+CUST-00502,07/01/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Viewed,,No,09/01/2024 00:10,1038
+CUST-01430,16/04/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Added to Cart,,No,22/04/2024 11:55,1532
+CUST-00300,29/03/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,30/03/2024 21:46,868
+CUST-00814,10/12/2024,Chicago,United States,Desktop,macOS,Referral,Viewed,,No,17/12/2024 16:50,1146
+CUST-00525,29/10/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Viewed,,No,07/11/2024 05:30,311
+CUST-00382,20/07/2024,Chicago,United States,Tablet,Android,Facebook Ads,Viewed,,No,04/08/2024 13:04,597
+CUST-01494,03/12/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,18/12/2024 15:08,1371
+CUST-01547,05/06/2024,Toronto,Canada,Desktop,Windows,Referral,Added to Cart,,No,19/06/2024 08:14,535
+CUST-00206,07/09/2024,Birmingham,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,26/09/2024 22:37,598
+CUST-01618,11/06/2024,Leeds,United Kingdom,Mobile,iOS,Affiliate,Checkout,,No,20/06/2024 10:09,322
+CUST-01433,22/11/2024,London,United Kingdom,Mobile,iOS,Direct,Viewed,,No,07/12/2024 19:47,1157
+CUST-01467,18/09/2024,Toronto,Canada,Desktop,Windows,Direct,Checkout,,No,29/09/2024 04:25,791
+CUST-01617,02/05/2024,Melbourne,Australia,Desktop,Windows,Affiliate,Checkout,,No,12/05/2024 16:20,733
+CUST-00124,31/07/2024,London,United Kingdom,Tablet,Android,Direct,Viewed,,No,06/08/2024 02:37,107
+CUST-01545,17/04/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,21/04/2024 08:20,1623
+CUST-00560,24/04/2024,New York,United States,Desktop,Windows,Facebook Ads,Viewed,,No,12/05/2024 16:39,1701
+CUST-01678,04/11/2024,New York,United States,Mobile,iOS,Facebook Ads,Purchased,19.97 ,No,30/04/2024 23:50,1514
+CUST-00982,03/04/2024,New York,United States,Tablet,Android,Direct,Added to Cart,,No,19/04/2024 07:43,1699
+CUST-00566,15/08/2024,Chicago,United States,Tablet,iPadOS,Google Search,Added to Cart,,No,01/09/2024 19:56,1062
+CUST-01429,26/04/2024,Los Angeles,United States,Mobile,Android,Direct,Viewed,,No,03/05/2024 17:15,1647
+CUST-01800,22/04/2024,Berlin,Germany,Tablet,Android,Referral,Viewed,,No,06/05/2024 00:41,1598
+CUST-00510,10/03/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,30/03/2024 10:05,779
+CUST-01289,14/03/2024,Leeds,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,29/03/2024 11:24,1098
+CUST-00262,24/12/2024,Leeds,United Kingdom,Tablet,Android,Direct,Viewed,,No,13/01/2025 18:53,980
+CUST-00023,23/08/2024,New York,United States,Mobile,Android,Facebook Ads,Viewed,,No,10/09/2024 22:43,1328
+CUST-01314,02/07/2024,Leeds,United Kingdom,Tablet,Android,Google Search,Viewed,,No,19/07/2024 17:11,51
+CUST-01307,03/11/2024,London,United Kingdom,Mobile,Android,Google Search,Added to Cart,,No,13/11/2024 17:23,149
+CUST-00711,09/12/2024,London,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,19/12/2024 16:37,243
+CUST-00392,10/01/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,30/01/2024 02:37,36
+CUST-00985,27/06/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Checkout,,No,09/07/2024 14:56,1592
+CUST-00389,18/05/2024,Dublin,Ireland,Desktop,macOS,Google Search,Added to Cart,,No,25/05/2024 19:11,467
+CUST-01426,08/06/2024,New York,United States,Desktop,Windows,Referral,Viewed,,No,11/08/2024 16:39,625
+CUST-01654,26/09/2024,Berlin,Germany,Mobile,Android,Email Campaign,Checkout,,No,29/09/2024 20:31,1007
+CUST-01799,26/04/2024,New York,United States,Desktop,Windows,Facebook Ads,Viewed,,No,14/05/2024 20:15,687
+CUST-00750,21/01/2024,Toronto,Canada,Mobile,Android,Email Campaign,Viewed,,No,27/01/2024 15:38,459
+CUST-01189,04/05/2024,Dublin,Ireland,Mobile,Android,Referral,Viewed,,No,21/05/2024 17:16,1050
+CUST-00580,27/10/2024,Birmingham,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,10/11/2024 13:21,1042
+CUST-00520,06/11/2024,London,United Kingdom,Desktop,macOS,Direct,Viewed,,No,14/11/2024 22:38,1796
+CUST-01730,19/11/2024,New York,United States,Desktop,Windows,Instagram Ads,Added to Cart,,No,07/12/2024 23:39,1360
+CUST-01259,25/06/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,07/07/2024 09:32,1301
+CUST-00473,28/01/2024,New York,United States,Mobile,Android,Direct,Viewed,,No,18/02/2024 06:08,1751
+CUST-00398,03/02/2024,Chicago,United States,Mobile,Android,Direct,Added to Cart,,No,18/02/2024 18:14,834
+CUST-00669,21/01/2024,Leeds,United Kingdom,Mobile,iOS,Referral,Viewed,,No,27/01/2024 19:39,1716
+CUST-00067,03/08/2024,London,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,08/08/2024 12:09,1364
+CUST-01028,29/10/2024,Los Angeles,United States,Desktop,Windows,Google Search,Viewed,,No,31/10/2024 18:40,904
+CUST-00265,26/12/2024,Dublin,Ireland,Desktop,Windows,Affiliate,Viewed,,No,31/12/2024 23:29,842
+CUST-00589,25/03/2024,Sydney,Australia,Tablet,iPadOS,Referral,Added to Cart,,No,06/04/2024 11:13,1237
+CUST-01088,16/02/2024,Toronto,Canada,Mobile,iOS,Google Search,Viewed,,No,20/02/2024 03:13,1538
+CUST-00743,30/10/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Added to Cart,,No,31/10/2024 21:06,597
+CUST-01239,23/07/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Checkout,,No,26/07/2024 13:20,1128
+CUST-00886,12/08/2024,Toronto,Canada,Tablet,iPadOS,Direct,Purchased,121.73 ,No,18/08/2024 16:12,806
+CUST-00735,26/10/2024,Melbourne,Australia,Mobile,Android,Affiliate,Viewed,,No,09/11/2024 09:09,185
+CUST-01434,19/08/2024,Toronto,Canada,Desktop,Windows,Direct,Purchased,339.77 ,Yes,22/08/2024 12:44,465
+CUST-01445,27/03/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Purchased,47.79 ,No,30/03/2024 10:29,884
+CUST-00440,25/06/2024,Paris,France,Mobile,Android,Affiliate,Viewed,,No,14/07/2024 11:57,868
+CUST-01690,01/12/2024,New York,United States,Mobile,Android,Referral,Viewed,,No,05/12/2024 15:22,1712
+CUST-00533,26/11/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Added to Cart,,No,11/12/2024 13:47,1619
+CUST-01461,24/05/2024,Dublin,Ireland,Desktop,Windows,Facebook Ads,Viewed,,No,05/06/2024 20:39,1129
+CUST-01026,12/01/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,18/01/2024 04:00,1329
+CUST-00223,03/04/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Viewed,,No,22/04/2024 01:08,135
+CUST-00322,10/08/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Viewed,,No,16/10/2024 21:21,238
+CUST-01102,17/12/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Purchased,262.69 ,Yes,26/12/2024 07:38,1136
+CUST-01323,17/07/2024,Berlin,Germany,Desktop,Windows,Facebook Ads,Added to Cart,,No,31/07/2024 02:03,1671
+CUST-00890,10/04/2024,Toronto,Canada,Desktop,Windows,Direct,Purchased,99.60 ,Yes,19/04/2024 05:23,150
+CUST-00594,23/02/2024,Sydney,Australia,Mobile,Android,Referral,Viewed,,No,06/03/2024 12:15,448
+CUST-00952,22/12/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,10/01/2025 15:14,742
+CUST-00734,03/04/2024,New York,United States,Tablet,iPadOS,Google Search,Added to Cart,,No,08/04/2024 00:41,635
+CUST-01481,23/12/2024,New York,United States,Mobile,iOS,Affiliate,Viewed,,No,12/01/2025 13:45,625
+CUST-00908,12/04/2024,Manchester,United Kingdom,Mobile,Android,Direct,Viewed,,No,18/12/2024 19:06,
+CUST-00866,18/12/2024,Manchester,United Kingdom,Tablet,iPadOS,Email Campaign,Added to Cart,,No,01/01/2025 07:27,1232
+CUST-00313,17/07/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Checkout,,No,02/08/2024 13:53,914
+CUST-00197,11/02/2024,Los Angeles,United States,Desktop,Windows,Referral,Added to Cart,,No,19/02/2024 14:14,554
+CUST-00159,06/05/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Viewed,,No,08/05/2024 22:50,1426
+CUST-00612,30/07/2024,Manchester,United Kingdom,Tablet,Android,Referral,Added to Cart,,No,16/08/2024 10:11,621
+CUST-00929,19/12/2024,Chicago,United States,Mobile,iOS,Referral,Purchased,124.26 ,No,28/12/2024 09:09,416
+CUST-00379,14/10/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Added to Cart,,No,22/10/2024 16:15,670
+CUST-00092,03/07/2024,Dublin,Ireland,Tablet,Android,Referral,Viewed,,No,16/07/2024 15:27,48
+CUST-01293,05/03/2024,Manchester,United Kingdom,Mobile,iOS,Referral,Checkout,,No,05/05/2024 01:11,1002
+CUST-01798,13/04/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Viewed,,No,22/04/2024 18:47,1198
+CUST-00247,08/10/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,22/10/2024 23:47,411
+CUST-00717,18/12/2024,Paris,France,Mobile,iOS,Direct,Viewed,,No,26/12/2024 22:45,
+CUST-00924,03/04/2024,Sydney,Australia,Desktop,Windows,Referral,Viewed,,No,18/03/2024 02:25,1796
+CUST-00936,21/03/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,01/04/2024 09:42,1232
+CUST-01527,16/01/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,26/01/2024 17:20,1763
+CUST-01469,10/07/2024,Chicago,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,10/10/2024 08:13,148
+CUST-00816,07/01/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,21/01/2024 16:25,299
+CUST-01152,27/07/2024,Chicago,United States,Mobile,Android,Referral,Added to Cart,,No,05/08/2024 10:53,240
+CUST-01310,27/04/2024,Birmingham,United Kingdom,Tablet,Android,Instagram Ads,Purchased,321.74 ,Yes,15/05/2024 08:57,569
+CUST-01681,01/12/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,08/12/2024 08:57,
+CUST-01367,21/01/2024,Toronto,Canada,Tablet,Android,Affiliate,Added to Cart,,No,01/02/2024 20:41,1260
+CUST-00794,09/11/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,26/11/2024 08:34,1707
+CUST-00770,23/05/2024,Paris,France,Desktop,macOS,Direct,Viewed,,No,23/05/2024 16:02,1214
+CUST-01052,21/09/2024,Chicago,United States,Mobile,iOS,Direct,Viewed,,No,05/10/2024 06:48,1441
+CUST-01300,25/01/2024,Sydney,Australia,Mobile,iOS,Google Search,Viewed,,No,08/02/2024 04:52,355
+CUST-01234,26/07/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Added to Cart,,No,30/07/2024 12:20,276
+CUST-00441,03/07/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,07/07/2024 01:11,1026
+CUST-01280,29/02/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,01/03/2024 13:48,1752
+CUST-01625,09/05/2024,Chicago,United States,Mobile,iOS,Instagram Ads,Added to Cart,,No,16/05/2024 15:31,
+CUST-00759,03/06/2024,Paris,France,Tablet,Android,Affiliate,Viewed,,No,12/06/2024 11:57,1757
+CUST-01157,21/10/2024,New York,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,05/11/2024 12:24,103
+CUST-00804,17/07/2024,Chicago,United States,Desktop,macOS,Direct,Added to Cart,,No,21/07/2024 17:52,1620
+CUST-01111,19/06/2024,London,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,04/07/2024 13:02,1466
+CUST-00225,01/12/2024,Paris,France,Mobile,Android,Email Campaign,Added to Cart,,No,16/12/2024 23:26,1328
+CUST-00160,19/11/2024,Manchester,United Kingdom,Mobile,Android,Google Search,Viewed,,No,01/12/2024 02:35,607
+CUST-00050,28/02/2024,Manchester,United Kingdom,Tablet,iPadOS,Email Campaign,Checkout,,No,11/03/2024 10:48,1055
+CUST-01143,05/06/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Viewed,,No,13/06/2024 09:26,1621
+CUST-01666,20/11/2024,Berlin,Germany,Tablet,iPadOS,Instagram Ads,Viewed,,No,26/11/2024 22:29,458
+CUST-01195,10/03/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,23/03/2024 11:05,1282
+CUST-01369,05/11/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,23/11/2024 17:19,423
+CUST-01674,10/04/2024,New York,United States,Mobile,iOS,Email Campaign,Viewed,,No,22/04/2024 17:03,1665
+CUST-00479,11/07/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Checkout,,No,15/07/2024 10:28,
+CUST-00074,17/10/2024,London,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,27/10/2024 07:42,574
+CUST-01638,16/05/2024,Berlin,Germany,Mobile,iOS,Instagram Ads,Viewed,,No,29/05/2024 20:20,1483
+CUST-01165,08/04/2024,Birmingham,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,07/08/2024 10:13,294
+CUST-01365,18/05/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,29/05/2024 00:32,
+CUST-00137,16/05/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,03/06/2024 05:27,1570
+CUST-01247,10/01/2024,Berlin,Germany,Tablet,Android,Direct,Viewed,,No,11/10/2024 12:03,1039
+CUST-01439,27/04/2024,Los Angeles,United States,Tablet,iPadOS,Instagram Ads,Viewed,,No,03/05/2024 17:51,780
+CUST-01702,29/10/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,18/11/2024 20:44,442
+CUST-00913,19/09/2024,Birmingham,United Kingdom,Mobile,Android,Referral,Viewed,,No,03/10/2024 14:39,674
+CUST-01419,03/10/2024,Manchester,United Kingdom,Tablet,Android,Google Search,Viewed,,No,23/10/2024 07:02,1235
+CUST-01245,25/04/2024,Sydney,Australia,Mobile,Android,Direct,Viewed,,No,28/04/2024 00:45,750
+CUST-00217,02/07/2024,Toronto,Canada,Mobile,iOS,Instagram Ads,Added to Cart,,No,13/07/2024 00:51,1637
+CUST-00620,31/10/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Purchased,378.38 ,No,17/11/2024 00:49,702
+CUST-01110,28/03/2024,Paris,France,Mobile,Android,Referral,Viewed,,No,04/04/2024 21:27,1045
+CUST-01683,22/07/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Checkout,,No,28/07/2024 02:50,713
+CUST-00623,30/03/2024,Chicago,United States,Desktop,Windows,Affiliate,Added to Cart,,No,11/04/2024 17:39,1643
+CUST-00587,17/10/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,21/10/2024 13:08,567
+CUST-00102,25/06/2024,Birmingham,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,28/06/2024 16:40,723
+CUST-00216,22/02/2024,Los Angeles,United States,Mobile,iOS,Facebook Ads,Viewed,,No,09/03/2024 01:57,289
+CUST-01743,19/04/2024,Los Angeles,United States,Mobile,Android,Referral,Added to Cart,,No,20/04/2024 16:28,644
+CUST-00141,22/07/2024,New York,United States,Tablet,iPadOS,Referral,Added to Cart,,No,05/08/2024 23:52,1649
+CUST-00034,10/03/2024,London,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,26/03/2024 17:48,54
+CUST-01175,27/02/2024,Toronto,Canada,Desktop,macOS,Instagram Ads,Viewed,,No,14/03/2024 07:40,429
+CUST-00480,14/05/2024,Dublin,Ireland,Mobile,Android,Google Search,Purchased,24.13 ,Yes,21/05/2024 11:20,1672
+CUST-00458,26/11/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,06/12/2024 07:30,383
+CUST-00481,26/09/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,08/10/2024 06:41,894
+CUST-01257,10/08/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,12/10/2024 22:01,17
+CUST-01162,03/04/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,09/04/2024 11:56,235
+CUST-00798,06/03/2024,Berlin,Germany,Tablet,iPadOS,Facebook Ads,Purchased,346.71 ,Yes,14/03/2024 15:52,1590
+CUST-01668,19/01/2024,New York,United States,Mobile,iOS,Referral,Added to Cart,,No,03/02/2024 01:57,239
+CUST-00755,31/07/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Viewed,,No,16/08/2024 23:44,841
+CUST-00893,11/10/2024,New York,United States,Tablet,iPadOS,Google Search,Viewed,,No,19/10/2024 20:08,511
+CUST-01530,19/06/2024,Birmingham,United Kingdom,Tablet,iPadOS,Google Search,Purchased,24.04 ,No,25/06/2024 20:36,1221
+CUST-00693,05/08/2024,Dublin,Ireland,Mobile,Android,Direct,Added to Cart,,No,12/08/2024 23:47,
+CUST-01432,23/12/2024,New York,United States,Tablet,Android,Google Search,Viewed,,No,07/01/2025 18:07,271
+CUST-00277,21/06/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Purchased,324.04 ,No,10/07/2024 13:21,1546
+CUST-00204,06/04/2024,Sydney,Australia,Tablet,iPadOS,Referral,Viewed,,No,13/04/2024 07:04,1179
+CUST-00207,19/10/2024,New York,United States,Mobile,Android,Instagram Ads,Viewed,,No,07/11/2024 17:48,32
+CUST-00144,19/10/2024,Toronto,Canada,Mobile,iOS,Google Search,Purchased,204.08 ,Yes,27/10/2024 10:58,1030
+CUST-01343,23/10/2024,Birmingham,United Kingdom,Tablet,iPadOS,Instagram Ads,Purchased,327.87 ,No,09/11/2024 13:20,1156
+CUST-00779,09/10/2024,Sydney,Australia,Mobile,iOS,Referral,Viewed,,No,26/10/2024 19:41,773
+CUST-01669,01/05/2024,Sydney,Australia,Tablet,iPadOS,Direct,Viewed,,No,10/05/2024 23:00,1394
+CUST-01044,16/05/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Added to Cart,,No,25/05/2024 03:34,523
+CUST-00785,18/06/2024,Toronto,Canada,Desktop,Windows,Direct,Added to Cart,,No,24/06/2024 18:14,531
+CUST-01230,17/09/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,21/09/2024 15:43,106
+CUST-00953,27/10/2024,Toronto,Canada,Mobile,Android,Google Search,Viewed,,No,09/11/2024 06:28,1627
+CUST-00505,11/03/2024,Los Angeles,United States,Mobile,Android,Google Search,Added to Cart,,No,30/03/2024 06:38,1626
+CUST-00540,23/04/2024,Manchester,United Kingdom,Mobile,iOS,Referral,Viewed,,No,04/05/2024 19:47,1144
+CUST-00756,15/05/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,27/05/2024 10:38,362
+CUST-00333,11/12/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Checkout,,No,18/12/2024 03:50,1107
+CUST-00728,23/10/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Purchased,57.25 ,No,02/11/2024 15:04,1426
+CUST-01151,05/06/2024,Sydney,Australia,Tablet,iPadOS,Direct,Purchased,399.89 ,No,13/06/2024 16:15,541
+CUST-00960,21/06/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,07/07/2024 06:39,101
+CUST-01011,04/06/2024,Dublin,Ireland,Mobile,iOS,Instagram Ads,Viewed,,No,24/06/2024 21:36,1121
+CUST-01379,22/07/2024,Birmingham,United Kingdom,Desktop,macOS,Google Search,Added to Cart,,No,31/07/2024 06:47,
+CUST-00406,10/01/2024,New York,United States,Mobile,iOS,Email Campaign,Viewed,,No,17/10/2024 03:47,1227
+CUST-01546,29/12/2024,New York,United States,Tablet,iPadOS,Email Campaign,Added to Cart,,No,15/01/2025 21:25,203
+CUST-00101,09/10/2024,London,United Kingdom,Mobile,Android,Email Campaign,Added to Cart,,No,17/10/2024 21:43,166
+CUST-01712,05/11/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,25/11/2024 22:31,1636
+CUST-00202,01/12/2024,Berlin,Germany,Mobile,iOS,Google Search,Checkout,,No,20/12/2024 16:40,988
+CUST-01742,30/01/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Viewed,,No,12/02/2024 23:27,291
+CUST-01488,05/11/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,08/11/2024 10:50,1124
+CUST-00521,15/09/2024,Berlin,Germany,Mobile,Android,Email Campaign,Viewed,,No,05/10/2024 09:09,513
+CUST-00039,13/07/2024,Berlin,Germany,Desktop,macOS,Google Search,Purchased,397.94 ,No,02/08/2024 17:14,1015
+CUST-00745,30/12/2024,Melbourne,Australia,Mobile,Android,Google Search,Purchased,309.79 ,Yes,19/01/2025 08:25,890
+CUST-01168,11/10/2024,Birmingham,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,22/10/2024 21:24,1652
+CUST-00184,08/02/2024,Leeds,United Kingdom,Tablet,iPadOS,Google Search,Added to Cart,,No,28/02/2024 02:47,902
+CUST-01064,15/06/2024,New York,United States,Mobile,iOS,Facebook Ads,Viewed,,No,29/06/2024 07:13,1530
+CUST-00672,22/04/2024,Berlin,Germany,Mobile,iOS,Referral,Viewed,,No,26/04/2024 12:07,1549
+CUST-01620,10/02/2024,New York,United States,Desktop,Windows,Affiliate,Viewed,,No,11/02/2024 18:33,192
+CUST-00616,28/01/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,01/02/2024 16:04,1259
+CUST-01306,02/10/2024,Manchester,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,04/10/2024 04:29,819
+CUST-00778,10/09/2024,New York,United States,Mobile,Android,Direct,Viewed,,No,16/09/2024 15:10,1004
+CUST-00408,07/10/2024,Paris,France,Mobile,iOS,Affiliate,Added to Cart,,No,18/10/2024 14:34,137
+CUST-01658,08/11/2024,Chicago,United States,Mobile,Android,Affiliate,Viewed,,No,18/11/2024 07:48,1402
+CUST-00266,27/07/2024,Dublin,Ireland,Mobile,Android,Referral,Added to Cart,,No,06/08/2024 04:25,1566
+CUST-01568,01/05/2024,New York,United States,Mobile,iOS,Google Search,Added to Cart,,No,15/05/2024 07:36,506
+CUST-01425,17/11/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,18/11/2024 17:19,1662
+CUST-00640,08/12/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Purchased,163.21 ,No,20/12/2024 07:30,1159
+CUST-00901,19/06/2024,New York,United States,Tablet,iPadOS,Direct,Added to Cart,,No,03/07/2024 10:38,721
+CUST-00431,07/02/2024,Paris,France,Mobile,Android,Referral,Purchased,54.25 ,No,06/07/2024 02:29,1066
+CUST-00189,17/10/2024,Leeds,United Kingdom,Tablet,iPadOS,Affiliate,Added to Cart,,No,30/10/2024 16:31,
+CUST-00846,24/03/2024,Dublin,Ireland,Tablet,Android,Google Search,Added to Cart,,No,02/04/2024 02:35,613
+CUST-00445,27/11/2024,Manchester,United Kingdom,Mobile,Android,Google Search,Checkout,,No,03/12/2024 15:14,1560
+CUST-00796,04/07/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,22/04/2024 10:46,340
+CUST-01413,19/04/2024,Toronto,Canada,Mobile,Android,Referral,Viewed,,No,30/04/2024 15:55,796
+CUST-01521,24/04/2024,Berlin,Germany,Tablet,iPadOS,Referral,Added to Cart,,No,05/05/2024 12:13,1515
+CUST-00771,06/12/2024,Berlin,Germany,Tablet,Android,Affiliate,Added to Cart,,No,08/12/2024 16:40,1579
+CUST-01214,29/05/2024,Berlin,Germany,Mobile,Android,Referral,Purchased,271.15 ,No,02/06/2024 21:09,541
+CUST-00799,04/06/2024,London,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,10/04/2024 13:39,612
+CUST-01724,18/04/2024,Toronto,Canada,Mobile,iOS,Referral,Added to Cart,,No,24/04/2024 04:28,1000
+CUST-00016,05/04/2024,London,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,06/04/2024 19:29,662
+CUST-01637,01/02/2024,New York,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,06/01/2024 07:24,1336
+CUST-01046,11/07/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,21/07/2024 00:58,805
+CUST-00453,13/10/2024,New York,United States,Tablet,iPadOS,Direct,Viewed,,No,17/10/2024 05:53,952
+CUST-01071,19/12/2024,Los Angeles,United States,Desktop,macOS,Referral,Viewed,,No,25/12/2024 17:48,491
+CUST-00260,06/10/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Viewed,,No,22/06/2024 00:53,1408
+CUST-00452,08/04/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Viewed,,No,17/04/2024 14:09,771
+CUST-01001,14/08/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Viewed,,No,27/08/2024 21:10,759
+CUST-01322,24/05/2024,Los Angeles,United States,Mobile,iOS,Google Search,Viewed,,No,12/06/2024 07:23,956
+CUST-01077,04/03/2024,New York,United States,Desktop,macOS,Affiliate,Added to Cart,,No,03/04/2024 23:07,813
+CUST-01537,15/01/2024,Berlin,Germany,Desktop,Windows,Referral,Viewed,,No,23/01/2024 14:46,458
+CUST-00736,28/10/2024,Berlin,Germany,Desktop,Windows,Affiliate,Checkout,,No,14/11/2024 11:49,848
+CUST-00552,07/12/2024,Berlin,Germany,Mobile,Android,Referral,Viewed,,No,10/12/2024 04:37,408
+CUST-01273,28/10/2024,Sydney,Australia,Mobile,iOS,Facebook Ads,Viewed,,No,17/11/2024 17:59,1553
+CUST-00044,08/11/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,192.71 ,No,13/11/2024 01:36,944
+CUST-00519,28/09/2024,Toronto,Canada,Tablet,iPadOS,Referral,Added to Cart,,No,11/10/2024 22:10,1521
+CUST-01290,31/08/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Added to Cart,,No,02/09/2024 03:06,546
+CUST-01113,20/09/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Added to Cart,,No,09/10/2024 23:01,136
+CUST-00999,13/11/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,317.79 ,No,26/11/2024 06:40,
+CUST-00848,16/09/2024,Chicago,United States,Tablet,Android,Google Search,Viewed,,No,01/10/2024 16:45,244
+CUST-00205,12/04/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,29/04/2024 15:05,268
+CUST-00834,04/02/2024,Manchester,United Kingdom,Tablet,Android,Google Search,Viewed,,No,11/02/2024 21:05,1552
+CUST-01486,22/06/2024,Los Angeles,United States,Mobile,iOS,Direct,Added to Cart,,No,28/06/2024 09:28,1577
+CUST-01087,14/05/2024,London,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,16/05/2024 01:28,1328
+CUST-00415,02/05/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Viewed,,No,11/05/2024 19:12,
+CUST-00227,25/11/2024,New York,United States,Mobile,Android,Direct,Added to Cart,,No,02/12/2024 06:47,51
+CUST-00631,24/04/2024,Los Angeles,United States,Desktop,Windows,Facebook Ads,Viewed,,No,24/04/2024 23:17,213
+CUST-00106,06/05/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,25/05/2024 10:07,1491
+CUST-00496,21/03/2024,Los Angeles,United States,Mobile,Android,Google Search,Viewed,,No,23/03/2024 00:58,854
+CUST-00288,11/04/2024,Leeds,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,28/04/2024 11:07,512
+CUST-01722,08/06/2024,Melbourne,Australia,Tablet,Android,Referral,Added to Cart,,No,22/06/2024 11:57,1328
+CUST-01536,13/04/2024,Paris,France,Desktop,Windows,Google Search,Added to Cart,,No,28/04/2024 03:00,850
+CUST-00545,25/06/2024,London,United Kingdom,Tablet,iPadOS,Google Search,Viewed,,No,03/07/2024 03:53,880
+CUST-00112,27/01/2024,Birmingham,United Kingdom,Tablet,Android,Direct,Added to Cart,,No,28/01/2024 06:14,1429
+CUST-00957,31/07/2024,Leeds,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,01/08/2024 15:06,1798
+CUST-01749,01/10/2024,Leeds,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,08/10/2024 04:48,1730
+CUST-00989,18/07/2024,Dublin,Ireland,Mobile,iOS,Facebook Ads,Viewed,,No,04/08/2024 08:23,1300
+CUST-01646,05/12/2024,Paris,France,Mobile,iOS,Affiliate,Viewed,,No,10/12/2024 11:45,1059
+CUST-00019,10/10/2024,Los Angeles,United States,Mobile,Android,Email Campaign,Added to Cart,,No,29/10/2024 12:39,581
+CUST-00537,09/03/2024,Leeds,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,18/03/2024 00:55,535
+CUST-00906,01/08/2024,New York,United States,Desktop,macOS,Affiliate,Checkout,,No,20/08/2024 23:52,
+CUST-00383,16/08/2024,Leeds,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,01/09/2024 08:25,1726
+CUST-00056,08/08/2024,Paris,France,Desktop,Windows,Affiliate,Viewed,,No,09/08/2024 21:18,1209
+CUST-01791,08/11/2024,Sydney,Australia,Mobile,Android,Google Search,Added to Cart,,No,23/11/2024 11:51,1639
+CUST-00416,03/06/2024,Los Angeles,United States,Mobile,Android,Google Search,Viewed,,No,03/06/2024 20:17,1021
+CUST-00097,23/11/2024,Toronto,Canada,Desktop,macOS,Referral,Viewed,,No,11/12/2024 04:05,1609
+CUST-01533,28/04/2024,London,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,14/05/2024 06:13,466
+CUST-00185,16/01/2024,Birmingham,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,04/02/2024 09:56,518
+CUST-00657,09/01/2024,London,United Kingdom,Mobile,Android,Email Campaign,Added to Cart,,No,13/01/2024 20:51,1409
+CUST-01345,04/04/2024,Chicago,United States,Tablet,Android,Referral,Viewed,,No,20/04/2024 15:22,307
+CUST-01572,03/07/2024,Manchester,United Kingdom,Mobile,iOS,Referral,Viewed,,No,12/03/2024 05:56,71
+CUST-00195,11/07/2024,Dublin,Ireland,Mobile,Android,Email Campaign,Viewed,,No,31/07/2024 07:51,124
+CUST-00297,06/10/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,22/06/2024 11:01,1539
+CUST-00439,28/04/2024,London,United Kingdom,Desktop,Windows,Affiliate,Checkout,,No,08/05/2024 15:12,345
+CUST-00615,24/08/2024,New York,United States,Mobile,iOS,Direct,Checkout,,No,26/08/2024 15:54,827
+CUST-01515,26/09/2024,Berlin,Germany,Mobile,Android,Direct,Checkout,,No,28/09/2024 15:20,744
+CUST-00636,22/06/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,05/07/2024 14:43,1603
+CUST-00965,26/05/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,08/06/2024 14:54,784
+CUST-00285,04/05/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,05/04/2024 10:43,1624
+CUST-00026,06/07/2024,Toronto,Canada,Desktop,Windows,Affiliate,Checkout,,No,19/06/2024 06:52,1624
+CUST-01410,13/08/2024,Los Angeles,United States,Tablet,Android,Direct,Added to Cart,,No,24/08/2024 14:44,1421
+CUST-00270,04/10/2024,Toronto,Canada,Desktop,macOS,Referral,Viewed,,No,20/10/2024 08:32,277
+CUST-00317,20/08/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,04/09/2024 05:17,1268
+CUST-01622,09/12/2024,Dublin,Ireland,Mobile,iOS,Facebook Ads,Viewed,,No,17/12/2024 06:41,
+CUST-00606,26/11/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Checkout,,No,01/12/2024 09:18,265
+CUST-00600,05/05/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,15/05/2024 08:45,384
+CUST-00715,25/09/2024,London,United Kingdom,Mobile,Android,Email Campaign,Checkout,,No,11/10/2024 07:43,633
+CUST-00871,17/07/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,18/07/2024 22:24,275
+CUST-00835,01/02/2024,Toronto,Canada,Mobile,iOS,Affiliate,Viewed,,No,04/02/2024 06:06,1414
+CUST-01593,14/11/2024,Sydney,Australia,Tablet,iPadOS,Facebook Ads,Purchased,322.38 ,No,21/11/2024 05:07,1520
+CUST-00021,22/01/2024,London,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,03/02/2024 09:13,499
+CUST-01483,23/07/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,04/08/2024 23:35,56
+CUST-01274,12/05/2024,Los Angeles,United States,Tablet,iPadOS,Referral,Purchased,48.51 ,Yes,23/05/2024 10:35,
+CUST-00991,20/01/2024,Chicago,United States,Tablet,Android,Facebook Ads,Checkout,,No,04/02/2024 19:25,1792
+CUST-00935,17/01/2024,Toronto,Canada,Desktop,Windows,Direct,Checkout,,No,20/01/2024 19:17,1741
+CUST-00658,24/05/2024,Chicago,United States,Desktop,macOS,Email Campaign,Viewed,,No,06/06/2024 11:12,322
+CUST-01790,01/12/2024,Sydney,Australia,Desktop,Windows,Google Search,Viewed,,No,01/12/2024 04:27,27
+CUST-01532,14/07/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Purchased,43.70 ,No,14/07/2024 22:46,106
+CUST-01535,22/08/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,05/09/2024 21:20,32
+CUST-01696,27/07/2024,New York,United States,Tablet,iPadOS,Direct,Viewed,,No,12/08/2024 23:15,503
+CUST-01565,28/01/2024,New York,United States,Mobile,iOS,Google Search,Added to Cart,,No,04/02/2024 14:19,1608
+CUST-01539,06/01/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,18/01/2024 13:44,510
+CUST-00637,23/12/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Added to Cart,,No,06/01/2025 15:47,677
+CUST-00418,24/07/2024,Chicago,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,13/08/2024 07:17,288
+CUST-00394,21/04/2024,Birmingham,United Kingdom,Tablet,Android,Facebook Ads,Viewed,,No,09/05/2024 09:58,915
+CUST-01525,22/08/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,06/09/2024 22:43,597
+CUST-01009,02/12/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,295.76 ,Yes,07/12/2024 10:09,459
+CUST-01472,21/08/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Purchased,222.24 ,Yes,09/09/2024 20:40,1691
+CUST-00506,31/07/2024,London,United Kingdom,Mobile,Android,Email Campaign,Purchased,363.63 ,No,12/08/2024 01:35,147
+CUST-00123,01/02/2024,Leeds,United Kingdom,Tablet,Android,Google Search,Added to Cart,,No,06/02/2024 04:56,1671
+CUST-01296,16/05/2024,New York,United States,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,04/06/2024 02:42,179
+CUST-01218,27/01/2024,London,United Kingdom,Tablet,iPadOS,Affiliate,Added to Cart,,No,07/02/2024 12:31,940
+CUST-00583,15/02/2024,Melbourne,Australia,Desktop,Windows,Referral,Viewed,,No,06/03/2024 19:35,836
+CUST-00670,27/12/2024,Sydney,Australia,Tablet,iPadOS,Instagram Ads,Purchased,436.27 ,No,11/01/2025 16:22,580
+CUST-00847,10/09/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,24/09/2024 13:44,1408
+CUST-01612,10/02/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Added to Cart,,No,16/02/2024 11:08,1465
+CUST-01694,17/04/2024,Chicago,United States,Desktop,Windows,Facebook Ads,Viewed,,No,25/04/2024 12:46,
+CUST-00497,16/09/2024,London,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,16/09/2024 06:37,684
+CUST-01441,13/06/2024,Melbourne,Australia,Tablet,iPadOS,Direct,Added to Cart,,No,14/06/2024 12:23,998
+CUST-00222,09/06/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,28/06/2024 16:30,1516
+CUST-00968,12/10/2024,Toronto,Canada,Mobile,Android,Direct,Viewed,,No,28/10/2024 16:13,1498
+CUST-01557,16/12/2024,London,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,20/12/2024 14:00,1742
+CUST-01534,15/02/2024,Toronto,Canada,Mobile,iOS,Affiliate,Viewed,,No,18/02/2024 06:49,1786
+CUST-00882,19/09/2024,Paris,France,Mobile,iOS,Direct,Purchased,120.24 ,No,05/10/2024 16:45,1469
+CUST-01240,26/08/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Purchased,26.31 ,Yes,28/08/2024 14:19,939
+CUST-00104,24/11/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,30/11/2024 01:59,137
+CUST-01677,30/10/2024,Sydney,Australia,Tablet,Android,Email Campaign,Viewed,,No,04/11/2024 20:52,167
+CUST-01272,30/10/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,06/11/2024 06:40,1551
+CUST-01282,06/02/2024,Toronto,Canada,Tablet,Android,Direct,Viewed,,No,20/02/2024 18:43,206
+CUST-00364,30/08/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,05/09/2024 02:06,943
+CUST-01005,19/12/2024,Melbourne,Australia,Tablet,iPadOS,Email Campaign,Viewed,,No,27/12/2024 03:05,157
+CUST-01756,19/04/2024,New York,United States,Tablet,Android,Direct,Added to Cart,,No,24/04/2024 13:22,606
+CUST-01049,04/12/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,08/12/2024 20:50,1154
+CUST-01692,17/07/2024,Los Angeles,United States,Mobile,iOS,Referral,Added to Cart,,No,27/07/2024 04:42,119
+CUST-00613,04/05/2024,London,United Kingdom,Mobile,Android,Referral,Purchased,96.74 ,Yes,21/05/2024 04:33,944
+CUST-00576,19/10/2024,New York,United States,Desktop,Windows,Google Search,Purchased,338.26 ,No,28/10/2024 02:16,1254
+CUST-00776,14/06/2024,Leeds,United Kingdom,Desktop,Windows,Referral,Viewed,,No,27/06/2024 04:34,1239
+CUST-00466,09/03/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Viewed,,No,18/03/2024 08:32,173
+CUST-01431,28/02/2024,Melbourne,Australia,Mobile,iOS,Email Campaign,Purchased,190.95 ,Yes,18/03/2024 15:27,1730
+CUST-01198,20/09/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Viewed,,No,23/09/2024 13:21,1147
+CUST-01128,02/05/2024,New York,United States,Mobile,iOS,Instagram Ads,Added to Cart,,No,10/05/2024 05:29,1382
+CUST-01748,12/02/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Viewed,,No,15/02/2024 18:52,546
+CUST-00677,26/03/2024,Manchester,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,03/04/2024 21:30,737
+CUST-01672,02/02/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,10/02/2024 03:45,329
+CUST-00045,15/05/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,17/05/2024 04:45,1703
+CUST-00005,15/06/2024,London,United Kingdom,Desktop,macOS,Direct,Checkout,,No,25/06/2024 17:02,307
+CUST-01737,18/10/2024,New York,United States,Desktop,macOS,Email Campaign,Viewed,,No,06/11/2024 13:30,1170
+CUST-00155,29/10/2024,Chicago,United States,Mobile,Android,Instagram Ads,Checkout,,No,01/11/2024 01:05,1115
+CUST-01376,15/01/2024,Manchester,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,25/01/2024 04:12,1344
+CUST-01361,25/10/2024,Leeds,United Kingdom,Tablet,Android,Referral,Added to Cart,,No,29/10/2024 19:45,1748
+CUST-00463,16/08/2024,Leeds,United Kingdom,Mobile,iOS,Email Campaign,Purchased,433.19 ,No,02/09/2024 11:03,1352
+CUST-00980,26/01/2024,Chicago,United States,Mobile,iOS,Google Search,Viewed,,No,28/01/2024 06:08,499
+CUST-01081,02/04/2024,London,United Kingdom,Tablet,iPadOS,Direct,Added to Cart,,No,05/04/2024 08:13,749
+CUST-00687,10/11/2024,New York,United States,Tablet,iPadOS,Direct,Checkout,,No,25/11/2024 19:31,
+CUST-01033,06/11/2024,Melbourne,Australia,Desktop,Windows,Direct,Viewed,,No,14/11/2024 02:39,1447
+CUST-00494,23/07/2024,Paris,France,Desktop,macOS,Affiliate,Viewed,,No,24/07/2024 18:01,949
+CUST-00725,02/05/2024,Leeds,United Kingdom,Desktop,macOS,Google Search,Added to Cart,,No,07/05/2024 11:22,959
+CUST-01039,20/09/2024,Birmingham,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,08/10/2024 19:46,1552
+CUST-00312,06/11/2024,New York,United States,Mobile,Android,Instagram Ads,Viewed,,No,23/11/2024 11:38,975
+CUST-00789,04/11/2024,Chicago,United States,Tablet,iPadOS,Affiliate,Viewed,,No,16/11/2024 00:39,505
+CUST-00419,16/06/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Added to Cart,,No,06/07/2024 02:15,421
+CUST-00582,17/11/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,27/11/2024 10:06,154
+CUST-01341,27/01/2024,New York,United States,Mobile,iOS,Referral,Checkout,,No,28/01/2024 06:44,928
+CUST-01592,08/11/2024,Manchester,United Kingdom,Tablet,iPadOS,Referral,Viewed,,No,29/11/2024 02:02,151
+CUST-00876,10/12/2024,Paris,France,Desktop,macOS,Email Campaign,Added to Cart,,No,15/12/2024 02:53,1729
+CUST-00032,26/08/2024,Leeds,United Kingdom,Desktop,Windows,Direct,Viewed,,No,26/08/2024 18:08,1726
+CUST-01392,12/10/2024,New York,United States,Desktop,Windows,Facebook Ads,Checkout,,No,18/10/2024 16:09,983
+CUST-00622,11/09/2024,Sydney,Australia,Desktop,macOS,Google Search,Viewed,,No,13/09/2024 08:07,935
+CUST-01463,07/02/2024,London,United Kingdom,Mobile,Android,Email Campaign,Added to Cart,,No,27/02/2024 00:36,334
+CUST-01388,18/02/2024,London,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,22/02/2024 21:09,1225
+CUST-01787,20/01/2024,New York,United States,Mobile,iOS,Google Search,Viewed,,No,29/01/2024 22:35,905
+CUST-01161,13/05/2024,Los Angeles,United States,Mobile,Android,Instagram Ads,Viewed,,No,15/05/2024 08:07,774
+CUST-00974,14/01/2024,Toronto,Canada,Tablet,Android,Facebook Ads,Viewed,,No,27/01/2024 11:44,943
+CUST-00338,11/01/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Checkout,,No,04/11/2024 17:47,1198
+CUST-01403,03/01/2024,Toronto,Canada,Tablet,Android,Direct,Added to Cart,,No,17/01/2024 13:14,737
+CUST-00368,09/11/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Added to Cart,,No,19/11/2024 02:11,
+CUST-01120,19/01/2024,Toronto,Canada,Mobile,Android,Email Campaign,Viewed,,No,28/01/2024 13:03,
+CUST-00020,03/07/2024,Birmingham,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,28/03/2024 02:11,1207
+CUST-00462,11/06/2024,Sydney,Australia,Mobile,Android,Referral,Added to Cart,,No,02/07/2024 05:55,1623
+CUST-00283,29/07/2024,Toronto,Canada,Mobile,Android,Google Search,Viewed,,No,04/08/2024 10:24,1580
+CUST-00422,18/08/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Added to Cart,,No,26/08/2024 13:02,210
+CUST-01705,10/02/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,01/03/2024 09:27,1035
+CUST-00367,18/05/2024,Manchester,United Kingdom,Mobile,iOS,Affiliate,Checkout,,No,03/06/2024 12:21,336
+CUST-00409,16/03/2024,Los Angeles,United States,Desktop,Windows,Direct,Added to Cart,,No,25/03/2024 03:45,540
+CUST-00091,02/02/2024,Dublin,Ireland,Mobile,iOS,Referral,Viewed,,No,02/02/2024 04:02,1375
+CUST-00047,11/01/2024,London,United Kingdom,Mobile,iOS,Referral,Purchased,291.13 ,No,18/01/2024 19:48,1771
+CUST-00730,06/03/2024,Los Angeles,United States,Desktop,Windows,Instagram Ads,Viewed,,No,12/03/2024 16:20,1491
+CUST-00295,21/01/2024,London,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,01/02/2024 07:33,1158
+CUST-00012,19/10/2024,New York,United States,Tablet,iPadOS,Direct,Purchased,193.83 ,No,21/10/2024 22:58,1779
+CUST-00403,24/01/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Checkout,,No,07/02/2024 06:40,1228
+CUST-01098,16/10/2024,London,United Kingdom,Mobile,iOS,Direct,Viewed,,No,18/10/2024 21:00,389
+CUST-01480,04/12/2024,New York,United States,Mobile,Android,Direct,Viewed,,No,11/12/2024 23:35,1621
+CUST-00330,20/02/2024,Leeds,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,11/03/2024 15:47,193
+CUST-01457,26/05/2024,Los Angeles,United States,Tablet,iPadOS,Direct,Added to Cart,,No,13/06/2024 13:29,1686
+CUST-00605,08/04/2024,Chicago,United States,Mobile,Android,Direct,Added to Cart,,No,08/08/2024 10:42,854
+CUST-00603,19/03/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Checkout,,No,29/03/2024 13:52,1144
+CUST-01713,02/06/2024,New York,United States,Desktop,Windows,Google Search,Purchased,316.50 ,Yes,23/06/2024 03:26,1337
+CUST-00103,25/05/2024,Leeds,United Kingdom,Tablet,Android,Instagram Ads,Purchased,272.44 ,Yes,07/06/2024 09:52,1705
+CUST-00299,21/05/2024,Dublin,Ireland,Mobile,iOS,Facebook Ads,Purchased,401.99 ,Yes,23/05/2024 19:09,173
+CUST-01180,14/11/2024,London,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,18/11/2024 13:48,1117
+CUST-01166,20/10/2024,Leeds,United Kingdom,Mobile,iOS,Instagram Ads,Purchased,44.46 ,No,05/11/2024 20:55,911
+CUST-00688,03/01/2024,Leeds,United Kingdom,Mobile,Android,Affiliate,Checkout,,No,17/01/2024 00:21,
+CUST-00920,05/06/2024,Birmingham,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,10/05/2024 17:59,1784
+CUST-00173,10/08/2024,London,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,30/08/2024 11:13,1491
+CUST-00843,14/04/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Added to Cart,,No,14/04/2024 15:22,456
+CUST-01350,25/05/2024,Manchester,United Kingdom,Desktop,macOS,Affiliate,Added to Cart,,No,26/05/2024 22:18,392
+CUST-01615,07/08/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Viewed,,No,08/08/2024 03:18,1030
+CUST-00372,19/12/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,07/01/2025 06:07,1396
+CUST-00194,09/09/2024,Dublin,Ireland,Desktop,Windows,Facebook Ads,Viewed,,No,11/09/2024 02:47,229
+CUST-00059,27/04/2024,New York,United States,Mobile,Android,Instagram Ads,Viewed,,No,11/05/2024 16:06,1201
+CUST-01202,30/05/2024,London,United Kingdom,Tablet,Android,Referral,Viewed,,No,09/06/2024 16:43,86
+CUST-00145,24/02/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,02/03/2024 07:55,1232
+CUST-01072,02/11/2024,New York,United States,Mobile,iOS,Instagram Ads,Checkout,,No,13/11/2024 21:40,324
+CUST-00208,06/05/2024,Sydney,Australia,Desktop,Windows,Email Campaign,Purchased,269.25 ,No,26/06/2024 13:24,593
+CUST-00475,22/06/2024,Melbourne,Australia,Tablet,Android,Email Campaign,Viewed,,No,05/07/2024 15:41,1188
+CUST-01126,31/10/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,08/11/2024 01:18,31
+CUST-00395,30/06/2024,Leeds,United Kingdom,Tablet,Android,Instagram Ads,Added to Cart,,No,02/07/2024 21:49,605
+CUST-00485,13/02/2024,Paris,France,Desktop,macOS,Instagram Ads,Viewed,,No,23/02/2024 00:44,1033
+CUST-00139,24/01/2024,Dublin,Ireland,Mobile,iOS,Google Search,Viewed,,No,05/02/2024 14:42,830
+CUST-00042,24/01/2024,Los Angeles,United States,Mobile,iOS,Referral,Purchased,206.60 ,No,13/02/2024 02:59,1022
+CUST-00210,12/06/2024,Berlin,Germany,Desktop,Windows,Instagram Ads,Viewed,,No,12/06/2024 23:05,1420
+CUST-00062,26/10/2024,Manchester,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,27/10/2024 21:52,851
+CUST-01309,03/06/2024,Berlin,Germany,Desktop,macOS,Google Search,Viewed,,No,08/03/2024 19:25,886
+CUST-01605,25/05/2024,Toronto,Canada,Tablet,Android,Direct,Added to Cart,,No,03/06/2024 15:13,1330
+CUST-01465,20/02/2024,Manchester,United Kingdom,Mobile,Android,Google Search,Viewed,,No,08/03/2024 13:08,965
+CUST-01655,25/07/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Viewed,,No,13/08/2024 03:02,1242
+CUST-00900,07/06/2024,New York,United States,Tablet,iPadOS,Google Search,Viewed,,No,19/06/2024 23:53,273
+CUST-01676,26/02/2024,Dublin,Ireland,Desktop,macOS,Facebook Ads,Added to Cart,,No,04/03/2024 23:57,1342
+CUST-00941,06/12/2024,London,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,10/12/2024 01:52,1619
+CUST-00095,04/03/2024,Toronto,Canada,Tablet,iPadOS,Direct,Checkout,,No,06/03/2024 07:23,1699
+CUST-00190,13/04/2024,Birmingham,United Kingdom,Desktop,macOS,Facebook Ads,Added to Cart,,No,24/04/2024 09:45,1371
+CUST-01317,27/03/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,27/03/2024 11:55,923
+CUST-01660,09/03/2024,Chicago,United States,Desktop,Windows,Instagram Ads,Viewed,,No,19/09/2024 08:40,223
+CUST-01304,19/03/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Viewed,,No,26/03/2024 13:37,1047
+CUST-00404,06/05/2024,Birmingham,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,05/06/2024 14:10,788
+CUST-00561,28/11/2024,Toronto,Canada,Desktop,macOS,Facebook Ads,Viewed,,No,17/12/2024 15:39,1686
+CUST-00718,24/08/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Purchased,331.75 ,No,02/09/2024 20:48,1157
+CUST-01114,06/09/2024,Manchester,United Kingdom,Tablet,Android,Facebook Ads,Added to Cart,,No,06/09/2024 15:08,276
+CUST-01096,12/02/2024,Paris,France,Desktop,Windows,Facebook Ads,Viewed,,No,29/02/2024 07:38,811
+CUST-01012,06/06/2024,Manchester,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,23/06/2024 14:42,1184
+CUST-01609,27/04/2024,Los Angeles,United States,Mobile,iOS,Google Search,Viewed,,No,09/05/2024 16:38,1114
+CUST-00147,15/10/2024,Dublin,Ireland,Mobile,iOS,Affiliate,Added to Cart,,No,21/10/2024 12:16,852
+CUST-01711,11/04/2024,Chicago,United States,Tablet,Android,Google Search,Viewed,,No,02/05/2024 06:21,173
+CUST-00946,09/01/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,27/01/2024 17:44,1527
+CUST-01561,14/09/2024,Los Angeles,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,22/09/2024 07:31,374
+CUST-00165,20/05/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,02/06/2024 11:23,894
+CUST-01485,30/03/2024,Paris,France,Mobile,iOS,Facebook Ads,Added to Cart,,No,14/04/2024 15:44,830
+CUST-00662,17/08/2024,Manchester,United Kingdom,Tablet,Android,Instagram Ads,Viewed,,No,23/08/2024 04:14,851
+CUST-01495,31/01/2024,New York,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,13/02/2024 15:40,518
+CUST-00833,08/10/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,23/08/2024 00:31,1483
+CUST-01468,26/05/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Checkout,,No,02/06/2024 07:09,1370
+CUST-01328,04/11/2024,New York,United States,Tablet,iPadOS,Affiliate,Added to Cart,,No,22/11/2024 01:34,948
+CUST-00308,21/01/2024,Los Angeles,United States,Desktop,macOS,Referral,Purchased,169.59 ,Yes,27/01/2024 06:00,1683
+CUST-00118,20/01/2024,Birmingham,United Kingdom,Mobile,iOS,Direct,Viewed,,No,20/01/2024 10:22,701
+CUST-01154,02/06/2024,Chicago,United States,Desktop,Windows,Referral,Viewed,,No,22/06/2024 00:32,626
+CUST-00085,23/06/2024,New York,United States,Mobile,iOS,Google Search,Added to Cart,,No,30/06/2024 21:42,385
+CUST-01685,07/07/2024,Paris,France,Desktop,Windows,Google Search,Viewed,,No,15/07/2024 12:51,1758
+CUST-01411,02/01/2024,Manchester,United Kingdom,Desktop,macOS,Referral,Viewed,,No,11/01/2024 17:14,359
+CUST-01258,13/03/2024,Toronto,Canada,Tablet,Android,Facebook Ads,Added to Cart,,No,29/03/2024 21:13,653
+CUST-00332,04/10/2024,Chicago,United States,Desktop,Windows,Google Search,Viewed,,No,06/10/2024 00:45,923
+CUST-01013,22/10/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Viewed,,No,03/11/2024 22:08,693
+CUST-01594,18/12/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,23/12/2024 22:27,207
+CUST-01187,28/07/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Purchased,99.13 ,Yes,28/07/2024 01:45,382
+CUST-00380,10/06/2024,Los Angeles,United States,Tablet,iPadOS,Email Campaign,Viewed,,No,21/10/2024 10:28,300
+CUST-00681,13/04/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Purchased,225.26 ,No,13/04/2024 11:37,1577
+CUST-00529,08/03/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,18/03/2024 18:46,1662
+CUST-00507,08/04/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,09/04/2024 17:53,1492
+CUST-01225,12/11/2024,Chicago,United States,Tablet,Android,Email Campaign,Viewed,,No,25/11/2024 14:11,1347
+CUST-01092,08/11/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Viewed,,No,14/11/2024 01:40,876
+CUST-01473,08/03/2024,London,United Kingdom,Tablet,Android,Direct,Viewed,,No,23/08/2024 21:33,1391
+CUST-01508,26/01/2024,Paris,France,Desktop,Windows,Google Search,Checkout,,No,31/01/2024 06:51,795
+CUST-00673,08/09/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Purchased,292.41 ,No,27/09/2024 13:18,1383
+CUST-01359,28/05/2024,New York,United States,Desktop,Windows,Referral,Added to Cart,,No,11/06/2024 00:14,1756
+CUST-00806,02/04/2024,Leeds,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,11/04/2024 05:07,518
+CUST-00887,02/09/2024,Toronto,Canada,Tablet,Android,Affiliate,Added to Cart,,No,16/02/2024 22:46,37
+CUST-01395,26/11/2024,Manchester,United Kingdom,Tablet,Android,Google Search,Viewed,,No,09/12/2024 15:20,1051
+CUST-00685,23/03/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Viewed,,No,03/04/2024 07:55,301
+CUST-00627,20/02/2024,Los Angeles,United States,Mobile,iOS,Affiliate,Added to Cart,,No,23/02/2024 06:30,190
+CUST-00867,14/06/2024,Leeds,United Kingdom,Desktop,macOS,Email Campaign,Checkout,,No,23/06/2024 09:43,300
+CUST-00503,01/10/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,05/10/2024 13:43,153
+CUST-01501,05/07/2024,Toronto,Canada,Desktop,macOS,Direct,Viewed,,No,17/05/2024 02:48,585
+CUST-00748,03/04/2024,Chicago,United States,Tablet,iPadOS,Referral,Viewed,,No,16/04/2024 05:35,
+CUST-01311,21/02/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Checkout,,No,02/03/2024 19:11,1776
+CUST-00703,05/01/2024,Berlin,Germany,Desktop,macOS,Email Campaign,Viewed,,No,11/01/2024 17:46,59
+CUST-00414,15/12/2024,Manchester,United Kingdom,Desktop,macOS,Referral,Viewed,,No,04/01/2025 23:58,126
+CUST-01382,03/07/2024,Los Angeles,United States,Mobile,Android,Google Search,Purchased,39.63 ,No,23/03/2024 03:31,670
+CUST-00203,01/11/2024,Los Angeles,United States,Desktop,Windows,Referral,Viewed,,No,17/01/2024 21:18,1507
+CUST-01647,01/06/2024,Sydney,Australia,Tablet,iPadOS,Referral,Added to Cart,,No,13/06/2024 09:22,589
+CUST-00469,18/10/2024,Birmingham,United Kingdom,Tablet,Android,Google Search,Viewed,,No,21/10/2024 11:12,1767
+CUST-01458,12/03/2024,Los Angeles,United States,Mobile,iOS,Google Search,Added to Cart,,No,26/03/2024 13:18,613
+CUST-01544,19/07/2024,Berlin,Germany,Desktop,Windows,Google Search,Viewed,,No,02/08/2024 15:46,480
+CUST-01130,03/03/2024,Toronto,Canada,Mobile,iOS,Google Search,Viewed,,No,15/03/2024 11:02,590
+CUST-01437,13/07/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Added to Cart,,No,22/07/2024 15:56,204
+CUST-00809,24/03/2024,Dublin,Ireland,Desktop,Windows,Google Search,Viewed,,No,11/04/2024 17:06,315
+CUST-01268,24/05/2024,Manchester,United Kingdom,Mobile,Android,Referral,Viewed,,No,30/05/2024 06:24,643
+CUST-00707,10/07/2024,Birmingham,United Kingdom,Desktop,macOS,Facebook Ads,Added to Cart,,No,18/07/2024 00:10,211
+CUST-01396,13/11/2024,London,United Kingdom,Desktop,Windows,Google Search,Checkout,,No,16/11/2024 06:28,795
+CUST-01610,16/08/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,31/08/2024 05:31,785
+CUST-00329,27/02/2024,Leeds,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,18/03/2024 05:37,1603
+CUST-01160,27/09/2024,Leeds,United Kingdom,Desktop,macOS,Affiliate,Added to Cart,,No,17/10/2024 22:39,1189
+CUST-00563,21/07/2024,New York,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,25/07/2024 03:40,1508
+CUST-01552,27/08/2024,Berlin,Germany,Mobile,iOS,Affiliate,Added to Cart,,No,08/09/2024 15:16,1160
+CUST-01523,20/04/2024,Berlin,Germany,Tablet,iPadOS,Referral,Added to Cart,,No,02/05/2024 09:53,1264
+CUST-00254,13/08/2024,London,United Kingdom,Tablet,Android,Instagram Ads,Purchased,302.58 ,No,15/08/2024 16:01,1224
+CUST-00230,12/03/2024,New York,United States,Mobile,Android,Google Search,Added to Cart,,No,29/03/2024 06:53,863
+CUST-00663,21/10/2024,Birmingham,United Kingdom,Tablet,iPadOS,Facebook Ads,Checkout,,No,09/11/2024 06:59,
+CUST-00788,13/08/2024,Manchester,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,15/08/2024 13:27,357
+CUST-01178,04/04/2024,Berlin,Germany,Desktop,macOS,Google Search,Purchased,50.04 ,Yes,07/04/2024 16:28,1500
+CUST-01378,12/06/2024,Los Angeles,United States,Desktop,Windows,Email Campaign,Checkout,,No,25/06/2024 20:24,1733
+CUST-01601,18/05/2024,Leeds,United Kingdom,Desktop,Windows,Referral,Purchased,220.60 ,No,29/05/2024 19:55,1513
+CUST-01061,13/10/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,01/11/2024 07:39,291
+CUST-01176,14/08/2024,Paris,France,Tablet,Android,Referral,Added to Cart,,No,23/08/2024 21:40,
+CUST-00121,13/05/2024,New York,United States,Mobile,iOS,Facebook Ads,Checkout,,No,02/06/2024 12:47,288
+CUST-01786,28/02/2024,Dublin,Ireland,Desktop,Windows,Google Search,Added to Cart,,No,04/03/2024 09:31,
+CUST-01298,15/08/2024,Dublin,Ireland,Mobile,iOS,Affiliate,Added to Cart,,No,16/08/2024 22:46,1269
+CUST-00590,23/10/2024,Chicago,United States,Desktop,macOS,Facebook Ads,Added to Cart,,No,30/10/2024 16:26,553
+CUST-00251,05/12/2024,Birmingham,United Kingdom,Tablet,Android,Google Search,Checkout,,No,06/12/2024 04:41,556
+CUST-01449,28/01/2024,New York,United States,Desktop,Windows,Direct,Viewed,,No,11/02/2024 23:14,490
+CUST-00891,04/09/2024,Melbourne,Australia,Mobile,iOS,Referral,Added to Cart,,No,14/09/2024 02:24,1682
+CUST-01076,04/09/2024,Dublin,Ireland,Mobile,iOS,Google Search,Checkout,,No,04/09/2024 11:03,951
+CUST-00088,04/03/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Viewed,,No,24/03/2024 14:22,69
+CUST-01588,30/04/2024,Dublin,Ireland,Mobile,Android,Google Search,Checkout,,No,17/05/2024 10:45,157
+CUST-01348,10/02/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,29/02/2024 12:23,1182
+CUST-00331,22/02/2024,London,United Kingdom,Desktop,Windows,Google Search,Purchased,351.16 ,Yes,28/02/2024 14:57,
+CUST-01193,21/12/2024,Sydney,Australia,Tablet,Android,Instagram Ads,Checkout,,No,07/01/2025 16:01,1440
+CUST-01137,07/04/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,10/04/2024 13:00,731
+CUST-01211,04/12/2024,Leeds,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,15/04/2024 00:27,155
+CUST-00423,30/04/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Checkout,,No,01/05/2024 14:08,709
+CUST-01132,20/12/2024,Chicago,United States,Mobile,iOS,Instagram Ads,Viewed,,No,02/01/2025 02:15,400
+CUST-00033,06/10/2024,Berlin,Germany,Mobile,Android,Instagram Ads,Purchased,330.02 ,No,18/10/2024 06:57,1372
+CUST-01391,27/08/2024,Leeds,United Kingdom,Mobile,Android,Direct,Viewed,,No,16/09/2024 11:59,
+CUST-00690,24/09/2024,Chicago,United States,Desktop,Windows,Referral,Purchased,54.73 ,Yes,05/10/2024 00:23,121
+CUST-01172,05/09/2024,Melbourne,Australia,Mobile,Android,Google Search,Checkout,,No,06/09/2024 06:04,1147
+CUST-01636,05/03/2024,Berlin,Germany,Desktop,macOS,Direct,Added to Cart,,No,16/03/2024 11:31,1652
+CUST-01082,24/09/2024,Birmingham,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,11/10/2024 14:01,256
+CUST-01399,26/09/2024,Leeds,United Kingdom,Tablet,iPadOS,Referral,Viewed,,No,10/10/2024 05:08,802
+CUST-01700,27/05/2024,Chicago,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,04/06/2024 12:21,1099
+CUST-00269,03/05/2024,New York,United States,Mobile,Android,Instagram Ads,Viewed,,No,05/05/2024 15:39,1373
+CUST-00630,23/08/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,315.41 ,Yes,06/09/2024 10:58,1166
+CUST-01327,01/02/2024,New York,United States,Tablet,Android,Email Campaign,Viewed,,No,23/01/2024 00:41,585
+CUST-00921,27/07/2024,New York,United States,Mobile,Android,Referral,Purchased,98.73 ,Yes,04/08/2024 15:11,525
+CUST-01145,07/08/2024,London,United Kingdom,Desktop,macOS,Email Campaign,Checkout,,No,11/08/2024 21:44,1663
+CUST-01038,18/12/2024,Los Angeles,United States,Mobile,Android,Direct,Viewed,,No,06/01/2025 14:45,300
+CUST-00783,21/07/2024,Los Angeles,United States,Tablet,Android,Email Campaign,Added to Cart,,No,01/08/2024 19:50,123
+CUST-01167,01/09/2024,Toronto,Canada,Desktop,macOS,Instagram Ads,Viewed,,No,15/09/2024 14:11,369
+CUST-01232,20/08/2024,Manchester,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,31/08/2024 23:56,1733
+CUST-00548,04/03/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Purchased,248.35 ,Yes,18/03/2024 17:44,903
+CUST-00915,23/09/2024,Manchester,United Kingdom,Tablet,iPadOS,Referral,Viewed,,No,11/10/2024 03:26,518
+CUST-00782,28/11/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Viewed,,No,03/12/2024 11:05,1457
+CUST-01016,20/12/2024,Toronto,Canada,Mobile,iOS,Instagram Ads,Viewed,,No,07/01/2025 09:33,633
+CUST-00899,18/12/2024,Toronto,Canada,Desktop,macOS,Google Search,Viewed,,No,24/12/2024 22:19,871
+CUST-00291,17/10/2024,Toronto,Canada,Desktop,macOS,Direct,Added to Cart,,No,20/10/2024 13:47,766
+CUST-00167,15/02/2024,Chicago,United States,Desktop,macOS,Email Campaign,Added to Cart,,No,26/02/2024 10:43,734
+CUST-01526,26/01/2024,Berlin,Germany,Mobile,Android,Facebook Ads,Viewed,,No,10/02/2024 03:09,1712
+CUST-01541,07/02/2024,Melbourne,Australia,Mobile,Android,Direct,Added to Cart,,No,10/02/2024 09:35,205
+CUST-00183,08/10/2024,Melbourne,Australia,Mobile,Android,Google Search,Checkout,,No,25/10/2024 22:05,1335
+CUST-00192,25/12/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Viewed,,No,28/12/2024 20:51,669
+CUST-01444,27/12/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Checkout,,No,11/01/2025 00:08,
+CUST-00811,25/06/2024,Toronto,Canada,Mobile,Android,Google Search,Purchased,63.27 ,No,01/07/2024 17:22,1028
+CUST-01755,30/06/2024,Chicago,United States,Tablet,iPadOS,Google Search,Viewed,,No,14/07/2024 16:11,946
+CUST-00442,25/01/2024,New York,United States,Desktop,macOS,Google Search,Added to Cart,,No,03/02/2024 04:39,473
+CUST-00271,01/09/2024,Paris,France,Desktop,macOS,Direct,Viewed,,No,16/09/2024 16:41,
+CUST-00528,03/12/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Added to Cart,,No,04/12/2024 17:47,1450
+CUST-00995,24/06/2024,Toronto,Canada,Mobile,Android,Instagram Ads,Viewed,,No,02/07/2024 14:17,553
+CUST-01221,12/11/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Purchased,417.21 ,Yes,14/11/2024 20:54,57
+CUST-01068,07/01/2024,Paris,France,Mobile,Android,Direct,Added to Cart,,No,10/01/2024 17:18,751
+CUST-00624,26/06/2024,London,United Kingdom,Tablet,iPadOS,Google Search,Checkout,,No,02/07/2024 13:30,
+CUST-00390,13/10/2024,Dublin,Ireland,Tablet,Android,Facebook Ads,Added to Cart,,No,24/10/2024 03:20,1688
+CUST-00352,03/03/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,07/03/2024 02:22,170
+CUST-01667,31/12/2024,Manchester,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,10/01/2025 09:39,1748
+CUST-00993,30/10/2024,Manchester,United Kingdom,Desktop,macOS,Email Campaign,Checkout,,No,18/11/2024 01:20,1187
+CUST-01121,07/04/2024,Toronto,Canada,Mobile,iOS,Direct,Viewed,,No,27/04/2024 19:42,1377
+CUST-00892,16/06/2024,Paris,France,Desktop,Windows,Instagram Ads,Purchased,423.87 ,No,25/06/2024 10:10,1782
+CUST-00661,04/05/2024,Melbourne,Australia,Desktop,macOS,Facebook Ads,Viewed,,No,06/05/2024 05:10,756
+CUST-00410,02/05/2024,Leeds,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,14/05/2024 02:08,428
+CUST-00293,26/02/2024,London,United Kingdom,Mobile,iOS,Google Search,Purchased,57.96 ,No,11/03/2024 03:30,539
+CUST-00653,22/09/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Checkout,,No,08/10/2024 19:28,1275
+CUST-01727,27/10/2024,New York,United States,Mobile,iOS,Google Search,Viewed,,No,02/11/2024 21:42,775
+CUST-01708,30/09/2024,Sydney,Australia,Mobile,iOS,Facebook Ads,Viewed,,No,04/10/2024 05:27,563
+CUST-00976,12/03/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,01/04/2024 06:40,1247
+CUST-00071,27/10/2024,Chicago,United States,Mobile,Android,Direct,Added to Cart,,No,09/11/2024 15:26,450
+CUST-01206,15/06/2024,New York,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,15/06/2024 16:33,603
+CUST-00572,30/04/2024,Leeds,United Kingdom,Mobile,iOS,Email Campaign,Viewed,,No,19/05/2024 23:10,1609
+CUST-01177,16/09/2024,Chicago,United States,Mobile,Android,Direct,Added to Cart,,No,30/09/2024 00:43,1532
+CUST-00426,11/08/2024,London,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,13/08/2024 13:13,1793
+CUST-01777,04/10/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,10/10/2024 02:50,671
+CUST-00107,12/09/2024,Berlin,Germany,Desktop,Windows,Referral,Added to Cart,,No,25/09/2024 04:44,1238
+CUST-01608,14/04/2024,Toronto,Canada,Desktop,Windows,Affiliate,Checkout,,No,03/05/2024 19:20,851
+CUST-01384,04/03/2024,Leeds,United Kingdom,Desktop,macOS,Referral,Added to Cart,,No,25/03/2024 04:09,1596
+CUST-00922,27/12/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Purchased,265.83 ,Yes,01/01/2025 22:17,526
+CUST-00470,20/05/2024,Dublin,Ireland,Desktop,Windows,Affiliate,Viewed,,No,03/06/2024 14:59,1744
+CUST-00943,08/09/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,09/09/2024 15:00,115
+CUST-00593,20/06/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Added to Cart,,No,08/07/2024 04:07,1770
+CUST-00229,30/08/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Viewed,,No,07/09/2024 12:55,232
+CUST-00701,28/03/2024,Toronto,Canada,Mobile,iOS,Affiliate,Viewed,,No,14/04/2024 08:20,1046
+CUST-01643,19/04/2024,Leeds,United Kingdom,Desktop,macOS,Facebook Ads,Viewed,,No,24/04/2024 23:31,645
+CUST-00534,22/09/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,02/10/2024 09:17,437
+CUST-00421,31/12/2024,New York,United States,Desktop,Windows,Referral,Purchased,447.92 ,No,09/01/2025 05:23,609
+CUST-01125,11/12/2024,Chicago,United States,Tablet,iPadOS,Direct,Viewed,,No,19/12/2024 01:46,1770
+CUST-01582,23/09/2024,Berlin,Germany,Desktop,Windows,Affiliate,Viewed,,No,13/10/2024 19:53,586
+CUST-00753,21/02/2024,Los Angeles,United States,Mobile,Android,Direct,Viewed,,No,23/02/2024 07:54,
+CUST-01522,18/07/2024,London,United Kingdom,Mobile,iOS,Direct,Viewed,,No,04/08/2024 22:13,411
+CUST-00997,27/02/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Added to Cart,,No,15/03/2024 15:31,822
+CUST-00850,21/07/2024,New York,United States,Desktop,macOS,Direct,Viewed,,No,04/08/2024 12:02,1557
+CUST-01374,17/08/2024,Toronto,Canada,Tablet,Android,Direct,Added to Cart,,No,17/08/2024 21:12,32
+CUST-01212,25/11/2024,Birmingham,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,12/12/2024 16:58,34
+CUST-01235,26/03/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,04/04/2024 21:26,
+CUST-00024,01/10/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,14/10/2024 05:03,908
+CUST-00459,15/04/2024,Melbourne,Australia,Mobile,Android,Affiliate,Viewed,,No,03/05/2024 17:55,64
+CUST-01210,27/04/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Added to Cart,,No,14/05/2024 09:19,1453
+CUST-01418,20/03/2024,Toronto,Canada,Mobile,Android,Google Search,Purchased,422.01 ,Yes,04/04/2024 17:36,219
+CUST-01443,06/03/2024,Melbourne,Australia,Mobile,iOS,Direct,Viewed,,No,12/06/2024 07:41,162
+CUST-00802,24/05/2024,Melbourne,Australia,Mobile,Android,Referral,Viewed,,No,13/06/2024 12:25,473
+CUST-00825,29/06/2024,Chicago,United States,Tablet,iPadOS,Email Campaign,Added to Cart,,No,09/07/2024 14:51,708
+CUST-01560,29/10/2024,Manchester,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,15/11/2024 11:39,1153
+CUST-00824,11/04/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,21/04/2024 09:47,342
+CUST-01299,25/02/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,15/03/2024 05:58,1698
+CUST-00129,06/08/2024,London,United Kingdom,Desktop,macOS,Direct,Viewed,,No,10/08/2024 00:14,984
+CUST-00063,20/01/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,28/01/2024 08:04,864
+CUST-01251,01/01/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,16/01/2024 12:34,1268
+CUST-00482,24/01/2024,Leeds,United Kingdom,Tablet,Android,Email Campaign,Viewed,,No,07/02/2024 08:25,1211
+CUST-00851,15/09/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Checkout,,No,15/09/2024 11:55,1710
+CUST-01207,22/02/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,09/03/2024 20:03,308
+CUST-00366,12/04/2024,London,United Kingdom,Tablet,iPadOS,Affiliate,Added to Cart,,No,22/04/2024 05:40,1489
+CUST-01135,22/07/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Checkout,,No,08/08/2024 08:15,1245
+CUST-00348,10/09/2024,New York,United States,Tablet,iPadOS,Google Search,Added to Cart,,No,16/09/2024 06:02,990
+CUST-01475,16/06/2024,Leeds,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,18/06/2024 04:39,941
+CUST-00339,11/06/2024,Los Angeles,United States,Desktop,Windows,Email Campaign,Viewed,,No,14/06/2024 03:54,123
+CUST-00261,09/10/2024,Birmingham,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,17/10/2024 04:18,1365
+CUST-01226,11/07/2024,Berlin,Germany,Mobile,iOS,Email Campaign,Added to Cart,,No,16/07/2024 14:42,1366
+CUST-00038,24/09/2024,Dublin,Ireland,Tablet,iPadOS,Direct,Added to Cart,,No,30/09/2024 04:40,1551
+CUST-00731,21/09/2024,Birmingham,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,10/10/2024 01:46,1002
+CUST-00660,09/02/2024,Paris,France,Tablet,Android,Direct,Checkout,,No,20/02/2024 12:10,1193
+CUST-00512,18/12/2024,Toronto,Canada,Desktop,Windows,Instagram Ads,Checkout,,No,31/12/2024 10:24,521
+CUST-01254,17/07/2024,London,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,05/08/2024 07:55,927
+CUST-00133,28/08/2024,Toronto,Canada,Desktop,macOS,Direct,Added to Cart,,No,09/09/2024 06:39,486
+CUST-01589,04/04/2024,London,United Kingdom,Desktop,Windows,Referral,Viewed,,No,19/04/2024 11:44,91
+CUST-00198,17/05/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,19/05/2024 03:32,1111
+CUST-00178,10/04/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,26/04/2024 23:53,227
+CUST-00436,19/12/2024,London,United Kingdom,Mobile,iOS,Google Search,Purchased,388.67 ,No,02/01/2025 10:22,1632
+CUST-01292,13/06/2024,London,United Kingdom,Tablet,iPadOS,Referral,Viewed,,No,20/06/2024 19:58,172
+CUST-00827,18/12/2024,Berlin,Germany,Desktop,Windows,Affiliate,Added to Cart,,No,04/01/2025 00:29,1680
+CUST-00492,03/12/2024,Melbourne,Australia,Mobile,iOS,Email Campaign,Checkout,,No,06/12/2024 03:05,155
+CUST-00378,12/11/2024,Los Angeles,United States,Mobile,iOS,Google Search,Viewed,,No,14/11/2024 16:51,917
+CUST-00855,26/12/2024,Sydney,Australia,Mobile,Android,Facebook Ads,Viewed,,No,06/01/2025 09:25,809
+CUST-01356,12/09/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Viewed,,No,20/12/2024 14:58,78
+CUST-00884,06/11/2024,New York,United States,Tablet,Android,Direct,Added to Cart,,No,08/11/2024 10:01,859
+CUST-00649,27/12/2024,New York,United States,Mobile,Android,Google Search,Viewed,,No,08/01/2025 17:38,1628
+CUST-00654,08/05/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,12/05/2024 18:46,970
+CUST-00273,18/08/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,26/08/2024 09:32,321
+CUST-01607,02/07/2024,Chicago,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,04/07/2024 16:14,1167
+CUST-00234,01/04/2024,Chicago,United States,Mobile,Android,Email Campaign,Viewed,,No,10/04/2024 18:20,
+CUST-01735,12/10/2024,Toronto,Canada,Tablet,iPadOS,Google Search,Checkout,,No,12/10/2024 19:31,609
+CUST-01550,04/05/2024,Dublin,Ireland,Mobile,Android,Instagram Ads,Added to Cart,,No,15/05/2024 15:47,1633
+CUST-01366,01/07/2024,Los Angeles,United States,Mobile,Android,Affiliate,Checkout,,No,24/01/2024 14:20,821
+CUST-01355,25/05/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,14/06/2024 01:32,1121
+CUST-01360,11/09/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,13/09/2024 13:50,698
+CUST-01117,06/02/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,26/02/2024 03:50,1534
+CUST-00978,13/04/2024,Manchester,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,01/05/2024 14:33,349
+CUST-00449,03/06/2024,Dublin,Ireland,Desktop,macOS,Direct,Viewed,,No,05/06/2024 02:04,342
+CUST-00276,28/11/2024,Los Angeles,United States,Desktop,macOS,Email Campaign,Viewed,,No,06/12/2024 22:36,1793
+CUST-01250,27/09/2024,New York,United States,Desktop,Windows,Google Search,Added to Cart,,No,01/10/2024 20:56,1789
+CUST-00575,21/06/2024,Los Angeles,United States,Mobile,Android,Google Search,Added to Cart,,No,30/06/2024 02:09,1149
+CUST-00832,11/04/2024,Los Angeles,United States,Mobile,iOS,Affiliate,Added to Cart,,No,18/04/2024 21:05,1490
+CUST-00495,01/06/2024,Birmingham,United Kingdom,Desktop,Windows,Instagram Ads,Added to Cart,,No,21/06/2024 00:14,1445
+CUST-01479,13/02/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Added to Cart,,No,18/02/2024 19:21,1382
+CUST-00007,14/07/2024,Paris,France,Desktop,Windows,Affiliate,Viewed,,No,02/08/2024 18:41,616
+CUST-01670,31/10/2024,Berlin,Germany,Mobile,iOS,Direct,Added to Cart,,No,02/11/2024 09:50,233
+CUST-00250,08/02/2024,London,United Kingdom,Desktop,Windows,Affiliate,Purchased,299.45 ,Yes,27/02/2024 00:40,200
+CUST-01291,17/12/2024,Manchester,United Kingdom,Tablet,iPadOS,Google Search,Viewed,,No,05/01/2025 00:06,33
+CUST-00898,19/07/2024,New York,United States,Desktop,Windows,Referral,Added to Cart,,No,01/08/2024 15:51,1069
+CUST-01017,11/02/2024,Chicago,United States,Mobile,Android,Direct,Added to Cart,,No,27/02/2024 08:51,1197
+CUST-00757,24/04/2024,London,United Kingdom,Mobile,Android,Referral,Checkout,,No,06/05/2024 23:21,541
+CUST-01460,18/01/2024,New York,United States,Mobile,Android,Instagram Ads,Viewed,,No,27/01/2024 00:57,1419
+CUST-00542,14/03/2024,New York,United States,Mobile,iOS,Email Campaign,Viewed,,No,24/03/2024 07:47,974
+CUST-01740,26/06/2024,Leeds,United Kingdom,Mobile,Android,Referral,Viewed,,No,11/07/2024 01:36,1156
+CUST-01030,05/10/2024,Manchester,United Kingdom,Desktop,macOS,Direct,Added to Cart,,No,06/10/2024 07:28,851
+CUST-01326,01/10/2024,Toronto,Canada,Mobile,iOS,Direct,Viewed,,No,11/10/2024 12:27,1461
+CUST-01267,26/02/2024,Chicago,United States,Desktop,Windows,Instagram Ads,Viewed,,No,02/03/2024 16:29,
+CUST-01321,30/06/2024,Chicago,United States,Mobile,Android,Direct,Purchased,301.68 ,No,18/07/2024 12:22,1331
+CUST-00720,10/06/2024,London,United Kingdom,Mobile,iOS,Affiliate,Purchased,341.85 ,No,15/06/2024 16:26,1258
+CUST-01528,16/09/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Viewed,,No,25/09/2024 08:13,802
+CUST-00438,19/06/2024,Sydney,Australia,Desktop,Windows,Referral,Viewed,,No,27/06/2024 12:17,1404
+CUST-00971,14/07/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,25/07/2024 02:51,313
+CUST-01616,11/09/2024,New York,United States,Desktop,Windows,Referral,Viewed,,No,13/11/2024 10:55,1706
+CUST-01149,04/11/2024,Chicago,United States,Desktop,Windows,Google Search,Added to Cart,,No,06/11/2024 18:20,156
+CUST-00493,15/04/2024,Los Angeles,United States,Desktop,Windows,Referral,Added to Cart,,No,30/04/2024 10:43,
+CUST-00767,21/05/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,23/05/2024 17:06,1240
+CUST-00454,27/09/2024,Melbourne,Australia,Tablet,iPadOS,Facebook Ads,Viewed,,No,15/10/2024 08:17,608
+CUST-00130,28/12/2024,London,United Kingdom,Tablet,Android,Direct,Viewed,,No,02/01/2025 15:15,936
+CUST-01333,31/08/2024,London,United Kingdom,Mobile,iOS,Referral,Added to Cart,,No,11/09/2024 13:55,110
+CUST-01703,04/12/2024,Berlin,Germany,Tablet,Android,Referral,Added to Cart,,No,21/12/2024 04:47,649
+CUST-01440,04/11/2024,London,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,28/04/2024 18:25,1424
+CUST-00853,13/12/2024,Berlin,Germany,Desktop,macOS,Email Campaign,Added to Cart,,No,28/12/2024 09:53,70
+CUST-00443,30/06/2024,New York,United States,Mobile,iOS,Referral,Viewed,,No,17/07/2024 02:41,231
+CUST-01063,28/10/2024,London,United Kingdom,Tablet,iPadOS,Affiliate,Added to Cart,,No,17/11/2024 19:02,1156
+CUST-01085,15/09/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Checkout,,No,23/09/2024 16:36,854
+CUST-00164,15/12/2024,Manchester,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,04/01/2025 11:45,285
+CUST-01451,13/11/2024,Los Angeles,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,01/12/2024 17:09,1607
+CUST-01124,13/04/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,21/04/2024 00:15,1505
+CUST-01332,26/04/2024,New York,United States,Desktop,Windows,Affiliate,Purchased,304.65 ,No,11/05/2024 07:01,1520
+CUST-01517,04/08/2024,Manchester,United Kingdom,Tablet,Android,Email Campaign,Added to Cart,,No,07/08/2024 20:54,973
+CUST-01265,07/03/2024,Melbourne,Australia,Desktop,Windows,Affiliate,Added to Cart,,No,17/03/2024 09:03,1323
+CUST-00812,08/01/2024,New York,United States,Mobile,Android,Referral,Added to Cart,,No,20/08/2024 13:09,642
+CUST-00094,04/12/2024,Los Angeles,United States,Tablet,Android,Direct,Viewed,,No,28/04/2024 02:31,112
+CUST-01203,14/04/2024,Manchester,United Kingdom,Mobile,iOS,Instagram Ads,Checkout,,No,27/04/2024 07:34,717
+CUST-01029,31/01/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,09/02/2024 18:18,1016
+CUST-00872,17/12/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,22/12/2024 18:24,1554
+CUST-00632,13/01/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Added to Cart,,No,31/01/2024 20:24,1774
+CUST-00172,22/05/2024,London,United Kingdom,Tablet,Android,Google Search,Viewed,,No,03/06/2024 15:02,1748
+CUST-01447,10/11/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Checkout,,No,13/11/2024 18:41,254
+CUST-00498,24/08/2024,Dublin,Ireland,Mobile,Android,Direct,Added to Cart,,No,24/08/2024 11:29,1533
+CUST-01262,12/05/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,30/05/2024 15:21,234
+CUST-01772,01/09/2024,Leeds,United Kingdom,Mobile,Android,Facebook Ads,Purchased,427.68 ,No,19/09/2024 10:39,158
+CUST-01342,19/09/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Purchased,254.37 ,No,26/09/2024 21:54,
+CUST-00046,03/04/2024,Toronto,Canada,Desktop,Windows,Referral,Checkout,,No,10/03/2024 01:03,1727
+CUST-00158,18/09/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,03/10/2024 12:07,224
+CUST-01746,22/02/2024,London,United Kingdom,Desktop,macOS,Referral,Viewed,,No,12/03/2024 22:42,39
+CUST-01285,02/11/2024,New York,United States,Desktop,Windows,Facebook Ads,Added to Cart,,No,08/11/2024 15:48,90
+CUST-01551,03/07/2024,Birmingham,United Kingdom,Tablet,Android,Instagram Ads,Checkout,,No,09/07/2024 00:09,1568
+CUST-01079,17/05/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Added to Cart,,No,29/05/2024 14:31,1109
+CUST-00546,27/02/2024,Dublin,Ireland,Mobile,Android,Email Campaign,Purchased,109.60 ,No,09/03/2024 11:18,1752
+CUST-01788,13/10/2024,Manchester,United Kingdom,Desktop,Windows,Direct,Checkout,,No,24/10/2024 22:05,524
+CUST-01055,21/02/2024,New York,United States,Desktop,macOS,Email Campaign,Viewed,,No,22/02/2024 19:44,631
+CUST-01368,14/07/2024,Leeds,United Kingdom,Mobile,Android,Instagram Ads,Purchased,278.13 ,Yes,25/07/2024 03:17,1013
+CUST-01200,31/10/2024,Manchester,United Kingdom,Tablet,Android,Email Campaign,Added to Cart,,No,17/11/2024 12:14,450
+CUST-00180,17/10/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Checkout,,No,22/10/2024 21:16,1612
+CUST-01089,13/08/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Purchased,311.01 ,No,01/09/2024 08:56,654
+CUST-00780,30/04/2024,Toronto,Canada,Mobile,Android,Google Search,Added to Cart,,No,20/05/2024 00:39,1707
+CUST-01529,15/09/2024,Los Angeles,United States,Mobile,Android,Google Search,Checkout,,No,29/09/2024 15:02,1076
+CUST-00621,06/10/2024,New York,United States,Desktop,macOS,Direct,Checkout,,No,21/10/2024 00:22,466
+CUST-01105,02/10/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,07/10/2024 02:16,46
+CUST-01042,12/05/2024,Sydney,Australia,Tablet,iPadOS,Email Campaign,Checkout,,No,14/05/2024 14:39,1342
+CUST-00400,15/11/2024,Paris,France,Tablet,iPadOS,Direct,Added to Cart,,No,22/11/2024 10:30,896
+CUST-01335,03/06/2024,Manchester,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,22/06/2024 06:47,848
+CUST-00956,27/02/2024,Paris,France,Mobile,iOS,Instagram Ads,Viewed,,No,13/03/2024 19:00,1235
+CUST-00951,28/05/2024,Paris,France,Tablet,Android,Facebook Ads,Viewed,,No,09/06/2024 14:40,1500
+CUST-00043,28/01/2024,Los Angeles,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,16/02/2024 14:31,893
+CUST-00018,02/05/2024,Los Angeles,United States,Mobile,iOS,Direct,Viewed,,No,22/02/2024 18:53,290
+CUST-00875,16/08/2024,Manchester,United Kingdom,Mobile,Android,Direct,Viewed,,No,04/09/2024 05:46,62
+CUST-01297,21/01/2024,London,United Kingdom,Desktop,Windows,Affiliate,Checkout,,No,29/01/2024 12:28,917
+CUST-01288,16/03/2024,Dublin,Ireland,Tablet,Android,Email Campaign,Viewed,,No,22/03/2024 00:24,
+CUST-00722,12/06/2024,Paris,France,Tablet,Android,Affiliate,Added to Cart,,No,24/12/2024 13:03,834
+CUST-01313,16/04/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Added to Cart,,No,26/04/2024 07:32,1079
+CUST-00679,26/09/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Purchased,29.69 ,No,10/10/2024 02:43,567
+CUST-01281,27/02/2024,New York,United States,Mobile,iOS,Email Campaign,Purchased,19.45 ,No,16/03/2024 04:34,483
+CUST-00078,19/12/2024,Sydney,Australia,Mobile,Android,Instagram Ads,Purchased,339.43 ,Yes,21/12/2024 04:10,1604
+CUST-00143,22/02/2024,Toronto,Canada,Tablet,Android,Facebook Ads,Viewed,,No,28/02/2024 05:57,1160
+CUST-00347,29/10/2024,Toronto,Canada,Mobile,iOS,Instagram Ads,Viewed,,No,15/11/2024 06:30,312
+CUST-00933,04/01/2024,Sydney,Australia,Desktop,macOS,Facebook Ads,Added to Cart,,No,19/01/2024 13:49,1154
+CUST-01363,13/06/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,27/06/2024 21:46,1117
+CUST-01558,06/11/2024,Sydney,Australia,Mobile,iOS,Direct,Checkout,,No,14/06/2024 05:19,
+CUST-00565,25/11/2024,New York,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,27/11/2024 07:35,300
+CUST-01753,14/10/2024,Los Angeles,United States,Mobile,iOS,Email Campaign,Viewed,,No,28/10/2024 12:03,19
+CUST-00170,12/09/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Viewed,,No,01/10/2024 07:13,1577
+CUST-01591,28/08/2024,Paris,France,Desktop,macOS,Facebook Ads,Viewed,,No,16/09/2024 16:45,1508
+CUST-01278,09/04/2024,Toronto,Canada,Mobile,iOS,Google Search,Viewed,,No,09/04/2024 23:54,1144
+CUST-01094,18/11/2024,Manchester,United Kingdom,Tablet,Android,Facebook Ads,Checkout,,No,26/11/2024 02:50,760
+CUST-00304,06/05/2024,Melbourne,Australia,Mobile,iOS,Direct,Added to Cart,,No,21/06/2024 09:09,1286
+CUST-01357,06/08/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,26/08/2024 16:35,838
+CUST-00726,05/11/2024,New York,United States,Tablet,iPadOS,Facebook Ads,Checkout,,No,22/11/2024 04:03,1115
+CUST-00334,26/08/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,16/09/2024 01:40,543
+CUST-01540,24/02/2024,Chicago,United States,Tablet,iPadOS,Referral,Checkout,,No,24/02/2024 16:56,1534
+CUST-01564,15/12/2024,Melbourne,Australia,Mobile,iOS,Direct,Viewed,,No,20/12/2024 10:16,304
+CUST-00950,05/04/2024,Toronto,Canada,Desktop,macOS,Affiliate,Viewed,,No,25/04/2024 00:40,645
+CUST-01004,03/09/2024,Leeds,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,09/09/2024 02:13,1482
+CUST-00411,12/05/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Viewed,,No,25/05/2024 06:06,848
+CUST-01562,06/05/2024,Berlin,Germany,Desktop,macOS,Email Campaign,Added to Cart,,No,13/05/2024 10:17,1302
+CUST-01108,21/07/2024,New York,United States,Desktop,Windows,Google Search,Viewed,,No,28/07/2024 14:41,963
+CUST-00523,30/09/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Viewed,,No,20/10/2024 09:04,1768
+CUST-00638,01/05/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Purchased,207.06 ,No,20/05/2024 19:50,788
+CUST-00356,29/01/2024,Toronto,Canada,Tablet,Android,Email Campaign,Added to Cart,,No,10/02/2024 18:01,627
+CUST-00919,27/01/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,03/02/2024 20:59,1225
+CUST-00714,27/02/2024,Dublin,Ireland,Desktop,Windows,Instagram Ads,Added to Cart,,No,09/03/2024 01:00,953
+CUST-01759,23/09/2024,Los Angeles,United States,Tablet,Android,Direct,Viewed,,No,25/09/2024 01:33,
+CUST-01484,23/07/2024,Birmingham,United Kingdom,Desktop,Windows,Email Campaign,Added to Cart,,No,10/08/2024 00:25,507
+CUST-00427,17/09/2024,Leeds,United Kingdom,Mobile,iOS,Referral,Viewed,,No,22/09/2024 15:55,68
+CUST-01590,29/04/2024,New York,United States,Desktop,macOS,Instagram Ads,Checkout,,No,01/05/2024 20:48,1250
+CUST-01604,26/07/2024,New York,United States,Tablet,iPadOS,Facebook Ads,Viewed,,No,11/08/2024 17:56,947
+CUST-00818,10/09/2024,Berlin,Germany,Desktop,Windows,Affiliate,Viewed,,No,21/09/2024 17:02,554
+CUST-01170,22/02/2024,Chicago,United States,Desktop,Windows,Direct,Added to Cart,,No,01/03/2024 22:20,917
+CUST-00553,11/11/2024,London,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,20/11/2024 09:16,120
+CUST-00500,12/07/2024,Toronto,Canada,Mobile,Android,Google Search,Checkout,,No,26/07/2024 13:20,1647
+CUST-01036,28/10/2024,Berlin,Germany,Desktop,Windows,Referral,Viewed,,No,07/11/2024 07:50,797
+CUST-01179,26/05/2024,Chicago,United States,Desktop,Windows,Google Search,Added to Cart,,No,04/06/2024 11:15,330
+CUST-01045,19/12/2024,New York,United States,Desktop,macOS,Direct,Added to Cart,,No,26/12/2024 01:08,1452
+CUST-00558,12/01/2024,New York,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,26/01/2024 20:04,801
+CUST-00927,09/03/2024,Berlin,Germany,Desktop,Windows,Instagram Ads,Viewed,,No,24/03/2024 09:37,571
+CUST-00015,11/10/2024,Leeds,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,12/10/2024 18:43,337
+CUST-01706,22/12/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,25/12/2024 17:28,532
+CUST-00557,24/06/2024,Leeds,United Kingdom,Tablet,Android,Google Search,Checkout,,No,03/07/2024 23:58,873
+CUST-00215,15/07/2024,Dublin,Ireland,Mobile,Android,Email Campaign,Viewed,,No,29/07/2024 10:10,1435
+CUST-00079,26/11/2024,Manchester,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,09/12/2024 14:22,1201
+CUST-01714,09/02/2024,Los Angeles,United States,Mobile,Android,Email Campaign,Added to Cart,,No,12/09/2024 19:15,756
+CUST-01100,06/07/2024,New York,United States,Mobile,Android,Facebook Ads,Checkout,,No,22/07/2024 08:26,257
+CUST-00819,06/04/2024,Leeds,United Kingdom,Mobile,iOS,Email Campaign,Viewed,,No,19/04/2024 17:30,599
+CUST-00065,16/02/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Checkout,,No,20/02/2024 21:43,1235
+CUST-00883,23/11/2024,London,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,05/12/2024 11:03,1340
+CUST-01716,26/01/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,31/01/2024 18:48,358
+CUST-00361,20/06/2024,New York,United States,Mobile,iOS,Direct,Purchased,417.67 ,Yes,03/07/2024 03:18,
+CUST-00896,12/02/2024,Manchester,United Kingdom,Tablet,Android,Direct,Checkout,,No,22/02/2024 03:59,1742
+CUST-01474,21/02/2024,Dublin,Ireland,Mobile,iOS,Facebook Ads,Purchased,67.95 ,Yes,04/03/2024 11:41,596
+CUST-00468,29/12/2024,London,United Kingdom,Desktop,Windows,Instagram Ads,Added to Cart,,No,09/01/2025 01:01,
+CUST-00306,11/07/2024,London,United Kingdom,Desktop,Windows,Google Search,Checkout,,No,25/07/2024 20:13,1372
+CUST-01349,22/09/2024,Toronto,Canada,Desktop,Windows,Google Search,Viewed,,No,23/09/2024 08:27,1603
+CUST-01512,03/10/2024,Paris,France,Tablet,Android,Affiliate,Viewed,,No,16/10/2024 15:46,510
+CUST-00665,30/06/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Viewed,,No,17/07/2024 00:20,
+CUST-00942,30/01/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,03/02/2024 07:58,1383
+CUST-00424,11/06/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,19/06/2024 11:18,1270
+CUST-00550,23/07/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,03/08/2024 10:16,1404
+CUST-00070,31/07/2024,Sydney,Australia,Desktop,macOS,Instagram Ads,Checkout,,No,01/08/2024 22:27,778
+CUST-01645,11/10/2024,Paris,France,Desktop,Windows,Referral,Viewed,,No,26/10/2024 01:18,1600
+CUST-00769,06/09/2024,Paris,France,Mobile,Android,Facebook Ads,Viewed,,No,24/09/2024 13:35,878
+CUST-00733,25/09/2024,Toronto,Canada,Mobile,iOS,Direct,Viewed,,No,07/10/2024 03:18,1175
+CUST-00667,08/06/2024,Toronto,Canada,Desktop,macOS,Google Search,Viewed,,No,17/08/2024 11:23,218
+CUST-01248,12/05/2024,New York,United States,Tablet,iPadOS,Affiliate,Viewed,,No,18/05/2024 05:51,118
+CUST-00828,28/08/2024,Paris,France,Mobile,Android,Direct,Viewed,,No,07/09/2024 11:42,1505
+CUST-00181,24/02/2024,Melbourne,Australia,Desktop,macOS,Direct,Checkout,,No,29/02/2024 20:59,638
+CUST-01144,19/10/2024,Toronto,Canada,Mobile,Android,Email Campaign,Viewed,,No,26/10/2024 12:14,1297
+CUST-00451,17/08/2024,London,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,23/08/2024 11:50,522
+CUST-01091,15/11/2024,Berlin,Germany,Mobile,Android,Email Campaign,Viewed,,No,01/12/2024 05:44,329
+CUST-00219,21/12/2024,Los Angeles,United States,Desktop,Windows,Facebook Ads,Viewed,,No,08/01/2025 15:56,593
+CUST-01133,22/05/2024,Toronto,Canada,Mobile,iOS,Direct,Viewed,,No,29/05/2024 00:15,1005
+CUST-00255,12/01/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,15/01/2024 21:52,845
+CUST-00248,11/11/2024,Manchester,United Kingdom,Desktop,macOS,Email Campaign,Viewed,,No,16/11/2024 17:07,581
+CUST-01507,21/07/2024,Melbourne,Australia,Mobile,iOS,Direct,Added to Cart,,No,21/07/2024 19:46,1640
+CUST-00651,10/01/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Purchased,302.28 ,No,30/01/2024 12:55,703
+CUST-01516,13/04/2024,Sydney,Australia,Mobile,Android,Referral,Viewed,,No,03/05/2024 23:15,1333
+CUST-00134,09/12/2024,New York,United States,Tablet,iPadOS,Referral,Added to Cart,,No,28/09/2024 04:02,1329
+CUST-00724,19/10/2024,Chicago,United States,Mobile,Android,Google Search,Viewed,,No,20/10/2024 01:52,1756
+CUST-00135,08/02/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Purchased,177.34 ,No,27/02/2024 12:45,
+CUST-01511,20/04/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,30/04/2024 16:37,1430
+CUST-01689,13/06/2024,Melbourne,Australia,Desktop,Windows,Affiliate,Added to Cart,,No,23/06/2024 04:36,
+CUST-01531,23/05/2024,Berlin,Germany,Mobile,Android,Direct,Viewed,,No,07/06/2024 03:35,876
+CUST-00238,21/01/2024,Dublin,Ireland,Desktop,Windows,Google Search,Added to Cart,,No,05/02/2024 18:36,1237
+CUST-00324,29/04/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,30/04/2024 09:34,449
+CUST-00888,30/12/2024,London,United Kingdom,Mobile,iOS,Referral,Added to Cart,,No,06/01/2025 23:26,768
+CUST-00031,20/05/2024,Los Angeles,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,25/05/2024 14:00,146
+CUST-01779,18/07/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,18/07/2024 19:34,623
+CUST-01554,17/12/2024,Berlin,Germany,Desktop,macOS,Google Search,Added to Cart,,No,22/12/2024 10:27,1794
+CUST-00629,03/12/2024,New York,United States,Tablet,Android,Email Campaign,Added to Cart,,No,30/03/2024 22:23,962
+CUST-00344,26/08/2024,Paris,France,Mobile,Android,Instagram Ads,Added to Cart,,No,27/08/2024 21:49,
+CUST-01427,21/04/2024,Chicago,United States,Tablet,iPadOS,Google Search,Viewed,,No,03/05/2024 14:54,343
+CUST-00674,19/07/2024,Dublin,Ireland,Tablet,iPadOS,Email Campaign,Checkout,,No,26/07/2024 19:46,966
+CUST-01362,01/01/2024,Sydney,Australia,Mobile,iOS,Direct,Viewed,,No,06/01/2024 04:51,25
+CUST-00477,22/09/2024,London,United Kingdom,Mobile,Android,Referral,Viewed,,No,27/09/2024 01:21,155
+CUST-00831,31/05/2024,Sydney,Australia,Mobile,Android,Email Campaign,Added to Cart,,No,08/06/2024 03:55,235
+CUST-01782,08/08/2024,Birmingham,United Kingdom,Desktop,macOS,Affiliate,Added to Cart,,No,25/08/2024 02:47,525
+CUST-01003,21/01/2024,Los Angeles,United States,Desktop,macOS,Instagram Ads,Viewed,,No,23/01/2024 20:33,156
+CUST-00009,07/09/2024,Toronto,Canada,Desktop,Windows,Instagram Ads,Added to Cart,,No,17/09/2024 08:42,272
+CUST-00246,13/02/2024,Toronto,Canada,Mobile,Android,Direct,Viewed,,No,18/02/2024 04:05,1652
+CUST-01595,06/07/2024,Birmingham,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,21/06/2024 16:33,1670
+CUST-00719,26/06/2024,Melbourne,Australia,Tablet,iPadOS,Google Search,Purchased,29.04 ,No,07/07/2024 01:10,1099
+CUST-00136,01/09/2024,Dublin,Ireland,Desktop,Windows,Facebook Ads,Added to Cart,,No,29/01/2024 09:16,1284
+CUST-01566,02/07/2024,Paris,France,Tablet,iPadOS,Referral,Added to Cart,,No,20/07/2024 14:59,119
+CUST-00140,15/10/2024,Toronto,Canada,Tablet,Android,Email Campaign,Added to Cart,,No,17/10/2024 10:45,1254
+CUST-00412,16/02/2024,New York,United States,Mobile,Android,Affiliate,Viewed,,No,06/03/2024 10:27,1667
+CUST-01308,31/10/2024,Leeds,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,08/11/2024 19:45,1001
+CUST-00105,25/08/2024,Manchester,United Kingdom,Desktop,macOS,Email Campaign,Viewed,,No,10/09/2024 12:25,510
+CUST-00420,26/01/2024,Sydney,Australia,Desktop,Windows,Google Search,Checkout,,No,06/02/2024 19:36,1709
+CUST-00369,16/06/2024,New York,United States,Mobile,iOS,Affiliate,Viewed,,No,26/06/2024 15:48,1673
+CUST-01148,04/11/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Checkout,,No,09/11/2024 07:44,1445
+CUST-00909,02/09/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,21/09/2024 07:45,214
+CUST-01459,28/07/2024,Sydney,Australia,Tablet,Android,Instagram Ads,Purchased,430.83 ,Yes,29/07/2024 06:26,1177
+CUST-00122,06/11/2024,Dublin,Ireland,Tablet,iPadOS,Affiliate,Viewed,,No,22/11/2024 15:36,755
+CUST-00417,19/06/2024,Birmingham,United Kingdom,Desktop,Windows,Referral,Checkout,,No,20/06/2024 05:22,923
+CUST-01066,26/03/2024,London,United Kingdom,Mobile,Android,Affiliate,Added to Cart,,No,10/04/2024 22:48,1749
+CUST-01084,16/05/2024,Manchester,United Kingdom,Tablet,iPadOS,Email Campaign,Purchased,328.64 ,Yes,18/05/2024 11:26,1721
+CUST-00808,19/04/2024,Toronto,Canada,Desktop,macOS,Affiliate,Viewed,,No,04/05/2024 11:11,1165
+CUST-00737,31/03/2024,Berlin,Germany,Tablet,Android,Email Campaign,Viewed,,No,11/04/2024 19:57,1045
+CUST-01454,13/09/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,27/09/2024 06:37,1569
+CUST-00249,18/06/2024,Melbourne,Australia,Desktop,macOS,Email Campaign,Checkout,,No,06/07/2024 08:28,1517
+CUST-00619,05/02/2024,Chicago,United States,Tablet,iPadOS,Google Search,Viewed,,No,05/02/2024 16:04,364
+CUST-00491,31/08/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Added to Cart,,No,14/09/2024 19:57,805
+CUST-00302,28/05/2024,Manchester,United Kingdom,Desktop,macOS,Facebook Ads,Added to Cart,,No,06/06/2024 02:21,291
+CUST-00807,06/09/2024,Paris,France,Mobile,iOS,Facebook Ads,Viewed,,No,26/09/2024 02:30,745
+CUST-00294,06/02/2024,Berlin,Germany,Mobile,Android,Direct,Viewed,,No,21/02/2024 20:28,134
+CUST-00541,25/01/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,27/01/2024 23:13,
+CUST-00862,29/03/2024,Dublin,Ireland,Mobile,Android,Google Search,Viewed,,No,09/04/2024 12:07,1557
+CUST-00286,25/08/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Purchased,98.60 ,No,27/08/2024 15:09,521
+CUST-00861,27/02/2024,Paris,France,Mobile,iOS,Email Campaign,Viewed,,No,17/03/2024 03:05,987
+CUST-01107,10/03/2024,Los Angeles,United States,Desktop,macOS,Direct,Added to Cart,,No,22/03/2024 23:26,1230
+CUST-01438,20/04/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,26/04/2024 22:56,303
+CUST-01691,09/12/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,01/10/2024 00:36,254
+CUST-00618,10/09/2024,Leeds,United Kingdom,Desktop,macOS,Email Campaign,Viewed,,No,14/09/2024 05:29,1423
+CUST-01034,30/01/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Checkout,,No,08/02/2024 21:41,531
+CUST-00256,10/01/2024,Leeds,United Kingdom,Tablet,iPadOS,Referral,Viewed,,No,19/01/2024 04:19,387
+CUST-00918,08/06/2024,London,United Kingdom,Tablet,Android,Affiliate,Viewed,,No,27/06/2024 22:01,875
+CUST-01648,31/08/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,19/09/2024 15:11,1243
+CUST-01436,18/04/2024,London,United Kingdom,Tablet,iPadOS,Email Campaign,Viewed,,No,21/04/2024 07:55,800
+CUST-01498,23/12/2024,Manchester,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,27/12/2024 12:39,1111
+CUST-00596,17/05/2024,Los Angeles,United States,Desktop,Windows,Instagram Ads,Added to Cart,,No,21/05/2024 05:58,1533
+CUST-01185,08/04/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,23/04/2024 21:39,1178
+CUST-00066,15/03/2024,New York,United States,Mobile,iOS,Facebook Ads,Viewed,,No,22/03/2024 19:43,
+CUST-01083,27/12/2024,Berlin,Germany,Desktop,Windows,Direct,Viewed,,No,10/01/2025 11:17,1227
+CUST-00341,10/11/2024,Sydney,Australia,Mobile,iOS,Email Campaign,Viewed,,No,13/10/2024 02:00,1362
+CUST-00465,23/05/2024,Paris,France,Desktop,macOS,Email Campaign,Viewed,,No,06/06/2024 18:43,1242
+CUST-01220,21/04/2024,Leeds,United Kingdom,Tablet,Android,Referral,Purchased,266.48 ,No,09/05/2024 18:14,1195
+CUST-00187,17/07/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,27/07/2024 10:50,341
+CUST-01372,10/04/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,15/04/2024 21:54,808
+CUST-01764,27/02/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Viewed,,No,08/03/2024 00:20,1495
+CUST-00986,19/10/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Viewed,,No,01/11/2024 12:03,339
+CUST-00337,24/06/2024,Birmingham,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,06/07/2024 15:49,846
+CUST-00708,03/09/2024,Los Angeles,United States,Desktop,Windows,Direct,Checkout,,No,13/03/2024 09:33,1700
+CUST-00004,13/07/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Added to Cart,,No,28/07/2024 23:07,1325
+CUST-01269,27/05/2024,Birmingham,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,05/06/2024 09:13,
+CUST-01417,30/01/2024,Los Angeles,United States,Desktop,macOS,Referral,Viewed,,No,17/02/2024 11:18,922
+CUST-01019,12/09/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Purchased,83.47 ,No,15/09/2024 02:23,1394
+CUST-01680,03/02/2024,Birmingham,United Kingdom,Mobile,Android,Referral,Purchased,259.00 ,Yes,21/02/2024 07:10,1389
+CUST-00437,25/08/2024,Sydney,Australia,Mobile,iOS,Facebook Ads,Checkout,,No,12/09/2024 13:23,1181
+CUST-00279,22/07/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,28/07/2024 01:04,1093
+CUST-00237,08/05/2024,Melbourne,Australia,Mobile,Android,Email Campaign,Viewed,,No,17/05/2024 20:23,370
+CUST-01563,23/09/2024,New York,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,05/10/2024 18:23,234
+CUST-00569,07/12/2024,Los Angeles,United States,Desktop,macOS,Facebook Ads,Added to Cart,,No,26/12/2024 18:58,319
+CUST-00483,11/02/2024,London,United Kingdom,Mobile,iOS,Referral,Added to Cart,,No,21/02/2024 14:08,1437
+CUST-00142,17/05/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Checkout,,No,22/05/2024 23:36,934
+CUST-01505,24/12/2024,Toronto,Canada,Tablet,iPadOS,Affiliate,Added to Cart,,No,04/01/2025 02:13,64
+CUST-01789,07/10/2024,London,United Kingdom,Mobile,iOS,Direct,Checkout,,No,22/07/2024 01:08,1146
+CUST-01770,26/02/2024,Chicago,United States,Desktop,Windows,Facebook Ads,Added to Cart,,No,02/03/2024 14:00,1298
+CUST-00571,30/07/2024,Manchester,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,01/08/2024 15:54,1676
+CUST-00601,04/07/2024,Manchester,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,13/07/2024 05:34,938
+CUST-00486,01/04/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,07/04/2024 13:04,93
+CUST-01074,29/02/2024,New York,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,08/03/2024 02:32,
+CUST-01729,08/11/2024,Berlin,Germany,Mobile,Android,Email Campaign,Viewed,,No,28/11/2024 15:14,1648
+CUST-00932,25/11/2024,Leeds,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,01/12/2024 05:25,1123
+CUST-01032,27/06/2024,Toronto,Canada,Tablet,iPadOS,Direct,Viewed,,No,02/07/2024 03:21,1389
+CUST-00877,25/07/2024,Chicago,United States,Desktop,macOS,Direct,Added to Cart,,No,13/08/2024 00:32,1168
+CUST-00914,22/01/2024,Leeds,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,07/02/2024 00:19,189
+CUST-01757,26/07/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,10/08/2024 09:56,827
+CUST-00371,26/12/2024,London,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,14/01/2025 06:43,17
+CUST-01695,01/11/2024,London,United Kingdom,Mobile,Android,Referral,Purchased,286.79 ,No,10/11/2024 14:37,435
+CUST-00705,19/09/2024,Paris,France,Mobile,Android,Affiliate,Viewed,,No,09/10/2024 17:03,1583
+CUST-00556,17/04/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,08/05/2024 12:16,217
+CUST-00098,17/10/2024,Manchester,United Kingdom,Tablet,iPadOS,Email Campaign,Added to Cart,,No,23/10/2024 17:10,1521
+CUST-00689,08/06/2024,Toronto,Canada,Desktop,Windows,Instagram Ads,Viewed,,No,10/08/2024 03:16,553
+CUST-01023,28/06/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,28/06/2024 21:51,305
+CUST-00376,17/11/2024,Sydney,Australia,Tablet,Android,Google Search,Checkout,,No,18/11/2024 08:49,1079
+CUST-01408,02/06/2024,Chicago,United States,Tablet,iPadOS,Instagram Ads,Viewed,,No,20/06/2024 10:32,17
+CUST-00161,20/09/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Viewed,,No,23/09/2024 05:28,1399
+CUST-00881,04/11/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,15/11/2024 11:48,
+CUST-01294,25/08/2024,Sydney,Australia,Mobile,Android,Referral,Checkout,,No,31/08/2024 16:30,1148
+CUST-00166,01/01/2024,London,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,08/01/2024 14:46,285
+CUST-00370,19/08/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Viewed,,No,27/08/2024 09:01,47
+CUST-00972,06/09/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,22/06/2024 08:48,98
+CUST-00517,25/10/2024,Leeds,United Kingdom,Tablet,Android,Facebook Ads,Added to Cart,,No,10/11/2024 04:31,1411
+CUST-00987,18/06/2024,New York,United States,Tablet,Android,Direct,Viewed,,No,20/06/2024 19:14,1521
+CUST-00213,18/03/2024,Chicago,United States,Desktop,Windows,Affiliate,Viewed,,No,05/04/2024 14:00,1307
+CUST-00934,19/02/2024,London,United Kingdom,Desktop,Windows,Google Search,Checkout,,No,24/02/2024 09:50,1370
+CUST-00508,11/06/2024,Los Angeles,United States,Tablet,iPadOS,Google Search,Added to Cart,,No,14/11/2024 10:03,1263
+CUST-00358,19/01/2024,Chicago,United States,Mobile,iOS,Direct,Added to Cart,,No,31/01/2024 20:21,304
+CUST-00604,10/09/2024,Toronto,Canada,Mobile,Android,Instagram Ads,Added to Cart,,No,23/09/2024 01:52,1493
+CUST-00011,11/01/2024,New York,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,30/01/2024 05:25,1385
+CUST-00792,15/02/2024,Dublin,Ireland,Mobile,iOS,Email Campaign,Viewed,,No,23/02/2024 16:10,1702
+CUST-00625,30/10/2024,Berlin,Germany,Desktop,Windows,Facebook Ads,Added to Cart,,No,02/11/2024 02:29,1043
+CUST-00916,30/05/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,06/06/2024 07:25,760
+CUST-00574,31/10/2024,Manchester,United Kingdom,Desktop,macOS,Google Search,Checkout,,No,04/11/2024 02:45,1445
+CUST-01682,18/10/2024,Berlin,Germany,Mobile,iOS,Instagram Ads,Checkout,,No,19/10/2024 04:12,780
+CUST-01209,30/12/2024,Toronto,Canada,Mobile,Android,Referral,Purchased,38.81 ,No,31/12/2024 11:22,932
+CUST-00578,07/06/2024,Leeds,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,08/06/2024 06:50,745
+CUST-01302,27/03/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,31/03/2024 00:37,627
+CUST-00289,19/12/2024,Manchester,United Kingdom,Desktop,macOS,Facebook Ads,Added to Cart,,No,27/12/2024 07:18,272
+CUST-00209,02/02/2024,Chicago,United States,Desktop,Windows,Instagram Ads,Viewed,,No,13/02/2024 12:14,1658
+CUST-00992,14/07/2024,Melbourne,Australia,Mobile,iOS,Facebook Ads,Viewed,,No,18/07/2024 16:33,388
+CUST-01059,21/12/2024,Birmingham,United Kingdom,Mobile,Android,Google Search,Checkout,,No,05/01/2025 10:29,662
+CUST-01471,08/07/2024,Chicago,United States,Desktop,Windows,Direct,Added to Cart,,No,15/07/2024 21:51,392
+CUST-00608,09/09/2024,New York,United States,Desktop,Windows,Facebook Ads,Purchased,117.84 ,Yes,26/09/2024 11:09,1738
+CUST-00680,15/09/2024,London,United Kingdom,Tablet,Android,Google Search,Added to Cart,,No,28/09/2024 13:07,1537
+CUST-00964,27/07/2024,New York,United States,Desktop,macOS,Facebook Ads,Added to Cart,,No,13/08/2024 13:40,1204
+CUST-01115,26/01/2024,New York,United States,Mobile,iOS,Google Search,Viewed,,No,15/02/2024 06:05,778
+CUST-00275,18/11/2024,Chicago,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,26/11/2024 21:30,1255
+CUST-01015,09/03/2024,London,United Kingdom,Tablet,Android,Google Search,Added to Cart,,No,26/03/2024 20:15,1180
+CUST-00709,22/07/2024,Manchester,United Kingdom,Tablet,iPadOS,Google Search,Purchased,299.51 ,Yes,30/07/2024 08:48,878
+CUST-01793,23/06/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Added to Cart,,No,04/07/2024 02:13,1457
+CUST-00543,07/08/2024,Los Angeles,United States,Mobile,Android,Email Campaign,Purchased,48.36 ,No,20/08/2024 00:57,1024
+CUST-01596,23/12/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Viewed,,No,08/01/2025 13:52,868
+CUST-01653,10/05/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Added to Cart,,No,10/05/2024 17:52,463
+CUST-00082,24/06/2024,Birmingham,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,02/07/2024 01:04,1405
+CUST-01090,30/05/2024,Paris,France,Tablet,iPadOS,Direct,Viewed,,No,02/06/2024 03:15,251
+CUST-01150,27/06/2024,New York,United States,Desktop,Windows,Affiliate,Viewed,,No,12/07/2024 21:42,
+CUST-00407,28/09/2024,Leeds,United Kingdom,Desktop,macOS,Facebook Ads,Viewed,,No,12/10/2024 20:18,1294
+CUST-01577,21/04/2024,Manchester,United Kingdom,Mobile,Android,Direct,Purchased,177.95 ,No,03/05/2024 19:01,439
+CUST-00108,28/08/2024,London,United Kingdom,Mobile,Android,Direct,Purchased,174.18 ,Yes,01/09/2024 13:24,1047
+CUST-00430,23/07/2024,Leeds,United Kingdom,Mobile,iOS,Direct,Viewed,,No,29/07/2024 11:14,650
+CUST-01346,10/07/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,10/07/2024 11:49,939
+CUST-00242,02/10/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,14/10/2024 06:24,1544
+CUST-00844,16/01/2024,Sydney,Australia,Tablet,iPadOS,Direct,Checkout,,No,22/01/2024 01:21,1389
+CUST-01631,27/10/2024,London,United Kingdom,Tablet,Android,Email Campaign,Added to Cart,,No,02/11/2024 10:41,695
+CUST-01633,27/07/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Checkout,,No,13/08/2024 14:07,260
+CUST-00157,16/12/2024,Melbourne,Australia,Tablet,iPadOS,Google Search,Checkout,,No,21/12/2024 12:54,1535
+CUST-01687,03/09/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,23/09/2024 15:37,69
+CUST-00456,04/02/2024,Berlin,Germany,Desktop,Windows,Affiliate,Purchased,346.45 ,No,18/02/2024 06:37,197
+CUST-01201,18/07/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,20/07/2024 15:41,912
+CUST-01048,18/03/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,20/03/2024 08:11,1564
+CUST-01493,15/08/2024,Los Angeles,United States,Desktop,macOS,Google Search,Viewed,,No,24/08/2024 15:28,891
+CUST-00841,08/09/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Viewed,,No,09/09/2024 18:28,636
+CUST-00513,23/03/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,26/03/2024 12:26,1106
+CUST-01704,29/03/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Purchased,250.73 ,Yes,30/03/2024 05:58,1094
+CUST-01331,26/02/2024,Los Angeles,United States,Desktop,macOS,Facebook Ads,Viewed,,No,17/03/2024 19:24,892
+CUST-00762,24/06/2024,London,United Kingdom,Desktop,macOS,Direct,Viewed,,No,15/07/2024 13:53,1474
+CUST-01720,27/11/2024,Sydney,Australia,Desktop,Windows,Referral,Viewed,,No,15/12/2024 20:45,1590
+CUST-01726,21/03/2024,New York,United States,Desktop,macOS,Facebook Ads,Purchased,372.35 ,Yes,31/03/2024 11:00,1109
+CUST-00186,08/10/2024,London,United Kingdom,Desktop,Windows,Direct,Checkout,,No,25/10/2024 09:26,719
+CUST-00239,11/11/2024,Dublin,Ireland,Desktop,macOS,Facebook Ads,Viewed,,No,22/11/2024 12:57,1127
+CUST-00200,04/08/2024,Leeds,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,15/08/2024 22:51,1079
+CUST-01785,09/11/2024,Toronto,Canada,Desktop,macOS,Facebook Ads,Added to Cart,,No,11/11/2024 13:39,
+CUST-00904,01/08/2024,Toronto,Canada,Desktop,macOS,Email Campaign,Checkout,,No,08/08/2024 03:23,1224
+CUST-01650,02/03/2024,Berlin,Germany,Desktop,Windows,Instagram Ads,Purchased,46.29 ,No,09/03/2024 14:44,1241
+CUST-00650,23/12/2024,Manchester,United Kingdom,Mobile,iOS,Referral,Viewed,,No,31/12/2024 20:01,586
+CUST-00499,06/01/2024,Melbourne,Australia,Desktop,macOS,Google Search,Checkout,,No,07/01/2024 09:56,122
+CUST-00766,08/02/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Purchased,347.60 ,Yes,22/02/2024 03:09,1723
+CUST-01398,24/03/2024,Paris,France,Desktop,Windows,Referral,Added to Cart,,No,08/04/2024 11:00,146
+CUST-00375,03/02/2024,London,United Kingdom,Mobile,Android,Direct,Viewed,,No,06/02/2024 18:51,323
+CUST-01773,06/02/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,17/02/2024 01:18,1485
+CUST-00895,08/09/2024,Leeds,United Kingdom,Desktop,Windows,Direct,Viewed,,No,25/09/2024 17:25,1230
+CUST-01383,27/08/2024,Chicago,United States,Tablet,iPadOS,Facebook Ads,Viewed,,No,17/09/2024 10:14,454
+CUST-01659,06/06/2024,Chicago,United States,Mobile,Android,Facebook Ads,Purchased,240.05 ,No,12/06/2024 16:59,1612
+CUST-01381,10/07/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,27/07/2024 13:14,1093
+CUST-00524,05/12/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,20/05/2024 00:12,1196
+CUST-01174,26/02/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,02/03/2024 09:59,
+CUST-00729,24/12/2024,New York,United States,Mobile,iOS,Google Search,Purchased,260.14 ,Yes,27/12/2024 18:23,618
+CUST-00093,03/05/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Checkout,,No,07/05/2024 20:55,952
+CUST-01570,30/04/2024,Birmingham,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,15/05/2024 03:29,1319
+CUST-00351,02/04/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Purchased,167.91 ,Yes,02/04/2024 23:24,1726
+CUST-01499,03/12/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Viewed,,No,06/12/2024 19:09,1381
+CUST-01394,08/01/2024,Toronto,Canada,Mobile,Android,Referral,Viewed,,No,13/01/2024 15:27,932
+CUST-00692,20/11/2024,Sydney,Australia,Tablet,Android,Direct,Added to Cart,,No,27/11/2024 20:06,969
+CUST-00434,02/12/2024,Chicago,United States,Tablet,iPadOS,Direct,Viewed,,No,29/02/2024 21:09,1252
+CUST-01256,02/05/2024,Sydney,Australia,Mobile,iOS,Direct,Added to Cart,,No,21/05/2024 09:06,318
+CUST-01797,15/12/2024,Toronto,Canada,Mobile,iOS,Affiliate,Viewed,,No,01/01/2025 03:47,358
+CUST-01236,28/12/2024,New York,United States,Mobile,Android,Affiliate,Checkout,,No,11/01/2025 00:00,1314
+CUST-01600,17/02/2024,Leeds,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,02/03/2024 00:22,1394
+CUST-00564,07/06/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Purchased,58.60 ,Yes,20/06/2024 01:55,
+CUST-00162,19/11/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Viewed,,No,05/12/2024 08:47,946
+CUST-01043,18/09/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,04/10/2024 19:11,1751
+CUST-01058,08/07/2024,Toronto,Canada,Mobile,iOS,Google Search,Viewed,,No,10/07/2024 16:23,725
+CUST-01783,24/12/2024,Birmingham,United Kingdom,Desktop,Windows,Affiliate,Added to Cart,,No,12/01/2025 03:19,430
+CUST-00611,12/05/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,15/05/2024 16:34,668
+CUST-01067,05/06/2024,Chicago,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,17/05/2024 16:31,692
+CUST-00744,07/02/2024,Manchester,United Kingdom,Mobile,iOS,Affiliate,Purchased,157.61 ,No,19/02/2024 08:48,1591
+CUST-00096,22/02/2024,Los Angeles,United States,Desktop,Windows,Direct,Viewed,,No,02/03/2024 13:54,737
+CUST-00617,14/12/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Purchased,246.48 ,Yes,28/12/2024 23:48,1518
+CUST-01497,06/11/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,13/11/2024 15:20,1442
+CUST-00182,21/01/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,27/01/2024 16:49,843
+CUST-01229,15/05/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,19/05/2024 14:33,442
+CUST-01795,07/06/2024,New York,United States,Desktop,macOS,Email Campaign,Viewed,,No,25/06/2024 22:46,737
+CUST-00656,18/11/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,25/11/2024 00:21,1478
+CUST-01086,28/03/2024,New York,United States,Tablet,iPadOS,Google Search,Added to Cart,,No,29/03/2024 12:41,1687
+CUST-00010,10/08/2024,Paris,France,Desktop,Windows,Google Search,Viewed,,No,22/10/2024 13:00,262
+CUST-00772,29/12/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,17/01/2025 07:59,1301
+CUST-00236,24/04/2024,Toronto,Canada,Mobile,Android,Referral,Viewed,,No,03/05/2024 05:33,655
+CUST-01093,19/05/2024,London,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,30/05/2024 12:52,666
+CUST-01246,14/07/2024,Manchester,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,31/07/2024 05:20,1566
+CUST-00917,02/06/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Purchased,172.70 ,No,09/06/2024 08:48,1654
+CUST-00810,21/01/2024,Berlin,Germany,Desktop,Windows,Referral,Checkout,,No,02/02/2024 08:56,
+CUST-00868,07/04/2024,Dublin,Ireland,Desktop,macOS,Google Search,Viewed,,No,22/04/2024 23:09,1632
+CUST-01504,11/05/2024,London,United Kingdom,Mobile,iOS,Affiliate,Checkout,,No,14/05/2024 12:48,1141
+CUST-01215,08/08/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,20/08/2024 16:32,1415
+CUST-01665,23/01/2024,New York,United States,Mobile,Android,Google Search,Checkout,,No,29/01/2024 14:39,1667
+CUST-00489,07/08/2024,Melbourne,Australia,Tablet,iPadOS,Affiliate,Checkout,,No,24/08/2024 21:12,1419
+CUST-00385,12/04/2024,Los Angeles,United States,Tablet,Android,Referral,Added to Cart,,No,28/04/2024 00:46,330
+CUST-01598,16/12/2024,London,United Kingdom,Tablet,Android,Google Search,Checkout,,No,21/12/2024 05:03,386
+CUST-00751,13/08/2024,London,United Kingdom,Tablet,iPadOS,Google Search,Purchased,350.38 ,No,02/09/2024 20:28,1072
+CUST-01263,04/01/2024,Leeds,United Kingdom,Desktop,Windows,Referral,Viewed,,No,16/01/2024 10:19,1110
+CUST-00598,21/09/2024,New York,United States,Mobile,Android,Google Search,Added to Cart,,No,03/10/2024 00:46,206
+CUST-00903,17/10/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,05/11/2024 02:41,584
+CUST-00433,25/01/2024,London,United Kingdom,Tablet,Android,Facebook Ads,Purchased,169.62 ,Yes,26/01/2024 04:03,1625
+CUST-00716,11/05/2024,Sydney,Australia,Mobile,Android,Google Search,Viewed,,No,29/05/2024 00:46,1572
+CUST-00232,31/03/2024,Manchester,United Kingdom,Mobile,Android,Direct,Viewed,,No,13/04/2024 20:03,617
+CUST-00829,08/04/2024,Toronto,Canada,Mobile,iOS,Referral,Added to Cart,,No,21/04/2024 15:03,670
+CUST-01496,05/09/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Viewed,,No,16/09/2024 02:28,186
+CUST-00577,27/08/2024,Toronto,Canada,Desktop,Windows,Google Search,Purchased,62.15 ,Yes,28/08/2024 07:22,148
+CUST-00116,11/03/2024,New York,United States,Mobile,Android,Facebook Ads,Viewed,,No,13/03/2024 06:58,1410
+CUST-00340,07/02/2024,London,United Kingdom,Mobile,Android,Direct,Viewed,,No,10/07/2024 06:59,1371
+CUST-00786,24/07/2024,Toronto,Canada,Mobile,Android,Email Campaign,Purchased,442.17 ,No,27/07/2024 21:18,24
+CUST-00310,15/04/2024,Dublin,Ireland,Mobile,Android,Google Search,Added to Cart,,No,19/04/2024 01:45,1488
+CUST-00710,21/09/2024,London,United Kingdom,Desktop,macOS,Facebook Ads,Viewed,,No,27/09/2024 22:52,946
+CUST-01404,30/03/2024,New York,United States,Mobile,Android,Referral,Viewed,,No,02/04/2024 10:20,1109
+CUST-00522,03/12/2024,Sydney,Australia,Mobile,iOS,Google Search,Viewed,,No,09/12/2024 02:15,1388
+CUST-01490,21/03/2024,Los Angeles,United States,Tablet,Android,Email Campaign,Purchased,61.22 ,No,29/03/2024 17:12,1251
+CUST-01626,26/03/2024,Berlin,Germany,Mobile,Android,Email Campaign,Viewed,,No,15/04/2024 01:13,199
+CUST-01693,30/08/2024,Melbourne,Australia,Desktop,macOS,Email Campaign,Viewed,,No,09/09/2024 10:16,325
+CUST-00865,15/03/2024,Toronto,Canada,Desktop,Windows,Direct,Added to Cart,,No,27/03/2024 09:21,977
+CUST-00472,19/10/2024,Sydney,Australia,Mobile,Android,Instagram Ads,Purchased,27.12 ,No,05/11/2024 00:55,984
+CUST-00684,27/07/2024,Leeds,United Kingdom,Tablet,Android,Referral,Checkout,,No,06/08/2024 07:12,173
+CUST-00944,05/05/2024,Chicago,United States,Mobile,Android,Email Campaign,Viewed,,No,13/05/2024 14:45,566
+CUST-00551,01/11/2024,Berlin,Germany,Desktop,Windows,Email Campaign,Added to Cart,,No,11/11/2024 21:17,1784
+CUST-01651,05/01/2024,Leeds,United Kingdom,Desktop,macOS,Referral,Viewed,,No,21/01/2024 18:48,1523
+CUST-01573,06/11/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Checkout,,No,20/11/2024 04:40,875
+CUST-01619,14/05/2024,Paris,France,Desktop,macOS,Direct,Purchased,391.24 ,No,15/05/2024 04:30,970
+CUST-00353,21/05/2024,New York,United States,Mobile,iOS,Facebook Ads,Purchased,127.33 ,Yes,01/06/2024 02:32,1022
+CUST-01224,15/04/2024,Chicago,United States,Tablet,Android,Referral,Added to Cart,,No,20/04/2024 05:34,1178
+CUST-00168,18/03/2024,Melbourne,Australia,Mobile,Android,Facebook Ads,Viewed,,No,03/04/2024 03:59,1635
+CUST-01476,09/07/2024,New York,United States,Desktop,macOS,Facebook Ads,Viewed,,No,29/07/2024 18:42,1332
+CUST-00360,11/11/2024,Leeds,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,02/12/2024 03:01,451
+CUST-00471,14/12/2024,Berlin,Germany,Desktop,macOS,Referral,Viewed,,No,03/01/2025 08:52,817
+CUST-00335,24/12/2024,Melbourne,Australia,Tablet,iPadOS,Facebook Ads,Purchased,137.78 ,No,04/01/2025 08:01,234
+CUST-00970,16/10/2024,Chicago,United States,Mobile,iOS,Affiliate,Viewed,,No,02/11/2024 04:12,1368
+CUST-01158,22/09/2024,Los Angeles,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,27/09/2024 17:39,901
+CUST-00592,22/10/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,31/10/2024 17:31,1125
+CUST-00713,06/07/2024,Toronto,Canada,Desktop,Windows,Direct,Checkout,,No,13/07/2024 15:49,
+CUST-01624,30/03/2024,New York,United States,Mobile,iOS,Email Campaign,Added to Cart,,No,05/04/2024 18:39,451
+CUST-00099,14/10/2024,New York,United States,Tablet,iPadOS,Google Search,Viewed,,No,16/10/2024 18:17,1475
+CUST-00763,06/06/2024,Dublin,Ireland,Mobile,Android,Referral,Added to Cart,,No,21/06/2024 04:28,1539
+CUST-00025,16/07/2024,New York,United States,Mobile,iOS,Direct,Added to Cart,,No,18/07/2024 07:59,270
+CUST-00362,01/04/2024,Los Angeles,United States,Desktop,Windows,Referral,Viewed,,No,06/04/2024 21:14,1265
+CUST-00058,03/06/2024,Berlin,Germany,Mobile,Android,Instagram Ads,Purchased,24.54 ,Yes,21/06/2024 17:15,1720
+CUST-00742,12/04/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Checkout,,No,15/12/2024 02:19,512
+CUST-01138,16/02/2024,Melbourne,Australia,Mobile,iOS,Referral,Added to Cart,,No,05/03/2024 06:46,1021
+CUST-00218,10/05/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,13/05/2024 06:28,532
+CUST-01233,18/01/2024,Leeds,United Kingdom,Tablet,Android,Referral,Viewed,,No,28/01/2024 07:23,1063
+CUST-00961,29/01/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,02/02/2024 00:56,450
+CUST-01555,23/08/2024,Dublin,Ireland,Desktop,Windows,Direct,Viewed,,No,24/08/2024 11:37,1149
+CUST-00002,22/03/2024,New York,United States,Mobile,iOS,Google Search,Viewed,,No,30/03/2024 17:23,556
+CUST-01169,09/01/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,27/01/2024 20:18,1134
+CUST-00072,25/02/2024,Toronto,Canada,Mobile,Android,Instagram Ads,Viewed,,No,16/03/2024 07:44,1576
+CUST-00188,16/05/2024,New York,United States,Desktop,Windows,Email Campaign,Viewed,,No,29/05/2024 10:25,1226
+CUST-01489,02/03/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Viewed,,No,07/03/2024 06:04,456
+CUST-00671,12/10/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,21/12/2024 23:41,518
+CUST-01649,24/12/2024,New York,United States,Tablet,Android,Direct,Viewed,,No,07/01/2025 11:40,335
+CUST-01287,14/08/2024,Los Angeles,United States,Tablet,Android,Email Campaign,Viewed,,No,17/08/2024 20:47,822
+CUST-00845,30/04/2024,London,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,18/05/2024 18:18,767
+CUST-00602,06/01/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,17/01/2024 09:30,75
+CUST-00311,15/03/2024,Sydney,Australia,Desktop,Windows,Email Campaign,Added to Cart,,No,19/03/2024 01:04,
+CUST-01371,16/03/2024,New York,United States,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,26/03/2024 05:39,1405
+CUST-00777,14/05/2024,Dublin,Ireland,Desktop,macOS,Direct,Checkout,,No,19/05/2024 00:18,332
+CUST-01599,30/03/2024,New York,United States,Tablet,iPadOS,Direct,Viewed,,No,02/04/2024 17:16,1115
+CUST-01725,18/11/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,28/11/2024 10:34,781
+CUST-00764,18/03/2024,Paris,France,Mobile,iOS,Affiliate,Checkout,,No,20/03/2024 23:29,478
+CUST-01186,27/02/2024,Melbourne,Australia,Mobile,iOS,Direct,Viewed,,No,01/03/2024 13:16,131
+CUST-01123,30/12/2024,Toronto,Canada,Desktop,Windows,Instagram Ads,Purchased,328.27 ,No,18/01/2025 02:04,498
+CUST-00870,02/04/2024,Berlin,Germany,Tablet,iPadOS,Affiliate,Viewed,,No,09/02/2024 22:52,1017
+CUST-00461,18/07/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Added to Cart,,No,23/07/2024 05:35,803
+CUST-00464,03/09/2024,New York,United States,Desktop,Windows,Email Campaign,Viewed,,No,06/09/2024 19:57,266
+CUST-01656,27/06/2024,Manchester,United Kingdom,Tablet,Android,Email Campaign,Viewed,,No,18/07/2024 06:52,1344
+CUST-00120,11/12/2024,Toronto,Canada,Desktop,Windows,Referral,Purchased,222.69 ,Yes,16/12/2024 07:01,633
+CUST-00585,23/02/2024,Birmingham,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,04/03/2024 09:34,236
+CUST-01662,25/01/2024,Chicago,United States,Desktop,Windows,Direct,Purchased,119.57 ,No,30/01/2024 17:59,763
+CUST-00113,09/11/2024,Manchester,United Kingdom,Tablet,Android,Google Search,Viewed,,No,30/11/2024 02:10,1133
+CUST-01584,27/07/2024,Sydney,Australia,Mobile,Android,Facebook Ads,Added to Cart,,No,13/08/2024 18:51,226
+CUST-00958,26/05/2024,Los Angeles,United States,Mobile,Android,Instagram Ads,Added to Cart,,No,03/06/2024 19:57,456
+CUST-00983,20/09/2024,Chicago,United States,Desktop,Windows,Facebook Ads,Added to Cart,,No,07/10/2024 00:27,258
+CUST-00081,26/05/2024,Paris,France,Desktop,Windows,Direct,Viewed,,No,07/06/2024 06:47,323
+CUST-00350,29/09/2024,Sydney,Australia,Desktop,Windows,Email Campaign,Added to Cart,,No,16/10/2024 10:12,414
+CUST-00752,02/03/2024,Toronto,Canada,Desktop,macOS,Direct,Added to Cart,,No,13/03/2024 13:48,
+CUST-00211,09/12/2024,Los Angeles,United States,Mobile,iOS,Affiliate,Purchased,330.46 ,No,29/12/2024 17:03,472
+CUST-00996,13/10/2024,Chicago,United States,Tablet,iPadOS,Email Campaign,Viewed,,No,19/10/2024 23:48,1703
+CUST-01784,27/04/2024,Los Angeles,United States,Tablet,Android,Email Campaign,Purchased,283.47 ,No,09/05/2024 05:32,909
+CUST-01054,14/07/2024,Manchester,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,26/07/2024 18:37,856
+CUST-01538,10/05/2024,London,United Kingdom,Mobile,Android,Direct,Viewed,,No,09/10/2024 11:08,924
+CUST-00966,09/10/2024,Melbourne,Australia,Mobile,Android,Referral,Added to Cart,,No,30/10/2024 06:21,617
+CUST-00243,18/06/2024,London,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,26/06/2024 17:22,662
+CUST-01448,11/02/2024,Sydney,Australia,Desktop,Windows,Email Campaign,Purchased,351.04 ,No,19/11/2024 07:15,895
+CUST-01380,12/03/2024,Sydney,Australia,Mobile,iOS,Direct,Checkout,,No,15/03/2024 06:16,764
+CUST-01338,06/12/2024,New York,United States,Desktop,macOS,Email Campaign,Viewed,,No,13/12/2024 23:32,1241
+CUST-00041,08/04/2024,Dublin,Ireland,Mobile,iOS,Google Search,Added to Cart,,No,12/04/2024 14:29,43
+CUST-01279,22/07/2024,Toronto,Canada,Tablet,iPadOS,Email Campaign,Added to Cart,,No,09/08/2024 20:11,305
+CUST-00536,12/03/2024,Chicago,United States,Tablet,Android,Email Campaign,Viewed,,No,30/03/2024 08:00,628
+CUST-01140,09/01/2024,Melbourne,Australia,Desktop,Windows,Google Search,Added to Cart,,No,21/09/2024 14:17,1314
+CUST-01264,21/02/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Viewed,,No,09/03/2024 10:35,1618
+CUST-00176,31/12/2024,New York,United States,Desktop,macOS,Instagram Ads,Added to Cart,,No,08/01/2025 21:52,382
+CUST-01237,21/05/2024,London,United Kingdom,Tablet,Android,Referral,Purchased,104.04 ,Yes,08/06/2024 18:48,43
+CUST-01402,18/08/2024,New York,United States,Desktop,macOS,Referral,Viewed,,No,03/09/2024 18:26,367
+CUST-00174,17/05/2024,Chicago,United States,Desktop,Windows,Instagram Ads,Checkout,,No,28/05/2024 01:17,356
+CUST-00037,16/12/2024,London,United Kingdom,Desktop,macOS,Affiliate,Purchased,20.50 ,No,26/12/2024 02:51,1463
+CUST-01741,23/03/2024,Toronto,Canada,Desktop,Windows,Affiliate,Checkout,,No,24/03/2024 20:08,609
+CUST-00171,07/02/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,22/02/2024 04:36,1326
+CUST-00554,23/05/2024,New York,United States,Desktop,macOS,Facebook Ads,Checkout,,No,02/06/2024 13:46,393
+CUST-00765,18/03/2024,Sydney,Australia,Mobile,Android,Instagram Ads,Added to Cart,,No,07/04/2024 00:41,293
+CUST-01761,27/09/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,03/10/2024 01:45,601
+CUST-00740,28/03/2024,Birmingham,United Kingdom,Desktop,macOS,Referral,Viewed,,No,17/04/2024 02:45,636
+CUST-01141,05/09/2024,Dublin,Ireland,Mobile,iOS,Google Search,Added to Cart,,No,13/05/2024 02:36,812
+CUST-00274,03/08/2024,Paris,France,Tablet,Android,Email Campaign,Viewed,,No,22/08/2024 01:11,137
+CUST-01721,26/08/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Viewed,,No,27/08/2024 03:36,847
+CUST-00357,18/11/2024,London,United Kingdom,Tablet,iPadOS,Google Search,Checkout,,No,19/11/2024 21:04,1677
+CUST-00253,12/07/2024,London,United Kingdom,Tablet,Android,Instagram Ads,Added to Cart,,No,31/07/2024 01:18,1252
+CUST-01698,11/11/2024,New York,United States,Desktop,Windows,Direct,Checkout,,No,02/12/2024 15:27,19
+CUST-01073,03/12/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,22/12/2024 07:00,449
+CUST-01194,15/07/2024,Toronto,Canada,Mobile,Android,Google Search,Checkout,,No,20/07/2024 00:13,33
+CUST-01719,03/08/2024,London,United Kingdom,Mobile,Android,Referral,Added to Cart,,No,16/08/2024 20:48,338
+CUST-00296,24/02/2024,Toronto,Canada,Tablet,iPadOS,Direct,Viewed,,No,04/03/2024 12:15,1243
+CUST-00132,01/03/2024,Leeds,United Kingdom,Desktop,Windows,Instagram Ads,Viewed,,No,13/03/2024 02:26,1033
+CUST-01629,22/09/2024,Melbourne,Australia,Desktop,macOS,Google Search,Checkout,,No,08/10/2024 10:01,99
+CUST-01183,05/06/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,16/06/2024 08:51,685
+CUST-00967,07/06/2024,Leeds,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,10/06/2024 20:44,127
+CUST-00626,20/03/2024,Manchester,United Kingdom,Mobile,Android,Direct,Viewed,,No,20/03/2024 19:07,1404
+CUST-01739,24/07/2024,New York,United States,Mobile,Android,Referral,Added to Cart,,No,13/08/2024 04:32,
+CUST-00823,12/03/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Added to Cart,,No,01/04/2024 15:31,
+CUST-01320,05/09/2024,Chicago,United States,Desktop,Windows,Instagram Ads,Added to Cart,,No,26/09/2024 18:59,462
+CUST-00413,18/07/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,05/08/2024 17:35,246
+CUST-00022,31/03/2024,Birmingham,United Kingdom,Desktop,macOS,Direct,Viewed,,No,17/04/2024 10:00,978
+CUST-01774,04/07/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Checkout,,No,17/04/2024 11:03,316
+CUST-01112,22/06/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Checkout,,No,03/07/2024 04:36,1789
+CUST-00815,12/02/2024,Chicago,United States,Tablet,Android,Facebook Ads,Checkout,,No,20/02/2024 15:22,1610
+CUST-00793,17/09/2024,Paris,France,Desktop,macOS,Facebook Ads,Viewed,,No,06/10/2024 19:04,431
+CUST-00686,23/07/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,10/08/2024 23:20,609
+CUST-01635,12/01/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Added to Cart,,No,17/01/2024 23:16,1111
+CUST-01513,17/09/2024,Leeds,United Kingdom,Desktop,macOS,Google Search,Added to Cart,,No,24/09/2024 02:22,418
+CUST-01771,14/02/2024,London,United Kingdom,Tablet,Android,Referral,Added to Cart,,No,26/02/2024 13:24,1466
+CUST-00153,11/04/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,26/04/2024 16:22,1114
+CUST-01010,04/05/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,25/04/2024 10:03,1361
+CUST-00402,03/12/2024,Berlin,Germany,Tablet,iPadOS,Affiliate,Viewed,,No,14/12/2024 09:09,597
+CUST-00700,06/04/2024,Birmingham,United Kingdom,Desktop,Windows,Instagram Ads,Viewed,,No,13/04/2024 22:55,935
+CUST-00003,01/10/2024,London,United Kingdom,Tablet,Android,Email Campaign,Viewed,,No,02/10/2024 15:32,178
+CUST-01574,21/07/2024,Toronto,Canada,Mobile,Android,Google Search,Added to Cart,,No,06/08/2024 03:31,1039
+CUST-01587,24/01/2024,London,United Kingdom,Mobile,Android,Referral,Viewed,,No,04/02/2024 11:18,877
+CUST-00245,21/03/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Added to Cart,,No,02/04/2024 14:25,
+CUST-01542,27/11/2024,Paris,France,Desktop,Windows,Facebook Ads,Added to Cart,,No,10/12/2024 00:09,1322
+CUST-01453,17/07/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,31/07/2024 01:58,1365
+CUST-01319,12/04/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,30/04/2024 23:36,58
+CUST-00146,21/12/2024,Chicago,United States,Mobile,iOS,Direct,Viewed,,No,06/01/2025 23:18,1624
+CUST-00822,07/04/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,25/04/2024 20:18,1552
+CUST-01450,17/02/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Viewed,,No,04/03/2024 19:10,519
+CUST-01050,24/12/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Checkout,,No,24/12/2024 16:47,1628
+CUST-00280,12/05/2024,Berlin,Germany,Tablet,iPadOS,Affiliate,Viewed,,No,17/12/2024 00:59,1548
+CUST-01227,02/05/2024,Birmingham,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,02/05/2024 19:10,1082
+CUST-00126,27/06/2024,Dublin,Ireland,Desktop,Windows,Referral,Added to Cart,,No,07/07/2024 01:19,521
+CUST-01070,08/12/2024,Manchester,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,21/12/2024 17:40,1605
+CUST-00817,11/02/2024,London,United Kingdom,Mobile,iOS,Direct,Viewed,,No,26/02/2024 13:45,409
+CUST-00318,13/07/2024,Chicago,United States,Mobile,iOS,Google Search,Viewed,,No,19/07/2024 14:35,606
+CUST-01733,19/02/2024,Manchester,United Kingdom,Tablet,iPadOS,Referral,Added to Cart,,No,07/03/2024 02:49,512
+CUST-01118,13/11/2024,Birmingham,United Kingdom,Mobile,iOS,Affiliate,Added to Cart,,No,13/11/2024 21:05,769
+CUST-00314,15/06/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,28/06/2024 17:39,1708
+CUST-01243,25/04/2024,Manchester,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,29/04/2024 06:58,183
+CUST-01025,28/01/2024,Toronto,Canada,Mobile,iOS,Referral,Added to Cart,,No,10/02/2024 20:22,189
+CUST-01053,16/09/2024,Los Angeles,United States,Mobile,Android,Email Campaign,Purchased,63.13 ,Yes,01/10/2024 00:52,993
+CUST-01260,16/06/2024,London,United Kingdom,Desktop,Windows,Direct,Purchased,110.29 ,No,17/06/2024 15:35,308
+CUST-01514,22/02/2024,Chicago,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,24/02/2024 12:41,1360
+CUST-00177,24/01/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Added to Cart,,No,30/01/2024 19:35,769
+CUST-00889,04/03/2024,Sydney,Australia,Tablet,Android,Facebook Ads,Viewed,,No,12/03/2024 16:57,1494
+CUST-01671,08/02/2024,London,United Kingdom,Tablet,iPadOS,Email Campaign,Added to Cart,,No,26/02/2024 12:54,1504
+CUST-00939,06/11/2024,New York,United States,Tablet,Android,Affiliate,Added to Cart,,No,13/11/2024 21:47,1019
+CUST-00959,07/02/2024,New York,United States,Desktop,macOS,Email Campaign,Checkout,,No,18/02/2024 18:44,766
+CUST-00981,22/02/2024,Dublin,Ireland,Mobile,Android,Google Search,Viewed,,No,24/02/2024 04:30,1021
+CUST-00652,29/10/2024,Chicago,United States,Desktop,Windows,Direct,Viewed,,No,06/11/2024 13:53,964
+CUST-01385,21/12/2024,London,United Kingdom,Tablet,Android,Instagram Ads,Checkout,,No,03/01/2025 13:24,403
+CUST-00559,06/11/2024,Birmingham,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,21/11/2024 11:53,1465
+CUST-01760,13/01/2024,Melbourne,Australia,Mobile,iOS,Facebook Ads,Added to Cart,,No,25/01/2024 06:56,1685
+CUST-00008,14/05/2024,Paris,France,Mobile,Android,Email Campaign,Viewed,,No,31/05/2024 00:13,1101
+CUST-00905,10/08/2024,Dublin,Ireland,Desktop,Windows,Affiliate,Viewed,,No,17/08/2024 03:26,1636
+CUST-00029,03/01/2024,New York,United States,Mobile,iOS,Referral,Added to Cart,,No,20/01/2024 05:52,1234
+CUST-00535,11/05/2024,Manchester,United Kingdom,Tablet,Android,Email Campaign,Added to Cart,,No,17/05/2024 10:16,1618
+CUST-01099,12/01/2024,Melbourne,Australia,Desktop,macOS,Facebook Ads,Checkout,,No,05/12/2024 22:24,739
+CUST-01415,14/01/2024,New York,United States,Tablet,iPadOS,Affiliate,Added to Cart,,No,20/01/2024 00:30,589
+CUST-01014,27/08/2024,Manchester,United Kingdom,Mobile,Android,Referral,Viewed,,No,17/09/2024 02:11,
+CUST-00962,21/04/2024,Toronto,Canada,Mobile,iOS,Direct,Checkout,,No,07/05/2024 15:14,1717
+CUST-00514,06/06/2024,Manchester,United Kingdom,Desktop,macOS,Google Search,Checkout,,No,23/06/2024 23:59,
+CUST-01718,18/11/2024,Chicago,United States,Mobile,iOS,Direct,Added to Cart,,No,05/12/2024 13:08,544
+CUST-01127,12/11/2024,London,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,02/12/2024 12:09,1744
+CUST-00928,07/06/2024,London,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,28/06/2024 00:41,21
+CUST-00446,05/05/2024,Sydney,Australia,Mobile,Android,Google Search,Viewed,,No,25/05/2024 12:31,1592
+CUST-00945,07/08/2024,Los Angeles,United States,Mobile,iOS,Affiliate,Checkout,,No,12/07/2024 11:47,1158
+CUST-00741,30/06/2024,Los Angeles,United States,Desktop,Windows,Affiliate,Checkout,,No,08/07/2024 00:28,54
+CUST-00363,12/09/2024,Los Angeles,United States,Desktop,macOS,Direct,Purchased,284.23 ,No,29/09/2024 08:17,1646
+CUST-00702,17/05/2024,Leeds,United Kingdom,Desktop,Windows,Google Search,Purchased,221.72 ,No,29/05/2024 03:18,675
+CUST-00527,10/09/2024,London,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,26/09/2024 02:36,1769
+CUST-01286,14/01/2024,London,United Kingdom,Tablet,Android,Direct,Purchased,246.23 ,No,15/01/2024 23:46,482
+CUST-00319,08/03/2024,New York,United States,Mobile,iOS,Direct,Added to Cart,,No,12/03/2024 22:23,1246
+CUST-00902,09/05/2024,Berlin,Germany,Tablet,iPadOS,Direct,Viewed,,No,26/05/2024 23:11,1363
+CUST-01613,11/07/2024,Leeds,United Kingdom,Desktop,Windows,Email Campaign,Purchased,108.80 ,No,25/07/2024 02:17,788
+CUST-00874,05/09/2024,New York,United States,Desktop,Windows,Instagram Ads,Added to Cart,,No,07/09/2024 10:32,1202
+CUST-01325,16/05/2024,Birmingham,United Kingdom,Mobile,Android,Instagram Ads,Added to Cart,,No,21/05/2024 12:49,353
+CUST-00040,31/08/2024,Melbourne,Australia,Mobile,iOS,Facebook Ads,Purchased,220.87 ,Yes,12/09/2024 16:30,642
+CUST-01744,01/10/2024,Manchester,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,19/01/2024 12:54,1434
+CUST-01765,13/10/2024,Toronto,Canada,Desktop,macOS,Instagram Ads,Viewed,,No,30/10/2024 19:42,549
+CUST-00027,26/08/2024,Leeds,United Kingdom,Tablet,Android,Referral,Viewed,,No,06/09/2024 15:05,496
+CUST-00837,09/09/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Purchased,18.11 ,No,19/09/2024 20:51,30
+CUST-01420,20/08/2024,New York,United States,Tablet,iPadOS,Google Search,Viewed,,No,02/09/2024 19:20,1062
+CUST-00555,20/06/2024,Manchester,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,06/07/2024 06:04,1253
+CUST-00282,03/10/2024,Berlin,Germany,Tablet,Android,Facebook Ads,Viewed,,No,10/03/2024 16:31,1646
+CUST-01728,08/03/2024,Paris,France,Mobile,iOS,Referral,Viewed,,No,13/03/2024 18:40,1536
+CUST-01776,15/11/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,30/11/2024 10:40,1544
+CUST-01031,24/08/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,28/08/2024 14:20,65
+CUST-00749,08/06/2024,New York,United States,Desktop,macOS,Affiliate,Added to Cart,,No,22/08/2024 16:28,68
+CUST-01606,09/08/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,14/08/2024 11:16,932
+CUST-00852,09/05/2024,Sydney,Australia,Desktop,macOS,Direct,Added to Cart,,No,14/05/2024 02:28,994
+CUST-00530,05/01/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Viewed,,No,07/01/2024 14:11,122
+CUST-00597,19/10/2024,Dublin,Ireland,Desktop,Windows,Google Search,Viewed,,No,08/11/2024 12:39,1506
+CUST-00109,15/11/2024,Manchester,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,28/11/2024 18:14,295
+CUST-01134,03/06/2024,Birmingham,United Kingdom,Desktop,macOS,Direct,Viewed,,No,06/03/2024 15:23,1636
+CUST-01182,12/05/2024,Dublin,Ireland,Mobile,iOS,Direct,Added to Cart,,No,07/12/2024 09:06,1115
+CUST-00864,02/09/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Viewed,,No,04/09/2024 12:23,1165
+CUST-00343,17/05/2024,Toronto,Canada,Mobile,iOS,Facebook Ads,Viewed,,No,27/05/2024 20:57,1774
+CUST-00163,02/01/2024,Toronto,Canada,Mobile,Android,Affiliate,Added to Cart,,No,09/01/2024 00:23,1174
+CUST-01710,07/03/2024,Dublin,Ireland,Mobile,iOS,Affiliate,Viewed,,No,11/03/2024 21:40,22
+CUST-01062,14/05/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,19/05/2024 13:58,715
+CUST-01353,06/05/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Viewed,,No,13/05/2024 08:16,1580
+CUST-00326,30/08/2024,Berlin,Germany,Mobile,iOS,Direct,Viewed,,No,16/09/2024 09:17,1082
+CUST-00309,23/05/2024,Chicago,United States,Desktop,Windows,Google Search,Checkout,,No,04/06/2024 13:12,1254
+CUST-01464,11/04/2024,London,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,01/05/2024 02:43,135
+CUST-01519,20/09/2024,Birmingham,United Kingdom,Tablet,iPadOS,Google Search,Checkout,,No,21/09/2024 23:24,352
+CUST-01586,09/02/2024,Toronto,Canada,Mobile,Android,Google Search,Checkout,,No,26/02/2024 17:30,1094
+CUST-01435,21/01/2024,Melbourne,Australia,Desktop,Windows,Affiliate,Purchased,55.80 ,No,24/01/2024 06:38,576
+CUST-01122,24/06/2024,Chicago,United States,Desktop,Windows,Google Search,Added to Cart,,No,15/07/2024 05:49,317
+CUST-00342,13/02/2024,Melbourne,Australia,Desktop,Windows,Google Search,Checkout,,No,17/02/2024 03:59,1749
+CUST-00912,13/11/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,26/11/2024 14:08,1638
+CUST-01097,27/03/2024,Toronto,Canada,Desktop,macOS,Instagram Ads,Added to Cart,,No,31/03/2024 17:04,388
+CUST-01796,15/08/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,22/08/2024 06:03,920
+CUST-01006,29/03/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Added to Cart,,No,31/03/2024 18:46,
+CUST-01559,19/10/2024,Sydney,Australia,Mobile,Android,Facebook Ads,Viewed,,No,28/10/2024 15:31,81
+CUST-01147,13/04/2024,Sydney,Australia,Desktop,Windows,Direct,Added to Cart,,No,04/05/2024 04:48,1019
+CUST-01271,05/08/2024,Berlin,Germany,Mobile,iOS,Facebook Ads,Viewed,,No,09/08/2024 07:09,230
+CUST-00586,09/08/2024,Chicago,United States,Mobile,Android,Email Campaign,Added to Cart,,No,15/08/2024 05:15,977
+CUST-00647,09/02/2024,Melbourne,Australia,Mobile,iOS,Email Campaign,Checkout,,No,22/02/2024 00:03,172
+CUST-01763,14/12/2024,New York,United States,Desktop,macOS,Instagram Ads,Viewed,,No,28/12/2024 19:57,727
+CUST-00930,21/06/2024,New York,United States,Tablet,Android,Email Campaign,Checkout,,No,10/07/2024 14:59,434
+CUST-00373,15/07/2024,London,United Kingdom,Desktop,macOS,Email Campaign,Added to Cart,,No,22/07/2024 16:18,1525
+CUST-00573,14/03/2024,New York,United States,Mobile,Android,Instagram Ads,Checkout,,No,15/03/2024 09:04,1372
+CUST-00911,30/09/2024,Manchester,United Kingdom,Tablet,iPadOS,Instagram Ads,Viewed,,No,04/10/2024 10:56,527
+CUST-00949,27/09/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Added to Cart,,No,05/10/2024 22:41,1566
+CUST-01337,14/04/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,22/04/2024 23:29,1439
+CUST-00478,21/12/2024,Chicago,United States,Desktop,macOS,Email Campaign,Purchased,230.73 ,No,26/12/2024 14:01,1519
+CUST-01047,01/07/2024,Sydney,Australia,Desktop,Windows,Affiliate,Checkout,,No,10/07/2024 09:07,296
+CUST-00298,17/08/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,22/08/2024 07:27,
+CUST-00258,07/03/2024,London,United Kingdom,Desktop,Windows,Referral,Added to Cart,,No,18/03/2024 03:58,1574
+CUST-01146,01/01/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,19/01/2024 15:59,198
+CUST-00114,14/12/2024,Berlin,Germany,Mobile,Android,Instagram Ads,Checkout,,No,19/12/2024 09:25,1643
+CUST-00087,13/12/2024,Melbourne,Australia,Desktop,Windows,Direct,Purchased,363.55 ,No,27/12/2024 12:46,225
+CUST-00856,25/01/2024,Manchester,United Kingdom,Tablet,Android,Referral,Added to Cart,,No,07/02/2024 04:13,1729
+CUST-00355,24/12/2024,London,United Kingdom,Tablet,Android,Referral,Checkout,,No,01/01/2025 16:00,750
+CUST-00327,10/06/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,16/06/2024 19:12,1109
+CUST-00175,22/02/2024,New York,United States,Tablet,Android,Facebook Ads,Added to Cart,,No,01/03/2024 14:53,1771
+CUST-00984,25/07/2024,Toronto,Canada,Tablet,Android,Google Search,Viewed,,No,25/07/2024 19:04,1736
+CUST-00051,05/02/2024,Chicago,United States,Tablet,Android,Instagram Ads,Viewed,,No,17/02/2024 22:03,1006
+CUST-01675,12/11/2024,Chicago,United States,Tablet,iPadOS,Instagram Ads,Viewed,,No,27/11/2024 09:08,664
+CUST-01502,28/12/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,09/01/2025 21:23,799
+CUST-01707,27/04/2024,Berlin,Germany,Tablet,Android,Email Campaign,Added to Cart,,No,09/05/2024 19:29,502
+CUST-00231,10/12/2024,Melbourne,Australia,Tablet,iPadOS,Affiliate,Viewed,,No,22/12/2024 04:26,1213
+CUST-00301,26/04/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,157.17 ,Yes,12/05/2024 13:46,1193
+CUST-01249,27/09/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,06/10/2024 14:20,1047
+CUST-01329,14/05/2024,Melbourne,Australia,Mobile,iOS,Direct,Viewed,,No,28/05/2024 07:02,863
+CUST-00774,16/08/2024,Melbourne,Australia,Desktop,Windows,Google Search,Added to Cart,,No,23/08/2024 11:44,698
+CUST-01184,22/11/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,06/12/2024 15:37,908
+CUST-00323,27/09/2024,Los Angeles,United States,Desktop,Windows,Email Campaign,Added to Cart,,No,09/10/2024 03:11,1023
+CUST-01222,07/01/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,12/01/2024 14:35,
+CUST-00149,31/10/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Added to Cart,,No,10/11/2024 03:14,
+CUST-01597,21/10/2024,Los Angeles,United States,Tablet,iPadOS,Email Campaign,Added to Cart,,No,22/10/2024 05:22,629
+CUST-01205,02/04/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,02/04/2024 19:32,811
+CUST-00474,01/02/2024,Los Angeles,United States,Desktop,Windows,Facebook Ads,Purchased,189.73 ,No,20/02/2024 02:05,891
+CUST-01715,26/07/2024,Paris,France,Mobile,iOS,Google Search,Viewed,,No,15/08/2024 06:11,979
+CUST-00487,12/11/2024,Los Angeles,United States,Desktop,Windows,Google Search,Viewed,,No,27/12/2024 21:59,842
+CUST-01509,26/03/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Viewed,,No,02/04/2024 22:40,905
+CUST-00397,31/08/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,08/09/2024 23:22,1533
+CUST-01579,04/11/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,25/11/2024 07:19,133
+CUST-01603,24/03/2024,Toronto,Canada,Desktop,Windows,Referral,Viewed,,No,02/04/2024 22:22,1245
+CUST-00152,04/05/2024,Dublin,Ireland,Mobile,iOS,Email Campaign,Viewed,,No,13/05/2024 09:47,825
+CUST-00374,25/12/2024,Chicago,United States,Desktop,macOS,Instagram Ads,Purchased,165.17 ,No,04/01/2025 07:38,1393
+CUST-00784,02/03/2024,London,United Kingdom,Tablet,Android,Direct,Viewed,,No,18/03/2024 14:35,
+CUST-00235,12/04/2024,Los Angeles,United States,Desktop,Windows,Google Search,Viewed,,No,23/04/2024 22:43,1276
+CUST-00336,03/06/2024,Toronto,Canada,Desktop,Windows,Instagram Ads,Viewed,,No,05/06/2024 04:23,897
+CUST-00975,18/11/2024,Melbourne,Australia,Desktop,Windows,Google Search,Checkout,,No,28/11/2024 03:59,134
+CUST-01228,11/05/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,30/05/2024 02:30,1315
+CUST-00894,12/05/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,25/12/2024 22:24,645
+CUST-00937,17/08/2024,Melbourne,Australia,Desktop,Windows,Email Campaign,Checkout,,No,23/08/2024 22:28,201
+CUST-00068,16/01/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Added to Cart,,No,29/01/2024 01:12,1311
+CUST-01253,24/10/2024,Melbourne,Australia,Mobile,iOS,Direct,Added to Cart,,No,11/11/2024 18:22,1136
+CUST-01614,29/04/2024,London,United Kingdom,Mobile,iOS,Google Search,Purchased,325.62 ,No,17/05/2024 00:49,1789
+CUST-00428,03/03/2024,Manchester,United Kingdom,Desktop,macOS,Google Search,Added to Cart,,No,23/03/2024 23:21,
+CUST-01197,04/05/2024,Paris,France,Desktop,macOS,Google Search,Added to Cart,,No,20/05/2024 23:31,1637
+CUST-00425,21/09/2024,Birmingham,United Kingdom,Desktop,macOS,Referral,Viewed,,No,25/09/2024 11:23,978
+CUST-00115,20/10/2024,Toronto,Canada,Desktop,macOS,Google Search,Checkout,,No,26/10/2024 06:46,570
+CUST-01731,08/09/2024,Manchester,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,12/08/2024 14:38,804
+CUST-00354,08/08/2024,Manchester,United Kingdom,Tablet,iPadOS,Instagram Ads,Checkout,,No,27/08/2024 10:57,92
+CUST-01758,19/01/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Added to Cart,,No,27/01/2024 12:57,140
+CUST-01389,01/05/2024,Chicago,United States,Mobile,Android,Email Campaign,Viewed,,No,06/01/2024 22:35,1262
+CUST-00698,18/12/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Purchased,261.29 ,Yes,22/12/2024 15:24,56
+CUST-00138,12/07/2024,London,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,01/08/2024 10:07,1432
+CUST-01478,22/02/2024,Chicago,United States,Mobile,Android,Email Campaign,Checkout,,No,03/03/2024 22:38,1302
+CUST-00049,27/01/2024,Dublin,Ireland,Mobile,iOS,Email Campaign,Added to Cart,,No,09/02/2024 06:24,43
+CUST-01762,01/07/2024,Sydney,Australia,Tablet,iPadOS,Instagram Ads,Checkout,,No,21/07/2024 05:10,1177
+CUST-01318,01/01/2024,London,United Kingdom,Desktop,macOS,Direct,Checkout,,No,06/01/2024 07:32,1192
+CUST-00885,13/01/2024,Leeds,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,26/01/2024 01:27,515
+CUST-00077,22/01/2024,Melbourne,Australia,Mobile,Android,Email Campaign,Viewed,,No,25/01/2024 01:52,1656
+CUST-01543,14/10/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Viewed,,No,17/10/2024 08:53,1312
+CUST-00938,21/12/2024,New York,United States,Tablet,Android,Facebook Ads,Viewed,,No,01/01/2025 05:36,273
+CUST-00214,30/01/2024,New York,United States,Mobile,Android,Google Search,Viewed,,No,15/02/2024 06:10,894
+CUST-00821,16/08/2024,Chicago,United States,Desktop,macOS,Facebook Ads,Viewed,,No,31/08/2024 20:26,1016
+CUST-00048,10/09/2024,Dublin,Ireland,Mobile,iOS,Direct,Purchased,391.24 ,No,20/09/2024 06:29,1290
+CUST-01386,27/12/2024,Leeds,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,28/12/2024 17:58,674
+CUST-00691,08/05/2024,Los Angeles,United States,Tablet,Android,Facebook Ads,Checkout,,No,23/08/2024 14:10,1739
+CUST-00768,01/06/2024,Melbourne,Australia,Mobile,iOS,Facebook Ads,Viewed,,No,09/06/2024 07:32,1213
+CUST-00910,04/10/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Viewed,,No,21/10/2024 09:58,939
+CUST-01156,25/04/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Added to Cart,,No,26/04/2024 20:55,1495
+CUST-00128,21/10/2024,Chicago,United States,Mobile,Android,Email Campaign,Viewed,,No,27/10/2024 07:36,1520
+CUST-01581,11/01/2024,Manchester,United Kingdom,Tablet,iPadOS,Affiliate,Viewed,,No,28/01/2024 18:11,1270
+CUST-01510,13/01/2024,Sydney,Australia,Desktop,Windows,Affiliate,Viewed,,No,17/01/2024 20:28,1790
+CUST-01405,29/04/2024,London,United Kingdom,Mobile,Android,Direct,Purchased,367.30 ,Yes,10/05/2024 09:35,1435
+CUST-00377,24/06/2024,Berlin,Germany,Tablet,Android,Affiliate,Purchased,89.71 ,Yes,15/07/2024 16:52,738
+CUST-00036,24/03/2024,London,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,28/03/2024 16:19,512
+CUST-01153,02/07/2024,Toronto,Canada,Mobile,Android,Email Campaign,Added to Cart,,No,10/07/2024 01:00,962
+CUST-00292,16/09/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Checkout,,No,01/10/2024 02:48,594
+CUST-01354,05/03/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Checkout,,No,23/03/2024 12:39,1350
+CUST-01477,01/04/2024,Manchester,United Kingdom,Desktop,macOS,Referral,Viewed,,No,09/01/2024 18:53,1758
+CUST-00773,14/01/2024,Birmingham,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,02/02/2024 07:51,736
+CUST-01159,02/02/2024,New York,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,18/02/2024 19:24,697
+CUST-00820,25/06/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,05/07/2024 20:45,1562
+CUST-00501,26/03/2024,Paris,France,Mobile,Android,Email Campaign,Added to Cart,,No,28/03/2024 14:36,370
+CUST-01520,08/07/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,19/07/2024 20:54,31
+CUST-01422,04/07/2024,Melbourne,Australia,Mobile,iOS,Referral,Added to Cart,,No,14/04/2024 09:19,1743
+CUST-00365,02/10/2024,London,United Kingdom,Tablet,iPadOS,Referral,Added to Cart,,No,06/10/2024 11:24,481
+CUST-01065,09/02/2024,Leeds,United Kingdom,Mobile,iOS,Direct,Added to Cart,,No,18/02/2024 12:03,616
+CUST-00060,31/05/2024,Birmingham,United Kingdom,Mobile,Android,Google Search,Viewed,,No,03/06/2024 23:53,1666
+CUST-00073,04/01/2024,Toronto,Canada,Mobile,Android,Google Search,Viewed,,No,15/01/2024 13:36,337
+CUST-01621,11/06/2024,Melbourne,Australia,Desktop,Windows,Direct,Purchased,199.90 ,No,20/06/2024 11:17,960
+CUST-01390,23/04/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,09/05/2024 16:31,323
+CUST-00539,18/05/2024,Manchester,United Kingdom,Tablet,Android,Direct,Added to Cart,,No,23/05/2024 23:32,35
+CUST-00127,06/04/2024,Sydney,Australia,Mobile,iOS,Instagram Ads,Purchased,121.46 ,No,17/04/2024 16:06,301
+CUST-01231,21/12/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Added to Cart,,No,28/12/2024 17:05,1717
+CUST-01482,07/11/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,17/11/2024 14:46,775
+CUST-01181,19/05/2024,New York,United States,Mobile,iOS,Facebook Ads,Viewed,,No,23/05/2024 01:53,171
+CUST-00393,04/11/2024,Leeds,United Kingdom,Mobile,iOS,Email Campaign,Checkout,,No,07/11/2024 17:28,1693
+CUST-00840,28/01/2024,New York,United States,Mobile,Android,Referral,Checkout,,No,18/02/2024 03:35,815
+CUST-01000,20/09/2024,Toronto,Canada,Desktop,Windows,Google Search,Viewed,,No,22/09/2024 00:10,865
+CUST-00281,25/09/2024,Los Angeles,United States,Desktop,macOS,Referral,Added to Cart,,No,04/10/2024 18:17,
+CUST-01324,23/06/2024,Dublin,Ireland,Tablet,iPadOS,Facebook Ads,Viewed,,No,29/06/2024 12:38,1162
+CUST-01792,15/06/2024,Leeds,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,01/07/2024 12:19,641
+CUST-00444,22/02/2024,Paris,France,Mobile,Android,Google Search,Viewed,,No,09/03/2024 08:28,1035
+CUST-00639,11/10/2024,New York,United States,Tablet,iPadOS,Direct,Viewed,,No,14/10/2024 17:16,408
+CUST-01747,08/08/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,13/08/2024 22:34,1155
+CUST-01241,14/04/2024,London,United Kingdom,Tablet,Android,Referral,Viewed,,No,18/04/2024 18:40,662
+CUST-01104,20/07/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Checkout,,No,25/07/2024 05:52,816
+CUST-01642,11/03/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,29/03/2024 14:32,178
+CUST-01021,14/11/2024,Los Angeles,United States,Mobile,Android,Direct,Purchased,213.07 ,No,17/11/2024 11:47,61
+CUST-01024,07/02/2024,Dublin,Ireland,Desktop,macOS,Direct,Added to Cart,,No,22/07/2024 22:00,67
+CUST-00014,01/05/2024,Berlin,Germany,Tablet,iPadOS,Google Search,Viewed,,No,01/05/2024 07:03,946
+CUST-00878,19/08/2024,Toronto,Canada,Desktop,macOS,Direct,Purchased,53.92 ,Yes,26/08/2024 19:47,1763
+CUST-01556,29/05/2024,New York,United States,Desktop,Windows,Facebook Ads,Viewed,,No,31/05/2024 12:27,638
+CUST-01446,22/09/2024,Manchester,United Kingdom,Mobile,iOS,Instagram Ads,Added to Cart,,No,06/10/2024 09:07,1356
+CUST-00435,10/08/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,24/08/2024 19:27,1278
+CUST-00836,23/12/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,30/12/2024 03:12,825
+CUST-00259,08/05/2024,Berlin,Germany,Mobile,Android,Facebook Ads,Added to Cart,,No,05/08/2024 06:52,29
+CUST-00682,24/04/2024,Toronto,Canada,Mobile,Android,Direct,Added to Cart,,No,12/05/2024 03:02,1786
+CUST-01190,19/11/2024,Birmingham,United Kingdom,Desktop,Windows,Direct,Purchased,15.36 ,Yes,30/11/2024 13:44,1261
+CUST-01684,02/01/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,19/01/2024 02:07,1741
+CUST-00664,20/09/2024,Sydney,Australia,Desktop,macOS,Google Search,Added to Cart,,No,09/10/2024 22:16,1494
+CUST-00758,06/07/2024,Berlin,Germany,Tablet,iPadOS,Affiliate,Purchased,113.12 ,No,15/07/2024 12:20,478
+CUST-00760,16/07/2024,Leeds,United Kingdom,Mobile,iOS,Facebook Ads,Checkout,,No,17/07/2024 04:00,1302
+CUST-00526,22/04/2024,Manchester,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,03/05/2024 11:11,1190
+CUST-01661,15/10/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,17/10/2024 15:21,970
+CUST-00509,03/09/2024,Sydney,Australia,Mobile,Android,Email Campaign,Viewed,,No,11/09/2024 02:43,1166
+CUST-00723,20/06/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,04/07/2024 05:53,1284
+CUST-01627,09/02/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Checkout,,No,27/02/2024 03:24,1094
+CUST-01142,02/09/2024,Manchester,United Kingdom,Tablet,Android,Facebook Ads,Added to Cart,,No,19/09/2024 23:54,
+CUST-00859,06/12/2024,Toronto,Canada,Tablet,Android,Instagram Ads,Viewed,,No,09/12/2024 23:01,928
+CUST-00581,29/11/2024,Melbourne,Australia,Mobile,iOS,Email Campaign,Added to Cart,,No,16/12/2024 07:03,1257
+CUST-00607,17/06/2024,Chicago,United States,Mobile,Android,Affiliate,Purchased,59.77 ,No,18/06/2024 21:46,1680
+CUST-00791,06/08/2024,Toronto,Canada,Mobile,Android,Referral,Checkout,,No,23/08/2024 08:43,1095
+CUST-00747,12/10/2024,Birmingham,United Kingdom,Tablet,Android,Facebook Ads,Viewed,,No,13/10/2024 17:05,1528
+CUST-00055,12/11/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Checkout,,No,26/11/2024 21:29,1645
+CUST-01295,23/02/2024,London,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,13/03/2024 19:28,1179
+CUST-01632,10/04/2024,Chicago,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,19/04/2024 10:57,112
+CUST-01344,09/01/2024,Manchester,United Kingdom,Tablet,iPadOS,Facebook Ads,Viewed,,No,23/01/2024 16:44,1659
+CUST-01330,17/07/2024,Dublin,Ireland,Mobile,Android,Email Campaign,Viewed,,No,28/07/2024 08:30,988
+CUST-01109,05/03/2024,Manchester,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,09/03/2024 00:02,1340
+CUST-00307,25/02/2024,Toronto,Canada,Mobile,Android,Direct,Added to Cart,,No,08/03/2024 17:41,952
+CUST-00346,15/11/2024,Berlin,Germany,Mobile,Android,Google Search,Added to Cart,,No,28/11/2024 03:59,1533
+CUST-00316,09/11/2024,Manchester,United Kingdom,Tablet,iPadOS,Direct,Added to Cart,,No,17/11/2024 20:59,1223
+CUST-00212,18/06/2024,Los Angeles,United States,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,29/06/2024 05:31,626
+CUST-00830,01/10/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,18/10/2024 03:17,37
+CUST-01506,28/09/2024,Los Angeles,United States,Tablet,iPadOS,Affiliate,Viewed,,No,07/10/2024 15:52,1445
+CUST-00897,24/12/2024,London,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,05/01/2025 23:00,1697
+CUST-00061,28/02/2024,Manchester,United Kingdom,Mobile,Android,Direct,Viewed,,No,08/03/2024 03:03,769
+CUST-00666,20/08/2024,Melbourne,Australia,Mobile,iOS,Referral,Viewed,,No,26/08/2024 21:48,1090
+CUST-00858,13/01/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,23/01/2024 17:57,879
+CUST-00030,14/08/2024,Sydney,Australia,Tablet,Android,Direct,Viewed,,No,30/08/2024 22:18,1607
+CUST-01548,13/07/2024,Dublin,Ireland,Tablet,Android,Direct,Added to Cart,,No,18/07/2024 04:51,1369
+CUST-01500,29/06/2024,Toronto,Canada,Desktop,Windows,Google Search,Added to Cart,,No,16/07/2024 09:57,662
+CUST-01732,29/11/2024,Melbourne,Australia,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,30/11/2024 12:17,597
+CUST-00979,04/08/2024,Chicago,United States,Mobile,iOS,Direct,Added to Cart,,No,08/08/2024 09:39,1131
+CUST-00303,21/07/2024,Leeds,United Kingdom,Tablet,Android,Referral,Checkout,,No,05/08/2024 06:44,671
+CUST-01301,15/04/2024,New York,United States,Desktop,macOS,Facebook Ads,Checkout,,No,15/04/2024 22:24,1558
+CUST-00191,03/06/2024,Birmingham,United Kingdom,Desktop,Windows,Referral,Viewed,,No,17/06/2024 15:44,618
+CUST-01223,30/08/2024,Chicago,United States,Desktop,macOS,Facebook Ads,Checkout,,No,10/09/2024 04:11,292
+CUST-01358,13/02/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,22/02/2024 21:15,1580
+CUST-01778,19/06/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,09/07/2024 03:33,47
+CUST-01611,06/02/2024,New York,United States,Tablet,Android,Email Campaign,Viewed,,No,15/02/2024 03:54,53
+CUST-01129,25/10/2024,Birmingham,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,211.97 ,Yes,30/10/2024 02:06,52
+CUST-00221,18/09/2024,New York,United States,Mobile,Android,Direct,Viewed,,No,19/09/2024 03:43,1760
+CUST-00328,18/07/2024,Manchester,United Kingdom,Desktop,Windows,Email Campaign,Viewed,,No,28/07/2024 20:49,634
+CUST-01679,04/12/2024,Manchester,United Kingdom,Tablet,Android,Instagram Ads,Viewed,,No,17/12/2024 14:35,
+CUST-00228,12/10/2024,London,United Kingdom,Desktop,Windows,Referral,Viewed,,No,30/10/2024 09:59,694
+CUST-00803,30/03/2024,Birmingham,United Kingdom,Desktop,macOS,Facebook Ads,Purchased,324.15 ,No,02/04/2024 06:08,870
+CUST-00963,21/01/2024,Los Angeles,United States,Tablet,Android,Facebook Ads,Viewed,,No,27/01/2024 12:13,1141
+CUST-00562,23/05/2024,London,United Kingdom,Tablet,Android,Affiliate,Added to Cart,,No,05/06/2024 14:26,565
+CUST-01155,29/05/2024,New York,United States,Mobile,Android,Email Campaign,Viewed,,No,11/06/2024 07:03,544
+CUST-00739,28/04/2024,Paris,France,Desktop,Windows,Email Campaign,Viewed,,No,04/05/2024 16:45,335
+CUST-00544,05/08/2024,Berlin,Germany,Tablet,iPadOS,Referral,Viewed,,No,18/08/2024 21:31,1477
+CUST-01736,22/08/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Checkout,,No,07/09/2024 16:40,1080
+CUST-00857,07/05/2024,Birmingham,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,16/05/2024 11:12,1531
+CUST-00399,26/07/2024,New York,United States,Mobile,iOS,Direct,Purchased,27.93 ,No,10/08/2024 04:38,1406
+CUST-00151,13/03/2024,Chicago,United States,Tablet,iPadOS,Google Search,Purchased,153.73 ,Yes,15/03/2024 22:40,1401
+CUST-00516,08/04/2024,Melbourne,Australia,Mobile,Android,Google Search,Purchased,163.84 ,Yes,22/04/2024 17:26,
+CUST-00233,30/07/2024,Los Angeles,United States,Tablet,Android,Email Campaign,Viewed,,No,13/08/2024 04:56,286
+CUST-00842,22/03/2024,Toronto,Canada,Mobile,Android,Google Search,Viewed,,No,31/03/2024 00:32,260
+CUST-00084,01/12/2024,London,United Kingdom,Desktop,Windows,Affiliate,Added to Cart,,No,15/12/2024 21:16,
+CUST-00076,05/10/2024,Manchester,United Kingdom,Mobile,iOS,Referral,Viewed,,No,21/05/2024 18:32,1666
+CUST-01699,03/07/2024,Melbourne,Australia,Tablet,Android,Direct,Purchased,235.04 ,No,07/03/2024 22:56,1102
+CUST-00086,25/03/2024,Sydney,Australia,Desktop,macOS,Instagram Ads,Viewed,,No,06/04/2024 00:56,975
+CUST-00925,04/05/2024,New York,United States,Desktop,Windows,Facebook Ads,Purchased,340.52 ,Yes,07/05/2024 01:50,887
+CUST-01424,09/02/2024,Los Angeles,United States,Tablet,iPadOS,Facebook Ads,Viewed,,No,01/03/2024 07:20,1112
+CUST-00706,21/07/2024,London,United Kingdom,Mobile,iOS,Google Search,Viewed,,No,25/07/2024 04:01,1498
+CUST-00754,14/06/2024,New York,United States,Mobile,iOS,Affiliate,Added to Cart,,No,14/06/2024 20:39,1530
+CUST-01663,24/07/2024,New York,United States,Desktop,macOS,Instagram Ads,Viewed,,No,01/08/2024 18:16,453
+CUST-00732,01/08/2024,New York,United States,Desktop,Windows,Google Search,Checkout,,No,18/01/2024 17:21,39
+CUST-01455,31/07/2024,New York,United States,Tablet,Android,Facebook Ads,Added to Cart,,No,31/07/2024 17:30,985
+CUST-01199,10/05/2024,Dublin,Ireland,Desktop,Windows,Email Campaign,Added to Cart,,No,19/10/2024 10:31,1683
+CUST-00069,14/07/2024,Los Angeles,United States,Tablet,iPadOS,Referral,Viewed,,No,28/07/2024 20:45,862
+CUST-01745,06/11/2024,Manchester,United Kingdom,Desktop,macOS,Google Search,Purchased,87.18 ,Yes,25/11/2024 16:44,973
+CUST-01255,13/02/2024,Dublin,Ireland,Desktop,macOS,Instagram Ads,Checkout,,No,17/02/2024 11:35,155
+CUST-01623,25/03/2024,London,United Kingdom,Mobile,iOS,Affiliate,Viewed,,No,12/04/2024 13:28,1408
+CUST-00869,27/11/2024,New York,United States,Desktop,Windows,Referral,Viewed,,No,03/12/2024 04:05,1680
+CUST-00599,30/10/2024,Dublin,Ireland,Mobile,Android,Affiliate,Added to Cart,,No,12/11/2024 16:34,469
+CUST-00154,22/08/2024,Berlin,Germany,Tablet,Android,Email Campaign,Viewed,,No,29/08/2024 16:08,1460
+CUST-00998,20/08/2024,Chicago,United States,Mobile,Android,Facebook Ads,Checkout,,No,04/09/2024 15:54,1758
+CUST-00988,03/02/2024,Los Angeles,United States,Desktop,macOS,Direct,Viewed,,No,17/02/2024 22:33,496
+CUST-00549,29/12/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Purchased,84.74 ,No,03/01/2025 23:13,1653
+CUST-00504,26/10/2024,Paris,France,Mobile,Android,Referral,Viewed,,No,08/11/2024 19:20,1565
+CUST-00263,02/02/2024,Toronto,Canada,Mobile,Android,Facebook Ads,Viewed,,No,22/02/2024 22:34,1326
+CUST-00287,23/08/2024,Leeds,United Kingdom,Tablet,iPadOS,Direct,Viewed,,No,05/09/2024 13:25,265
+CUST-00386,21/11/2024,Los Angeles,United States,Desktop,Windows,Google Search,Added to Cart,,No,08/12/2024 00:12,1241
+CUST-00110,22/09/2024,Paris,France,Mobile,iOS,Email Campaign,Viewed,,No,05/10/2024 19:38,1058
+CUST-01414,15/10/2024,Dublin,Ireland,Mobile,iOS,Direct,Viewed,,No,30/10/2024 22:22,937
+CUST-01217,25/10/2024,Birmingham,United Kingdom,Tablet,Android,Email Campaign,Viewed,,No,09/11/2024 16:29,1076
+CUST-00538,14/03/2024,London,United Kingdom,Desktop,Windows,Google Search,Viewed,,No,18/03/2024 01:30,68
+CUST-00320,07/10/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Purchased,386.42 ,No,14/10/2024 11:07,380
+CUST-01751,17/02/2024,Manchester,United Kingdom,Mobile,Android,Affiliate,Viewed,,No,08/03/2024 23:15,307
+CUST-01277,02/08/2024,London,United Kingdom,Mobile,iOS,Email Campaign,Added to Cart,,No,21/08/2024 07:22,
+CUST-01794,24/07/2024,London,United Kingdom,Tablet,iPadOS,Instagram Ads,Purchased,410.19 ,No,12/08/2024 01:28,256
+CUST-00244,30/09/2024,London,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,01/10/2024 20:12,824
+CUST-01657,05/05/2024,Melbourne,Australia,Desktop,macOS,Email Campaign,Purchased,196.30 ,No,13/05/2024 11:42,1547
+CUST-00678,01/12/2024,Leeds,United Kingdom,Desktop,macOS,Affiliate,Purchased,141.23 ,No,09/12/2024 20:47,42
+CUST-01767,12/06/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Purchased,421.49 ,No,19/06/2024 02:50,1436
+CUST-01375,28/09/2024,Sydney,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,03/10/2024 13:20,135
+CUST-01423,17/01/2024,London,United Kingdom,Tablet,Android,Referral,Viewed,,No,04/02/2024 01:00,1057
+CUST-00643,03/08/2024,Chicago,United States,Mobile,iOS,Google Search,Added to Cart,,No,13/08/2024 21:29,1264
+CUST-00488,01/12/2024,Paris,France,Mobile,iOS,Direct,Added to Cart,,No,12/12/2024 00:25,1636
+CUST-00940,22/04/2024,Paris,France,Mobile,iOS,Direct,Added to Cart,,No,26/04/2024 11:09,82
+CUST-00325,24/05/2024,Los Angeles,United States,Desktop,Windows,Referral,Added to Cart,,No,01/06/2024 19:15,1722
+CUST-00401,18/08/2024,Melbourne,Australia,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,27/08/2024 15:27,1579
+CUST-00646,11/03/2024,Manchester,United Kingdom,Desktop,macOS,Email Campaign,Purchased,55.02 ,Yes,27/03/2024 05:12,
+CUST-00805,10/07/2024,Los Angeles,United States,Mobile,Android,Direct,Checkout,,No,11/10/2024 20:51,1365
+CUST-01641,08/08/2024,Paris,France,Tablet,Android,Referral,Added to Cart,,No,17/08/2024 05:53,122
+CUST-01400,12/04/2024,Toronto,Canada,Desktop,Windows,Email Campaign,Added to Cart,,No,28/04/2024 10:17,1291
+CUST-00284,21/12/2024,Dublin,Ireland,Desktop,Windows,Direct,Purchased,292.05 ,No,03/01/2025 15:53,
+CUST-01567,04/01/2024,Paris,France,Mobile,Android,Affiliate,Added to Cart,,No,11/01/2024 13:46,833
+CUST-00179,02/08/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,23/08/2024 11:54,1320
+CUST-00460,11/05/2024,Manchester,United Kingdom,Tablet,Android,Google Search,Checkout,,No,25/05/2024 14:18,386
+CUST-00384,16/04/2024,Paris,France,Desktop,macOS,Facebook Ads,Viewed,,No,25/04/2024 04:02,1469
+CUST-01492,14/03/2024,Los Angeles,United States,Desktop,macOS,Google Search,Checkout,,No,25/03/2024 17:15,918
+CUST-01569,19/02/2024,New York,United States,Tablet,Android,Google Search,Checkout,,No,24/02/2024 06:37,650
+CUST-01397,07/10/2024,London,United Kingdom,Mobile,Android,Email Campaign,Viewed,,No,08/10/2024 05:19,937
+CUST-00683,12/02/2024,Berlin,Germany,Tablet,Android,Affiliate,Viewed,,No,20/02/2024 23:08,89
+CUST-01136,19/11/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,22/11/2024 20:38,1683
+CUST-00267,14/12/2024,London,United Kingdom,Tablet,iPadOS,Facebook Ads,Checkout,,No,21/12/2024 09:46,34
+CUST-00697,27/10/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,14/11/2024 03:20,923
+CUST-01238,26/11/2024,Sydney,Australia,Mobile,Android,Facebook Ads,Added to Cart,,No,04/12/2024 10:47,117
+CUST-01204,24/07/2024,Los Angeles,United States,Mobile,iOS,Direct,Added to Cart,,No,06/08/2024 13:37,886
+CUST-01192,24/10/2024,Dublin,Ireland,Tablet,Android,Facebook Ads,Viewed,,No,25/10/2024 20:04,854
+CUST-00838,24/05/2024,Toronto,Canada,Tablet,Android,Direct,Checkout,,No,12/06/2024 12:40,939
+CUST-00388,07/03/2024,London,United Kingdom,Desktop,Windows,Email Campaign,Added to Cart,,No,05/07/2024 15:16,1708
+CUST-00484,30/08/2024,Toronto,Canada,Mobile,iOS,Google Search,Checkout,,No,08/09/2024 10:46,781
+CUST-00028,11/04/2024,London,United Kingdom,Mobile,Android,Referral,Viewed,,No,30/04/2024 02:21,833
+CUST-00579,13/09/2024,Toronto,Canada,Desktop,macOS,Google Search,Viewed,,No,02/10/2024 10:05,63
+CUST-00659,11/07/2024,Paris,France,Tablet,Android,Affiliate,Viewed,,No,19/11/2024 17:41,1576
+CUST-01027,26/05/2024,London,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,14/06/2024 13:10,646
+CUST-01466,23/09/2024,Los Angeles,United States,Mobile,Android,Facebook Ads,Added to Cart,,No,13/10/2024 05:13,1259
+CUST-00405,20/02/2024,Leeds,United Kingdom,Desktop,macOS,Referral,Added to Cart,,No,27/02/2024 02:46,1316
+CUST-00391,24/09/2024,Los Angeles,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,27/09/2024 04:27,1429
+CUST-00305,27/05/2024,Manchester,United Kingdom,Desktop,Windows,Direct,Checkout,,No,07/06/2024 03:30,304
+CUST-00321,04/12/2024,Dublin,Ireland,Mobile,iOS,Direct,Viewed,,No,21/12/2024 06:39,1694
+CUST-01196,02/01/2024,Melbourne,Australia,Desktop,Windows,Referral,Checkout,,No,04/01/2024 10:08,1749
+CUST-01717,21/12/2024,Toronto,Canada,Desktop,Windows,Google Search,Viewed,,No,02/01/2025 23:02,1485
+CUST-01734,17/09/2024,Toronto,Canada,Mobile,Android,Referral,Viewed,,No,18/09/2024 16:13,796
+CUST-01095,16/10/2024,London,United Kingdom,Tablet,Android,Email Campaign,Viewed,,No,26/10/2024 18:39,1243
+CUST-01041,04/06/2024,Birmingham,United Kingdom,Mobile,Android,Direct,Viewed,,No,14/06/2024 04:28,
+CUST-01008,13/06/2024,Dublin,Ireland,Desktop,Windows,Referral,Checkout,,No,26/06/2024 13:28,1386
+CUST-00006,14/10/2024,Sydney,Australia,Desktop,Windows,Email Campaign,Added to Cart,,No,15/10/2024 19:37,1408
+CUST-01283,01/03/2024,Sydney,Australia,Desktop,Windows,Google Search,Added to Cart,,No,11/03/2024 11:03,1581
+CUST-01315,03/09/2024,Birmingham,United Kingdom,Desktop,macOS,Email Campaign,Viewed,,No,19/09/2024 22:33,390
+CUST-00053,29/11/2024,London,United Kingdom,Mobile,iOS,Referral,Viewed,,No,17/12/2024 05:32,46
+CUST-01347,26/12/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Added to Cart,,No,28/12/2024 22:08,1445
+CUST-00648,15/04/2024,New York,United States,Tablet,iPadOS,Email Campaign,Viewed,,No,04/05/2024 19:01,228
+CUST-00396,16/06/2024,Toronto,Canada,Desktop,Windows,Direct,Viewed,,No,28/06/2024 12:58,401
+CUST-01768,31/05/2024,Toronto,Canada,Tablet,iPadOS,Facebook Ads,Viewed,,No,15/06/2024 00:52,217
+CUST-01406,09/11/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Added to Cart,,No,11/11/2024 04:28,1696
+CUST-00193,15/02/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Added to Cart,,No,18/02/2024 06:16,874
+CUST-00795,24/07/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Viewed,,No,13/08/2024 02:37,
+CUST-00954,11/04/2024,London,United Kingdom,Mobile,Android,Referral,Purchased,32.06 ,No,12/04/2024 23:46,1049
+CUST-00955,18/07/2024,Paris,France,Desktop,Windows,Affiliate,Viewed,,No,22/07/2024 13:28,
+CUST-01407,03/10/2024,Manchester,United Kingdom,Tablet,Android,Instagram Ads,Checkout,,No,29/03/2024 21:55,1592
+CUST-01652,23/11/2024,New York,United States,Mobile,iOS,Google Search,Added to Cart,,No,07/12/2024 08:39,114
+CUST-00201,24/12/2024,Paris,France,Desktop,Windows,Facebook Ads,Checkout,,No,10/01/2025 13:41,719
+CUST-01373,27/07/2024,Chicago,United States,Desktop,Windows,Facebook Ads,Added to Cart,,No,12/08/2024 00:32,
+CUST-01775,04/02/2024,Birmingham,United Kingdom,Desktop,macOS,Google Search,Viewed,,No,14/02/2024 12:48,507
+CUST-00907,18/08/2024,London,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,29/08/2024 00:42,1032
+CUST-00117,08/10/2024,Berlin,Germany,Tablet,iPadOS,Google Search,Viewed,,No,21/10/2024 23:45,1190
+CUST-00432,24/04/2024,Berlin,Germany,Tablet,Android,Referral,Added to Cart,,No,28/04/2024 03:34,524
+CUST-01421,04/12/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Viewed,,No,11/12/2024 10:03,1077
+CUST-01723,09/09/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,14/09/2024 01:47,834
+CUST-01002,30/12/2024,Birmingham,United Kingdom,Tablet,Android,Google Search,Added to Cart,,No,14/01/2025 16:20,
+CUST-00080,16/10/2024,Chicago,United States,Desktop,macOS,Google Search,Added to Cart,,No,18/10/2024 03:24,940
+CUST-01387,21/07/2024,Birmingham,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,02/08/2024 01:45,503
+CUST-00628,24/08/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Purchased,218.74 ,No,03/09/2024 15:52,
+CUST-00447,02/05/2024,Chicago,United States,Desktop,Windows,Google Search,Purchased,407.59 ,No,22/02/2024 04:05,1450
+CUST-00634,16/07/2024,Sydney,Australia,Desktop,Windows,Google Search,Added to Cart,,No,22/07/2024 14:54,1284
+CUST-01078,07/01/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Viewed,,No,25/01/2024 04:34,1272
+CUST-00977,12/01/2024,Dublin,Ireland,Desktop,Windows,Facebook Ads,Viewed,,No,17/01/2024 12:27,658
+CUST-00775,26/04/2024,Manchester,United Kingdom,Mobile,Android,Direct,Added to Cart,,No,02/05/2024 02:31,755
+CUST-00148,06/04/2024,Manchester,United Kingdom,Desktop,Windows,Direct,Added to Cart,,No,15/06/2024 03:48,751
+CUST-01131,02/12/2024,Sydney,Australia,Tablet,Android,Direct,Added to Cart,,No,13/12/2024 00:10,1342
+CUST-01634,04/04/2024,Manchester,United Kingdom,Mobile,iOS,Direct,Viewed,,No,06/04/2024 01:45,1280
+CUST-01364,29/06/2024,New York,United States,Mobile,iOS,Facebook Ads,Viewed,,No,06/07/2024 22:57,672
+CUST-00854,14/02/2024,Dublin,Ireland,Mobile,Android,Facebook Ads,Added to Cart,,No,01/03/2024 16:17,85
+CUST-00676,11/12/2024,Toronto,Canada,Tablet,iPadOS,Direct,Added to Cart,,No,16/12/2024 03:33,931
+CUST-01018,27/10/2024,London,United Kingdom,Desktop,Windows,Google Search,Added to Cart,,No,14/11/2024 01:40,977
+CUST-01377,22/01/2024,Dublin,Ireland,Desktop,Windows,Facebook Ads,Added to Cart,,No,05/02/2024 03:48,1305
+CUST-00457,28/07/2024,Toronto,Canada,Desktop,macOS,Affiliate,Added to Cart,,No,30/07/2024 11:05,1645
+CUST-01549,07/10/2024,Sydney,Australia,Tablet,iPadOS,Google Search,Purchased,119.55 ,No,17/10/2024 17:37,
+CUST-01040,15/09/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,26/09/2024 17:17,1134
+CUST-00923,16/12/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,31/12/2024 10:22,930
+CUST-00644,19/01/2024,Sydney,Australia,Mobile,Android,Affiliate,Checkout,,No,30/01/2024 07:35,636
+CUST-01752,28/07/2024,Leeds,United Kingdom,Desktop,Windows,Facebook Ads,Viewed,,No,03/08/2024 19:23,227
+CUST-01037,22/02/2024,Manchester,United Kingdom,Mobile,iOS,Google Search,Added to Cart,,No,28/02/2024 06:57,675
+CUST-00746,25/01/2024,Paris,France,Desktop,macOS,Facebook Ads,Viewed,,No,06/02/2024 06:14,152
+CUST-00879,28/09/2024,Toronto,Canada,Desktop,macOS,Facebook Ads,Viewed,,No,11/10/2024 10:07,537
+CUST-01173,10/11/2024,Melbourne,Australia,Mobile,iOS,Referral,Checkout,,No,12/11/2024 06:49,666
+CUST-01442,15/04/2024,Chicago,United States,Mobile,Android,Facebook Ads,Purchased,289.62 ,No,17/04/2024 12:12,845
+CUST-01242,23/05/2024,Berlin,Germany,Mobile,Android,Affiliate,Added to Cart,,No,23/05/2024 17:50,125
+CUST-01664,01/05/2024,Toronto,Canada,Desktop,macOS,Email Campaign,Viewed,,No,13/05/2024 23:15,1042
+CUST-00947,12/05/2024,Dublin,Ireland,Tablet,iPadOS,Referral,Viewed,,No,28/05/2024 06:26,563
+CUST-00111,02/06/2024,Toronto,Canada,Desktop,macOS,Facebook Ads,Viewed,,No,12/06/2024 19:17,1604
+CUST-01518,20/06/2024,London,United Kingdom,Desktop,macOS,Affiliate,Viewed,,No,01/07/2024 04:22,
+CUST-01163,18/08/2024,Paris,France,Desktop,Windows,Affiliate,Viewed,,No,02/09/2024 23:05,1557
+CUST-01766,03/05/2024,Leeds,United Kingdom,Mobile,Android,Referral,Viewed,,No,12/05/2024 13:57,222
+CUST-01456,19/12/2024,Manchester,United Kingdom,Desktop,Windows,Affiliate,Viewed,,No,07/01/2025 08:02,440
+CUST-01305,25/05/2024,Leeds,United Kingdom,Mobile,Android,Google Search,Viewed,,No,13/06/2024 21:34,1677
+CUST-01284,06/10/2024,Berlin,Germany,Desktop,macOS,Facebook Ads,Added to Cart,,No,13/10/2024 19:46,1324
+CUST-00675,26/06/2024,Berlin,Germany,Tablet,iPadOS,Direct,Viewed,,No,07/07/2024 09:29,139
+CUST-01057,08/06/2024,Toronto,Canada,Tablet,iPadOS,Direct,Added to Cart,,No,15/06/2024 06:27,1261
+CUST-01252,19/10/2024,Manchester,United Kingdom,Desktop,Windows,Facebook Ads,Checkout,,No,04/11/2024 21:41,1027
+CUST-00429,19/08/2024,Manchester,United Kingdom,Mobile,Android,Facebook Ads,Viewed,,No,20/08/2024 15:49,204
+CUST-01056,24/10/2024,London,United Kingdom,Desktop,Windows,Direct,Viewed,,No,03/11/2024 23:06,551
+CUST-01336,01/02/2024,Birmingham,United Kingdom,Mobile,iOS,Referral,Added to Cart,,No,13/02/2024 04:32,872
+CUST-01188,30/04/2024,Toronto,Canada,Tablet,Android,Google Search,Viewed,,No,10/05/2024 10:01,1699
+CUST-00699,21/04/2024,Melbourne,Australia,Mobile,Android,Instagram Ads,Added to Cart,,No,23/04/2024 02:13,302
+CUST-00511,28/10/2024,London,United Kingdom,Mobile,Android,Direct,Viewed,,No,06/11/2024 09:35,728
+CUST-00531,22/06/2024,Manchester,United Kingdom,Desktop,Windows,Instagram Ads,Purchased,298.97 ,No,06/07/2024 22:36,1346
+CUST-01503,26/02/2024,Sydney,Australia,Mobile,iOS,Direct,Viewed,,No,17/03/2024 08:12,1272
+CUST-01640,20/12/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,10/01/2025 11:05,811
+CUST-00064,11/11/2024,London,United Kingdom,Desktop,macOS,Google Search,Added to Cart,,No,19/11/2024 10:51,265
+CUST-00801,13/06/2024,Manchester,United Kingdom,Mobile,Android,Instagram Ads,Purchased,349.38 ,No,14/06/2024 07:29,
+CUST-01412,25/11/2024,Toronto,Canada,Desktop,Windows,Google Search,Added to Cart,,No,13/12/2024 15:07,
+CUST-00224,23/02/2024,Berlin,Germany,Tablet,iPadOS,Google Search,Viewed,,No,09/03/2024 05:08,857
+CUST-01164,30/11/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Purchased,381.04 ,Yes,17/12/2024 01:15,1684
+CUST-00727,27/11/2024,Melbourne,Australia,Tablet,iPadOS,Facebook Ads,Checkout,,No,13/12/2024 01:26,313
+CUST-01701,15/08/2024,Manchester,United Kingdom,Desktop,macOS,Email Campaign,Viewed,,No,26/08/2024 21:56,
+CUST-01575,05/08/2024,Toronto,Canada,Desktop,Windows,Facebook Ads,Checkout,,No,13/08/2024 06:45,415
+CUST-00610,01/06/2024,Manchester,United Kingdom,Desktop,macOS,Facebook Ads,Purchased,447.19 ,Yes,05/06/2024 17:33,25
+CUST-00476,30/06/2024,Melbourne,Australia,Mobile,iOS,Instagram Ads,Purchased,238.21 ,Yes,17/07/2024 04:19,717
+CUST-01340,21/12/2024,Dublin,Ireland,Mobile,Android,Direct,Added to Cart,,No,29/12/2024 02:44,718
+CUST-00584,14/12/2024,Toronto,Canada,Tablet,Android,Email Campaign,Added to Cart,,No,15/12/2024 01:41,1696
+CUST-00704,30/10/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Purchased,145.58 ,No,02/11/2024 03:58,1197
+CUST-01580,23/05/2024,New York,United States,Mobile,iOS,Direct,Viewed,,No,03/06/2024 16:20,590
+CUST-01312,13/09/2024,New York,United States,Desktop,macOS,Affiliate,Viewed,,No,30/09/2024 06:51,1313
+CUST-00790,25/07/2024,London,United Kingdom,Tablet,iPadOS,Affiliate,Added to Cart,,No,05/08/2024 16:30,1578
+CUST-00278,30/07/2024,London,United Kingdom,Mobile,iOS,Instagram Ads,Viewed,,No,07/08/2024 17:05,984
+CUST-00873,01/05/2024,Dublin,Ireland,Desktop,macOS,Instagram Ads,Added to Cart,,No,14/05/2024 08:31,1531
+CUST-01524,25/07/2024,Los Angeles,United States,Mobile,iOS,Direct,Purchased,21.99 ,No,29/07/2024 02:34,792
+CUST-00349,29/09/2024,Toronto,Canada,Tablet,iPadOS,Instagram Ads,Added to Cart,,No,08/10/2024 21:30,1413
+CUST-01697,10/10/2024,Birmingham,United Kingdom,Mobile,iOS,Facebook Ads,Added to Cart,,No,14/10/2024 08:44,510
+CUST-01191,17/09/2024,Birmingham,United Kingdom,Tablet,iPadOS,Facebook Ads,Checkout,,No,27/09/2024 20:08,1562
+CUST-00826,07/08/2024,Manchester,United Kingdom,Tablet,Android,Email Campaign,Checkout,,No,28/08/2024 14:16,869
+CUST-00926,28/09/2024,Melbourne,Australia,Desktop,macOS,Email Campaign,Viewed,,No,16/10/2024 12:22,567
+CUST-00089,10/07/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Added to Cart,,No,11/07/2024 03:35,1717
+CUST-00226,12/10/2024,London,United Kingdom,Mobile,iOS,Referral,Viewed,,No,28/10/2024 22:18,584
+CUST-00568,01/07/2024,Chicago,United States,Mobile,Android,Email Campaign,Viewed,,No,04/07/2024 07:46,386
+CUST-00635,30/06/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Viewed,,No,19/07/2024 11:04,325
+CUST-01639,19/09/2024,Manchester,United Kingdom,Tablet,Android,Direct,Purchased,90.47 ,Yes,06/10/2024 15:23,554
+CUST-01781,25/11/2024,Melbourne,Australia,Desktop,Windows,Facebook Ads,Added to Cart,,No,25/11/2024 11:19,742
+CUST-00518,02/05/2024,Toronto,Canada,Mobile,iOS,Email Campaign,Viewed,,No,21/05/2024 02:09,299
+CUST-01351,13/11/2024,Toronto,Canada,Desktop,Windows,Direct,Added to Cart,,No,02/12/2024 04:41,1245
+CUST-01316,24/02/2024,Toronto,Canada,Desktop,Windows,Google Search,Viewed,,No,07/03/2024 13:24,384
+CUST-01401,17/07/2024,New York,United States,Mobile,iOS,Direct,Purchased,264.66 ,No,25/07/2024 20:01,
+CUST-00948,13/03/2024,Los Angeles,United States,Mobile,iOS,Referral,Viewed,,No,16/03/2024 23:33,1483
+CUST-00641,12/08/2024,London,United Kingdom,Mobile,Android,Google Search,Viewed,,No,23/08/2024 06:33,61
+CUST-00567,01/01/2024,New York,United States,Desktop,Windows,Direct,Added to Cart,,No,20/01/2024 04:10,474
+CUST-01602,04/07/2024,Los Angeles,United States,Mobile,Android,Affiliate,Added to Cart,,No,04/07/2024 20:29,1720
+CUST-00609,30/09/2024,Chicago,United States,Mobile,iOS,Facebook Ads,Added to Cart,,No,07/10/2024 13:12,656
+CUST-01688,13/09/2024,Los Angeles,United States,Mobile,Android,Google Search,Added to Cart,,No,15/09/2024 15:27,1573
+CUST-01339,02/10/2024,London,United Kingdom,Desktop,macOS,Instagram Ads,Viewed,,No,14/10/2024 14:59,126
+CUST-01491,12/01/2024,Chicago,United States,Desktop,Windows,Facebook Ads,Purchased,319.51 ,No,19/01/2024 19:41,
