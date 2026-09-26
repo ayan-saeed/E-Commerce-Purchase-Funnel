@@ -23,11 +23,6 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 ### After 
 ![Dataset After Data Cleaning](images/after-datacleaning.png)
 
-
-
-
-
 ## SQL
-### Data Validation 
 ### Business Findings
 #### ...
