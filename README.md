@@ -13,7 +13,7 @@ Note: This is a simulated dataset generated to reflect realistic e-commerce funn
 Before analysis, the raw dataset required significant cleaning in Excel using Power Query, including: 
 - splitting combined fields (`location`, `device_os`) into separate columns
 - standardising inconsistent text casings and whitespaces across all columns 
-- standardising mixed date formats 
+- standardising inconsistent formats and values across columns (e.g. mixed date formats, and inconsistent yes/no values such as "Y", "Yes", "1")
 - handling invalid negative values 
 - removing duplicate rows
 
