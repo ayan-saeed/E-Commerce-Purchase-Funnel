@@ -7,9 +7,16 @@ Note: This is a simulated dataset generated to reflect realistic e-commerce funn
 - `/SQL` - PostgreSQL queries used for funnel analysis and data exploration
 - `/Excel` - Formula-based analysis and data cleaning 
 - `/PowerBI` - Interactive dashboard for visualising funnel drop-off and conversion
-- `/Dataset` - Raw and cleaned datasets used for this project
+- `/dataset` - Raw and cleaned datasets used for this project
 
 ## Data Cleaning
+Before analysis, the raw dataset required significant cleaning in Excel using Power Query, including: 
+- splitting combined fields (`location`, `device_os`) into separate columns
+- standardising inconsistent text casings and whitespaces across all columns 
+- standardising mixed date formats 
+- handling invalid negative values 
+- removing duplicate rows
+
 ### Before 
 ![Dataset Before Data Cleaning](images/before-datacleaning.png)
 
