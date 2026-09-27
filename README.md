@@ -80,3 +80,17 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Google Search | 28 | 10.04% |
 | Affiliate | 17 | 9.24% |
 | Email Campaign | 25 | 8.74% |
+
+#### Conversion Rate by Country
+- Conversion rate ranges from 14.29% in 'Australia', to 5.71% in 'France'
+- The 'United Kingdom' drives by far the highest purchase volume (82), due to its much larger customer base (704), even though its conversion rate sits closely in the middle of the range
+
+| Country | Total Purchased | Total Customers | Conversion Rate |
+|---|---|---|---|
+| Australia | 27 | 189 | 14.29% |
+| Germany | 13 | 99 | 13.13% |
+| United Kingdom | 82 | 704 | 11.65% |
+| United States | 46 | 431 | 10.67% |
+| Ireland | 9 | 92 | 9.78% |
+| Canada | 20 | 215 | 9.30% |
+| France | 4 | 70 | 5.71% |

@@ -71,3 +71,51 @@ SELECT
     ROUND(CAST(purchased_by_source as DECIMAL) / CAST(viewed_or_further_by_source + purchased_by_source as DECIMAL) * 100, 2) as conversion_rate
 FROM PurchasedByReferral
 ORDER BY conversion_rate DESC;
+
+-- Conversion Rate by Country
+WITH PurchasedByCountry as(
+    SELECT
+        country,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Purchased' THEN 1
+            ELSE 0 END) as purchased_by_country,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Viewed' OR 
+                funnel_stage_reached = 'Added to Cart' OR 
+                funnel_stage_reached = 'Checkout' THEN 1
+            ELSE 0 END) as viewed_or_further_by_country
+    FROM customer_funnel
+    GROUP BY country
+)
+
+SELECT 
+    country,
+    purchased_by_country,
+    viewed_or_further_by_country + purchased_by_country as total_customers,
+    ROUND(CAST(purchased_by_country as DECIMAL) / CAST(viewed_or_further_by_country + purchased_by_country as DECIMAL) * 100, 2) as conversion_rate
+FROM PurchasedByCountry
+ORDER BY conversion_rate DESC;
+
+-- Conversion Rate by City
+WITH PurchasedByCity as(
+    SELECT
+        city,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Purchased' THEN 1
+            ELSE 0 END) as purchased_by_city,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Viewed' OR 
+                funnel_stage_reached = 'Added to Cart' OR 
+                funnel_stage_reached = 'Checkout' THEN 1
+            ELSE 0 END) as viewed_or_further_by_city
+    FROM customer_funnel
+    GROUP BY city
+)
+
+SELECT 
+    city,
+    purchased_by_city,
+    viewed_or_further_by_city + purchased_by_city as total_customers,
+    ROUND(CAST(purchased_by_city as DECIMAL) / CAST(viewed_or_further_by_city + purchased_by_city as DECIMAL) * 100, 2) as conversion_rate
+FROM PurchasedByCity
+ORDER BY conversion_rate DESC;
