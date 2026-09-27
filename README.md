@@ -41,4 +41,13 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 
 
 ### Business Findings
-#### ...
+#### Conversion Rate by Device Type
+- Conversion rate is nearly identical across all device types (10.05%-11.61%), closely matching the overall funnel conversion rate of 11.17%
+- 'Mobile' accounts for the highest number of purchases (93), ahead of 'Desktop' (70) and 'Tablet' (38)
+    - However, this reflects 'Mobile' having the largest customer base overall, not a higher conversion rate
+
+| Device Type | Total Purchased | Conversion Rate |
+|---|---|---|
+| Mobile | 93 | 11.61% |
+| Desktop | 70 | 11.27% |
+| Tablet | 38 | 10.05% |
