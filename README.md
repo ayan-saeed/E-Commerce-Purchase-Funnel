@@ -94,3 +94,24 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Ireland | 9 | 92 | 9.78% |
 | Canada | 20 | 215 | 9.30% |
 | France | 4 | 70 | 5.71% |
+
+#### Conversion Rate by City
+- 'Leeds' and 'Melbourne' convert best (15.15% and 14.85%), while 'Paris' remains the weakest peformer even at the city level, matching its country-level conversion rate exactly
+- Notably, London and Manchester - the UK's two highest-volume cities in the dataset (299 and 202) - convert at only 11.39%-11.71%, well below Leeds' 15.15%, in spite of the UK's strong overall country-level conversion rate (11.65%)
+- This suggests that the UK's conversion figure (11.65%) is closer to their weaker performance than to Leeds' stronger one, due to the fact that the bigger cities have more customers, leading to the average leaning toward the bigger cities' conversion rate
+
+| City | Total Purchased | Total Customers | Conversion Rate |
+|---|---|---|---|
+| Leeds | 15 | 99 | 15.15% |
+| Melbourne | 15 | 101 | 14.85% |
+| Sydney | 12 | 88 | 13.64% |
+| Berlin | 13 | 99 | 13.13% |
+| Los Angeles | 15 | 115 | 13.04% |
+| Chicago | 14 | 117 | 11.97% |
+| London | 35 | 299 | 11.71% |
+| Manchester | 23 | 202 | 11.39% |
+| Dublin | 9 | 92 | 9.78% |
+| Toronto | 20 | 215 | 9.30% |
+| Birmingham | 9 | 104 | 8.65% |
+| New York | 17 | 199 | 8.54% |
+| Paris | 4 | 70 | 5.71% |
