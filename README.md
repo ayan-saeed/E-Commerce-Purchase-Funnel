@@ -63,3 +63,10 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | iOS | 46 | 10.75% |
 | iPadOS | 21 | 10.66% |
 | macOS | 20 | 9.71% |
+
+#### Conversion Rate by Referral Source
+- Referral Source shows the clearest variation in conversion found so far in the analysis
+    - The conversion rate used in this analysis shows the share of customers from each referral source who went all the way through the funnel to make a purchase, out of everyone that source brought in
+- 'Instagram Ads' (16.20%) convert at nearly double the rate of 'Email Campaign' (8.74%)
+- 'Facebook Ads' generate the highest purchase volume (50) despite a lower rate than 'Instagram Ads'
+- 'Instagram Ads' and 'Facebook Ads' (both paid advertising on socal media platforms) may attract more purchase-ready customers through targeted product ads, while 'Email Campaigns' and 'Affiliate' links may draw a broader or more exploratory audience less ready to buy

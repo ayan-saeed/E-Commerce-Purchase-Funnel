@@ -48,3 +48,26 @@ SELECT
     purchased_by_device as total_purchased,
     ROUND(CAST(purchased_by_device as DECIMAL) / CAST(total_customers as DECIMAL) * 100, 2) as conversion_rate
 FROM PurchasedByOS;
+
+-- Conversion rate by referral_source
+WITH PurchasedByReferral as(
+    SELECT
+        referral_source,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Purchased' THEN 1
+            ELSE 0 END) as purchased_by_source,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Viewed' OR 
+                funnel_stage_reached = 'Added to Cart' OR 
+                funnel_stage_reached = 'Checkout' THEN 1
+            ELSE 0 END) as viewed_or_further_by_source
+    FROM customer_funnel
+    GROUP BY referral_source
+)
+
+SELECT 
+    referral_source,
+    purchased_by_source,
+    ROUND(CAST(purchased_by_source as DECIMAL) / CAST(viewed_or_further_by_source + purchased_by_source as DECIMAL) * 100, 2) as conversion_rate
+FROM PurchasedByReferral
+ORDER BY conversion_rate DESC;
