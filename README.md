@@ -51,3 +51,15 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Mobile | 93 | 11.61% |
 | Desktop | 70 | 11.27% |
 | Tablet | 38 | 10.05% |
+
+#### Conversion Rate by Operating System
+- Similar to Device Types, conversion rate is fairly consistent across operating systems (9.71%-12.05%), again closely matching the overall baseline of 11.17%
+- Combined with the 'device_type' findings above, it can be concluded that neither device or operating system appear to be a meaningful driver of funnel conversion in this dataset
+
+| Operating System | Total Purchased | Conversion Rate |
+|---|---|---|
+| Windows | 50 | 12.05% |
+| Android | 64 | 11.55% |
+| iOS | 46 | 10.75% |
+| iPadOS | 21 | 10.66% |
+| macOS | 20 | 9.71% |
