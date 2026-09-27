@@ -70,3 +70,13 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - 'Instagram Ads' (16.20%) convert at nearly double the rate of 'Email Campaign' (8.74%)
 - 'Facebook Ads' generate the highest purchase volume (50) despite a lower rate than 'Instagram Ads'
 - 'Instagram Ads' and 'Facebook Ads' (both paid advertising on socal media platforms) may attract more purchase-ready customers through targeted product ads, while 'Email Campaigns' and 'Affiliate' links may draw a broader or more exploratory audience less ready to buy
+
+| Referral Source | Total Purchased | Conversion Rate |
+|---|---|---|
+| Instagram Ads | 29 | 16.02% |
+| Facebook Ads | 50 | 13.44% |
+| Direct | 32 | 10.63% |
+| Referral | 20 | 10.05% |
+| Google Search | 28 | 10.04% |
+| Affiliate | 17 | 9.24% |
+| Email Campaign | 25 | 8.74% |
