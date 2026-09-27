@@ -1,4 +1,4 @@
--- Customers which reached each stage, including drop off rate
+-- Customers which reached each stage, including share of total customers
 WITH CustomersEachStage as (
     SELECT
         funnel_stage_reached as funnel_stage,

@@ -24,5 +24,21 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 ![Dataset After Data Cleaning](images/after-datacleaning.png)
 
 ## SQL
+### Finnel Overview 
+- Of the 1800 customers who entered the funnel, only 201 (11.17%) went on to complete a purchase
+- The largest single group - 822 customers (45.67%) - never progress beyond viewing a product at all, making it the single biggest point of customer loss in the entire funnel
+- A large "Viewed only" group is common, and could point to several underlying causes: 
+    - Casual browsing with no real intent to buy 
+    - Product pages that don't clearly communicate value, or quality 
+    - Customers who saw the price and decided not to continue  
+
+| Funnel Stage | Customers | Share of Total |
+|---|---|---|
+| Viewed | 822 | 45.67% |
+| Added to Cart | 561 | 31.17% |
+| Checkout | 216 | 12.00% |
+| Purchased | 201 | 11.17% |
+
+
 ### Business Findings
 #### ...
