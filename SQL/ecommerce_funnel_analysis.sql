@@ -162,3 +162,32 @@ ORDER BY conversion_rate DESC;
 
 
 -- Totals and averages of revenue by device type, referral, and country
+SELECT
+    device_type,
+    COUNT(customer_id) as total_purchased,
+    ROUND(AVG(order_value), 2) as average_order_value,
+    SUM(order_value) as total_revenue
+FROM customer_funnel
+WHERE funnel_stage_reached = 'Purchased'
+GROUP BY device_type
+ORDER BY total_revenue DESC;
+
+SELECT
+    referral_source,
+    COUNT(customer_id) as total_purchased,
+    ROUND(AVG(order_value), 2) as average_order_value,
+    SUM(order_value) as total_revenue
+FROM customer_funnel
+WHERE funnel_stage_reached = 'Purchased'
+GROUP BY referral_source
+ORDER BY total_revenue DESC;
+
+SELECT
+    country,
+    COUNT(customer_id) as total_purchased,
+    ROUND(AVG(order_value), 2) as average_order_value,
+    SUM(order_value) as total_revenue
+FROM customer_funnel
+WHERE funnel_stage_reached = 'Purchased'
+GROUP BY country
+ORDER BY total_revenue DESC;
