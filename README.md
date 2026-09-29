@@ -117,3 +117,5 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Paris | 4 | 70 | 5.71% |
 
 #### Conversion Rate by Session Duration
+
+#### Revenue by Device, Referral Source, and Country

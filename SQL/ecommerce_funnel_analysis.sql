@@ -158,9 +158,6 @@ SELECT
 FROM SessionDuration
 ORDER BY conversion_rate DESC;
 
--- Share of purchases which used a discount
-
-
 -- Totals and averages of revenue by device type, referral, and country
 SELECT
     device_type,
