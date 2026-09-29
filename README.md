@@ -115,3 +115,5 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Birmingham | 9 | 104 | 8.65% |
 | New York | 17 | 199 | 8.54% |
 | Paris | 4 | 70 | 5.71% |
+
+#### Conversion Rate by Session Duration

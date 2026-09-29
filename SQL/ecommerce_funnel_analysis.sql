@@ -72,7 +72,7 @@ SELECT
 FROM PurchasedByReferral
 ORDER BY conversion_rate DESC;
 
--- Conversion Rate by Country
+-- Conversion Rate by country
 WITH PurchasedByCountry as(
     SELECT
         country,
@@ -96,7 +96,7 @@ SELECT
 FROM PurchasedByCountry
 ORDER BY conversion_rate DESC;
 
--- Conversion Rate by City
+-- Conversion Rate by city
 WITH PurchasedByCity as(
     SELECT
         city,
@@ -119,3 +119,46 @@ SELECT
     ROUND(CAST(purchased_by_city as DECIMAL) / CAST(viewed_or_further_by_city + purchased_by_city as DECIMAL) * 100, 2) as conversion_rate
 FROM PurchasedByCity
 ORDER BY conversion_rate DESC;
+
+-- Conversion Rate by session_duration_seconds 
+WITH SessionDuration as (
+    SELECT
+        CASE WHEN session_duration_seconds IS NULL THEN 'blank'
+            WHEN session_duration_seconds >= 17 and session_duration_seconds <= 299 THEN '17-299'
+            WHEN session_duration_seconds >= 300 and session_duration_seconds <= 599 THEN '300-599'
+            WHEN session_duration_seconds >= 600 and session_duration_seconds <= 899 THEN '600-899'
+            WHEN session_duration_seconds >= 900 and session_duration_seconds <= 1199 THEN '900-1199'
+            WHEN session_duration_seconds >= 1200 and session_duration_seconds <= 1499 THEN '1200-1499'
+            WHEN session_duration_seconds >= 1500 and session_duration_seconds <= 1799 THEN '1500-1799'
+        END AS session_duration_brackets,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Purchased' THEN 1
+            ELSE 0 END) as total_purchased,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Viewed' THEN 1
+            ELSE 0 END) as total_viewed,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Added to Cart' THEN 1
+            ELSE 0 END) as total_added_to_cart,
+        SUM(CASE
+            WHEN funnel_stage_reached = 'Checkout' THEN 1
+            ELSE 0 END) as total_checkout,
+        COUNT(customer_id) as total_customers
+    FROM customer_funnel
+    GROUP BY session_duration_brackets
+)
+
+SELECT
+    session_duration_brackets,
+    total_viewed,
+    total_added_to_cart,
+    total_checkout,
+    total_purchased,
+    ROUND(CAST(total_purchased as DECIMAL) / CAST(total_customers as DECIMAL) * 100, 2) as conversion_rate
+FROM SessionDuration
+ORDER BY conversion_rate DESC;
+
+-- Share of purchases which used a discount
+
+
+-- Totals and averages of revenue by device type, referral, and country
