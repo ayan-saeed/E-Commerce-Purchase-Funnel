@@ -5,9 +5,8 @@ Note: This is a simulated dataset generated to reflect realistic e-commerce funn
 
 ## Repository Structure
 - `/SQL` - PostgreSQL queries used for funnel analysis and data exploration
-- `/Excel` - Formula-based analysis and data cleaning 
 - `/PowerBI` - Interactive dashboard for visualising funnel drop-off and conversion
-- `/dataset` - Raw and cleaned datasets used for this project
+- `/dataset` - Contains raw and cleaned datasets in excel used for this project
 
 ## Data Cleaning
 Before analysis, the raw dataset required significant cleaning in Excel using Power Query, including: 
@@ -155,3 +154,10 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - This indicates once again that customer base is a key driver of total revenue, with higher average order values having less impact when the number of customers is relatively small
 
 ## Power BI
+### Dashboard
+
+
+### Summary
+
+
+### Improvements based on Analysis
