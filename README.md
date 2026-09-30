@@ -144,6 +144,15 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - 'Mobile' generates the most total revenue primarily because it has the largest customer base, with 801 customers compared with 621 on 'Desktop' and 378 on 'Tablet'. Although 'Mobile' has the lowest average order value (£209.18), its much larger customer volume results in the highest overall revenue, indicating that revenue is being driven more by the number of customers, than by higher-value individual orders
 
 ### Revenue by Referral Source
-![Device Type Revenue](images/referral_source_revenue_pivot.png)
+![Referral Source Revenue](images/referral_source_revenue_pivot.png)
 
 - 'Facebook Ads' generate the highest total revenue (£11,813.13) becasue they have the largest customer base (372), while 'Instagram Ads' have the highest average order value (£266.24) but generate less total revenue, due to having fewer customers. Similarly to Device Types, customer volume appears to be the main driver of total revenue across Referral Sources.
+
+### Revenue by Country
+![Country Revenue](images/country_pivot.png)
+
+- The 'United Kingdom' generates the highest total revenue (£19,502.60) because it has the largest customer base (704) combined with a relatively high average order value (£237.84), while 'France' has the highest average order value (£247.40) but generates only £989.60 due to its much smaller customer base
+- This indicates once again that customer base is a key driver of total revenue, with higher average order values having less impact when the number of customers is relatively small
+
+### Revenue by Referral Source and Device
+![Referral Source and Device Revenue](images/referral_device_pivot.png)
