@@ -163,4 +163,9 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - Revenue flucuates throughout the year, with several noticeable increases and decreases, with the largest increase occuring in December, creating a clear year-end peak in revenue.
 - Possible causes for these fluctuations include seasonal shopping, promotional campaigns, increased advertising activity during these periods, etc. The December spike could potentially be associated to higher purchasing activity around the holiday period. 
 
-### Improvements based on Analysis
+### Some Improvements based on Analysis
+- 45.67% of customers (822) leave after only viewing a product, making it the largest point of customer loss. Improving product descriptions, images, pricing, etc. could encourage more customers to progress from 'Viewed' to the next stage in the funnel.
+- Improvements to deepen customer engagement could be beneficial, as customers with sessions of 15-30 minutes have stronger conversion rates (12.94%-13.46%) than customers with sessions under 15 minutes. Enhancing product-page content, targeted recommendations, and site navigation could encourage customers to engage with the products for longer and progress further down the funnel.
+- 'Instagram Ads' have the highest conversion rate at 16.02%. Prioritising higher-converting referral sources, such as Instagram and Facebook ads, while reviewing better applications for lower-converting sources, could help improve overall conversion. 
+    - Possible applications of lower-converting referral sources, such as 'Email Campaigns', could be that rather than emailing all customers, targeted emails are sent to customers who have previously shown interest in related products, using persionalised product recommendations to increase relevance and likely improve conversion. 
+- Due to the limitations of the dataset, further investigation into the December revenue peak could help identify what contributed to the increase and whether similar activity could be replicated. 
