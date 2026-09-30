@@ -161,6 +161,6 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - The overall purchase conversion rate (the proportion of customers who completed a purchase out of all customers) is 11.17%, with 201 purchases from 1,800 customers. 
 - 'Mobile', 'Facebook Ads', and the 'United Kingdom' generate the highest total revenue within their respective categories, primarily due to their large customer bases.
 - Revenue flucuates throughout the year, with several noticeable increases and decreases, with the largest increase occuring in December, creating a clear year-end peak in revenue.
-- Possible causes for these fluctuations include seasonal shopping behaviour, promotional campaigns, or increased advertising activity during these periods. The December spike could potentially be associated to higher purchasing activity around the holiday period. 
+- Possible causes for these fluctuations include seasonal shopping, promotional campaigns, increased advertising activity during these periods, etc. The December spike could potentially be associated to higher purchasing activity around the holiday period. 
 
 ### Improvements based on Analysis
