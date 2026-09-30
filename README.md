@@ -155,7 +155,7 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 
 ## Power BI
 ### Dashboard
-
+![E-Commerce Funnel Analysis Dashboard](images/power-bi-dashboard.png)
 
 ### Summary
 
