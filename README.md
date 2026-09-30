@@ -146,4 +146,4 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 ### Revenue by Referral Source
 ![Device Type Revenue](images/referral_source_pivot.png)
 
-- Facebook Ads generate the highest total revenue (£11,813.13) becasue they have the largest customer base (372), while Instagram Ads have the highest average order value (£266.24) but generate less total revenue, due to having fewer customers. Similarly to Device Types, customer volume appears to be the main driver of total revenue across Referral Sources.
+- 'Facebook Ads' generate the highest total revenue (£11,813.13) becasue they have the largest customer base (372), while 'Instagram Ads' have the highest average order value (£266.24) but generate less total revenue, due to having fewer customers. Similarly to Device Types, customer volume appears to be the main driver of total revenue across Referral Sources.
