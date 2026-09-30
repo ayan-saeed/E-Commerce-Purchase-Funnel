@@ -117,3 +117,8 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 | Paris | 4 | 70 | 5.71% |
 
 #### Conversion Rate by Session Duration
+- The 1500-1799 (25-30 minute) group has the highest conversion rate among all the non-blank brackets, at a conversion rate of 13.46%, followed by the 900-1199 (15-20 minute) group at 12.94%
+- Shorter sessions convert at lower rates, with the 17-299 second group converting at 9.34%, and the 300-599 and 600-899 groups converting at 9.64% and 9.03%
+- The 1200-1499 (20-25 minute) group sits between these ranges, with a conversion rate of 10.07%
+    - This suggests that customers who spend approximately 15-30 minutes in a session are associated with stronger purchase rates than customers with shorter sessions
+- Shorter session durations are most likely due to low product-page engagement, suggesting improvements to product information, visuals, etc. could help encourage customers to progress further through the funnel
