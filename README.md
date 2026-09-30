@@ -154,5 +154,4 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - The 'United Kingdom' generates the highest total revenue (£19,502.60) because it has the largest customer base (704) combined with a relatively high average order value (£237.84), while 'France' has the highest average order value (£247.40) but generates only £989.60 due to its much smaller customer base
 - This indicates once again that customer base is a key driver of total revenue, with higher average order values having less impact when the number of customers is relatively small
 
-### Revenue by Referral Source and Device
-![Referral Source and Device Revenue](images/referral_device_pivot.png)
+## Power BI
