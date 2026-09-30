@@ -122,3 +122,14 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 - The 1200-1499 (20-25 minute) group sits between these ranges, with a conversion rate of 10.07%
     - This suggests that customers who spend approximately 15-30 minutes in a session are associated with stronger purchase rates than customers with shorter sessions
 - Shorter session durations are most likely due to low product-page engagement, suggesting improvements to product information, visuals, etc. could help encourage customers to progress further through the funnel
+- Note: The 'Blank' category represents customers whose 'session_duration_seconds' values were set to null during data cleaning, due to invalid negative numbers
+
+| Session Duration | Total Viewed | Total Added to Cart | Total Checkout | Total Purchased | Conversion Rate |
+|---|---|---|---|---|---|
+| 17–299 seconds | 122 | 86 | 25 | 24 | 9.34% |
+| 300–599 seconds | 143 | 79 | 31 | 27 | 9.64% |
+| 600–899 seconds | 131 | 91 | 40 | 26 | 9.03% |
+| 900–1199 seconds | 138 | 71 | 40 | 37 | 12.94% |
+| 1200–1499 seconds | 117 | 103 | 30 | 28 | 10.07% |
+| 1500–1799 seconds | 136 | 95 | 39 | 42 | 13.46% |
+| Blank | 35 | 36 | 11 | 17 | 17.17% |
