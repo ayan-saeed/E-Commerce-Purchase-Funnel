@@ -138,3 +138,7 @@ Before analysis, the raw dataset required significant cleaning in Excel using Po
 ### Revenue by Device Type
 ![Device Type Revenue](images/device_type_pivot.png)
 
+- 'Mobile' has the largest customer base (801) and generates the highest total revenue at £19,453.33
+- 'Desktop' customers have a higher average order value (£231.05) than mobile customers (£209.18), despite generating less total revenue
+- 'Tablet' has a similar average order value to desktop (£230.73) but generates the lowest total revenue due to its smaller customer base (378)
+- 'Mobile' generates the most total revenue primarily because it has the largest customer base, with 801 customers compared with 621 on 'Desktop' and 378 on 'Tablet'. Although 'Mobile' has the lowest average order value (£209.18), its much larger customer volume results in the highest overall revenue, indicating that revenue is being driven more by the number of customers, than by higher-value individual orders
